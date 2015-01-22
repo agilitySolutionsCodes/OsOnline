@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:s0="http://192.168.44.42:8000/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" targetNamespace="http://192.168.44.42:8000/" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://192.168.44.42:8000/">
+      <s:element name="ALTERAR">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="TOKEN" type="s0:TOKENSTRUCT" />
+            <s:element minOccurs="1" maxOccurs="1" name="FICHABASEINSTALADA" type="s0:FICHABASEINSTALADASTRUCT" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ALTERARRESPONSE">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ALTERARRESULT" type="s0:RETORNOSTRUCT" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="INCLUIR">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="TOKEN" type="s0:TOKENSTRUCT" />
+            <s:element minOccurs="1" maxOccurs="1" name="FICHABASEINSTALADA" type="s0:FICHABASEINSTALADASTRUCT" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="INCLUIRRESPONSE">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="INCLUIRRESULT" type="s0:RETORNOSTRUCT" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="TRANSFERIR">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="TOKEN" type="s0:TOKENSTRUCT" />
+            <s:element minOccurs="1" maxOccurs="1" name="SOLICITACAOTRANSFERENCIA" type="s0:SOLICITACAOTRANSFERENCIASTRUCT" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="TRANSFERIRRESPONSE">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="TRANSFERIRRESULT" type="s0:RETORNOSTRUCT" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="FICHABASEINSTALADASTRUCT">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="ACESSORIOS" type="s0:ARRAYOFACESSORIOBASEINSTALADASTRUCT" />
+          <s:element minOccurs="1" maxOccurs="1" name="CNPJCLIENTE" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="CODIGOPRODUTO" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="CODIGOTECNICO" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="CONTATO" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="ENDERECO" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="ITEMPEDIDO" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="LOCALINSTALACAO" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="LOTE" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="MAILUSUARIO" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="MENSAGEMAPROVADOR" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="NOTAFISCAL" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="PEDIDO" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="SERIE" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="SERIENOTA" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="STATUSEQUIPAMENTO" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="TELEFONE" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="RETORNOSTRUCT">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="CHAVE" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="CODIGO" type="s:float" />
+          <s:element minOccurs="1" maxOccurs="1" name="MENSAGEM" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="SUCESSO" type="s:boolean" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="SOLICITACAOTRANSFERENCIASTRUCT">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="CNPJANTERIOR" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="CNPJNOVO" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="CODIGOPRODUTO" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="MAILUSUARIO" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="MENSAGEMAPROVADOR" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="OBSERVACAO" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="SERIEITEM" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="TOKENSTRUCT">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="CONTEUDO" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="EMPRESAFILIAL" type="s0:EMPRESAFILIALSTRUCT" />
+          <s:element minOccurs="0" maxOccurs="1" name="MENSAGEM" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="MODULO" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SENHA" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SESSIONID" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ACESSORIOBASEINSTALADASTRUCT">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="CODIGO" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LOTE" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SERIE" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="EMPRESAFILIALSTRUCT">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="EMPRESA" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FILIAL" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ARRAYOFACESSORIOBASEINSTALADASTRUCT">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="ACESSORIOBASEINSTALADASTRUCT" type="s0:ACESSORIOBASEINSTALADASTRUCT" />
+        </s:sequence>
+      </s:complexType>
+    </s:schema>
+  </types>
+  <message name="ALTERARSOAPIN">
+    <part name="parameters" element="s0:ALTERAR" />
+  </message>
+  <message name="ALTERARSOAPOUT">
+    <part name="parameters" element="s0:ALTERARRESPONSE" />
+  </message>
+  <message name="INCLUIRSOAPIN">
+    <part name="parameters" element="s0:INCLUIR" />
+  </message>
+  <message name="INCLUIRSOAPOUT">
+    <part name="parameters" element="s0:INCLUIRRESPONSE" />
+  </message>
+  <message name="TRANSFERIRSOAPIN">
+    <part name="parameters" element="s0:TRANSFERIR" />
+  </message>
+  <message name="TRANSFERIRSOAPOUT">
+    <part name="parameters" element="s0:TRANSFERIRRESPONSE" />
+  </message>
+  <portType name="WSBASEINSTALADASOAP">
+    <operation name="ALTERAR">
+      <documentation>Solicitar Alteração da Base Instalada</documentation>
+      <input message="s0:ALTERARSOAPIN" />
+      <output message="s0:ALTERARSOAPOUT" />
+    </operation>
+    <operation name="INCLUIR">
+      <documentation>Solicitar Inclusao da Base Instalada</documentation>
+      <input message="s0:INCLUIRSOAPIN" />
+      <output message="s0:INCLUIRSOAPOUT" />
+    </operation>
+    <operation name="TRANSFERIR">
+      <documentation>Solicitar Transferência da Base Instalada</documentation>
+      <input message="s0:TRANSFERIRSOAPIN" />
+      <output message="s0:TRANSFERIRSOAPOUT" />
+    </operation>
+  </portType>
+  <binding name="WSBASEINSTALADASOAP" type="s0:WSBASEINSTALADASOAP">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <operation name="ALTERAR">
+      <soap:operation soapAction="http://192.168.44.42:8000/ALTERAR" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="INCLUIR">
+      <soap:operation soapAction="http://192.168.44.42:8000/INCLUIR" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="TRANSFERIR">
+      <soap:operation soapAction="http://192.168.44.42:8000/TRANSFERIR" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+  </binding>
+  <service name="WSBASEINSTALADA">
+    <documentation>Manutenção da Base Instalada dos Parceiros</documentation>
+    <port name="WSBASEINSTALADASOAP" binding="s0:WSBASEINSTALADASOAP">
+      <soap:address location="http://192.168.44.42:8000/WSBASEINSTALADA.apw" />
+    </port>
+  </service>
+</definitions>

@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+<!--Cabeçalho e itens de Ordem de Servico-->
+<OrdemServico>
+  <itens>
+    <Atendente>000583</Atendente>
+    <Licenciado>000583</Licenciado>
+    <CodigoStatusOS />
+    <DescricaoStatusOS />
+    <NumeroOS>002166</NumeroOS>
+    <NumeroChamado>00002036</NumeroChamado>
+    <ItemChamado />
+    <DataEmissao>27/06/2011</DataEmissao>
+    <HoraEmissao />
+    <CodigoOrigem />
+    <DescricaoOrigem />
+    <CodigoTipoChamado>E</CodigoTipoChamado>
+    <TipoChamado />
+    <NomeContato>sra. selma</NomeContato>
+    <TelefoneContato>32986000</TelefoneContato>
+    <OSParceiro>6700</OSParceiro>
+    <OSAntiga>008102</OSAntiga>
+    <FilialCliente />
+    <CodigoCliente>000330</CodigoCliente>
+    <NomeCliente>fhemig-hospital e maternidade odete valadares     </NomeCliente>
+    <CGCCliente>19843929002901</CGCCliente>
+    <LojaCliente>01</LojaCliente>
+    <ProximoAtendimento>0021660101</ProximoAtendimento>
+    <ItemOS>01</ItemOS>
+    <DescricaoSituacaoOS>Atendido</DescricaoSituacaoOS>
+    <CodigoSituacaoOS>4</CodigoSituacaoOS>
+    <CodigoClassificacao>001</CodigoClassificacao>
+    <DescricaoClassificacao>corretiva                                              </DescricaoClassificacao>
+    <CodigoOcorrencia>000038</CodigoOcorrencia>
+    <DescricaoOcorrencia>equipamento descalibrado      </DescricaoOcorrencia>
+    <CodigoEtapa>07</CodigoEtapa>
+    <DescricaoEtapa>conserto interno              </DescricaoEtapa>
+    <DescricaoSituacao>Ordem de Serviço</DescricaoSituacao>
+    <CodigoSituacao>3</CodigoSituacao>
+    <D_E_L_E_T_ />
+    <DataGarantia>27/07/2002 00:00:00</DataGarantia>
+    <Versao />
+    <CodigoProduto>131.00000      </CodigoProduto>
+    <DescricaoProduto>respirador neonatal inter-3</DescricaoProduto>
+    <NumeroSerieProduto>I5-0106-03041</NumeroSerieProduto>
+    <DescrGarantia> (27/7/2002 - Fora da garantia)</DescrGarantia>
+    <SubItem />
+    <DescricaoSubItem />
+    <CodigoServico />
+    <DescricaoServico />
+    <Quantidade />
+    <ValorUnitario />
+    <Total />
+    <Comentario />
+  </itens>
+  <itens>
+    <Atendente>000583</Atendente>
+    <Licenciado>000583</Licenciado>
+    <CodigoStatusOS />
+    <DescricaoStatusOS />
+    <NumeroOS>002166</NumeroOS>
+    <NumeroChamado>00002036</NumeroChamado>
+    <ItemChamado />
+    <DataEmissao>27/06/2011</DataEmissao>
+    <HoraEmissao />
+    <CodigoOrigem />
+    <DescricaoOrigem />
+    <CodigoTipoChamado>E</CodigoTipoChamado>
+    <TipoChamado />
+    <NomeContato>sra. selma</NomeContato>
+    <TelefoneContato>32986000</TelefoneContato>
+    <OSParceiro>6700</OSParceiro>
+    <OSAntiga>008102</OSAntiga>
+    <FilialCliente />
+    <CodigoCliente>000330</CodigoCliente>
+    <NomeCliente>fhemig-hospital e maternidade odete valadares     </NomeCliente>
+    <CGCCliente>19843929002901</CGCCliente>
+    <LojaCliente>01</LojaCliente>
+    <ProximoAtendimento>0021660201</ProximoAtendimento>
+    <ItemOS>02</ItemOS>
+    <DescricaoSituacaoOS>Atendido</DescricaoSituacaoOS>
+    <CodigoSituacaoOS>4</CodigoSituacaoOS>
+    <CodigoClassificacao />
+    <DescricaoClassificacao />
+    <CodigoOcorrencia>000061</CodigoOcorrencia>
+    <DescricaoOcorrencia>orcamento tecnico interno     </DescricaoOcorrencia>
+    <CodigoEtapa>03</CodigoEtapa>
+    <DescricaoEtapa>orcamento tecnico             </DescricaoEtapa>
+    <DescricaoSituacao />
+    <CodigoSituacao />
+    <D_E_L_E_T_ />
+    <DataGarantia>27/07/2002 00:00:00</DataGarantia>
+    <Versao />
+    <CodigoProduto>131.00000      </CodigoProduto>
+    <DescricaoProduto>respirador neonatal inter-3</DescricaoProduto>
+    <NumeroSerieProduto>I5-0106-03041</NumeroSerieProduto>
+    <DescrGarantia> (27/7/2002 - Fora da garantia)</DescrGarantia>
+    <SubItem />
+    <DescricaoSubItem />
+    <CodigoServico />
+    <DescricaoServico />
+    <Quantidade />
+    <ValorUnitario />
+    <Total />
+    <Comentario />
+  </itens>
+  <itens>
+    <Atendente>000583</Atendente>
+    <Licenciado>000583</Licenciado>
+    <CodigoStatusOS />
+    <DescricaoStatusOS />
+    <NumeroOS>002166</NumeroOS>
+    <NumeroChamado>00002036</NumeroChamado>
+    <ItemChamado />
+    <DataEmissao>27/06/2011</DataEmissao>
+    <HoraEmissao />
+    <CodigoOrigem />
+    <DescricaoOrigem />
+    <CodigoTipoChamado>E</CodigoTipoChamado>
+    <TipoChamado />
+    <NomeContato>sra. selma</NomeContato>
+    <TelefoneContato>32986000</TelefoneContato>
+    <OSParceiro>6700</OSParceiro>
+    <OSAntiga>008102</OSAntiga>
+    <FilialCliente />
+    <CodigoCliente>000330</CodigoCliente>
+    <NomeCliente>fhemig-hospital e maternidade odete valadares     </NomeCliente>
+    <CGCCliente>19843929002901</CGCCliente>
+    <LojaCliente>01</LojaCliente>
+    <ProximoAtendimento>0021660301</ProximoAtendimento>
+    <ItemOS>03</ItemOS>
+    <DescricaoSituacaoOS>Atendido</DescricaoSituacaoOS>
+    <CodigoSituacaoOS>4</CodigoSituacaoOS>
+    <CodigoClassificacao />
+    <DescricaoClassificacao />
+    <CodigoOcorrencia>000066</CodigoOcorrencia>
+    <DescricaoOcorrencia>aprovacao orcamento comercial </DescricaoOcorrencia>
+    <CodigoEtapa>04</CodigoEtapa>
+    <DescricaoEtapa>orcamento comercial           </DescricaoEtapa>
+    <DescricaoSituacao />
+    <CodigoSituacao />
+    <D_E_L_E_T_ />
+    <DataGarantia>27/07/2002 00:00:00</DataGarantia>
+    <Versao />
+    <CodigoProduto>131.00000      </CodigoProduto>
+    <DescricaoProduto>respirador neonatal inter-3</DescricaoProduto>
+    <NumeroSerieProduto>I5-0106-03041</NumeroSerieProduto>
+    <DescrGarantia> (27/7/2002 - Fora da garantia)</DescrGarantia>
+    <SubItem />
+    <DescricaoSubItem />
+    <CodigoServico />
+    <DescricaoServico />
+    <Quantidade />
+    <ValorUnitario />
+    <Total />
+    <Comentario />
+  </itens>
+  <itens>
+    <Atendente>000583</Atendente>
+    <Licenciado>000583</Licenciado>
+    <CodigoStatusOS />
+    <DescricaoStatusOS />
+    <NumeroOS>002166</NumeroOS>
+    <NumeroChamado>00002036</NumeroChamado>
+    <ItemChamado />
+    <DataEmissao>27/06/2011</DataEmissao>
+    <HoraEmissao />
+    <CodigoOrigem />
+    <DescricaoOrigem />
+    <CodigoTipoChamado>E</CodigoTipoChamado>
+    <TipoChamado />
+    <NomeContato>sra. selma</NomeContato>
+    <TelefoneContato>32986000</TelefoneContato>
+    <OSParceiro>6700</OSParceiro>
+    <OSAntiga>008102</OSAntiga>
+    <FilialCliente />
+    <CodigoCliente>000330</CodigoCliente>
+    <NomeCliente>fhemig-hospital e maternidade odete valadares     </NomeCliente>
+    <CGCCliente>19843929002901</CGCCliente>
+    <LojaCliente>01</LojaCliente>
+    <ProximoAtendimento>0021660401</ProximoAtendimento>
+    <ItemOS>04</ItemOS>
+    <DescricaoSituacaoOS>O.S</DescricaoSituacaoOS>
+    <CodigoSituacaoOS>1</CodigoSituacaoOS>
+    <CodigoClassificacao />
+    <DescricaoClassificacao />
+    <CodigoOcorrencia>999999</CodigoOcorrencia>
+    <DescricaoOcorrencia>servico                       </DescricaoOcorrencia>
+    <CodigoEtapa>04</CodigoEtapa>
+    <DescricaoEtapa>orcamento comercial           </DescricaoEtapa>
+    <DescricaoSituacao />
+    <CodigoSituacao />
+    <D_E_L_E_T_ />
+    <DataGarantia>27/07/2002 00:00:00</DataGarantia>
+    <Versao />
+    <CodigoProduto>131.00000      </CodigoProduto>
+    <DescricaoProduto>respirador neonatal inter-3</DescricaoProduto>
+    <NumeroSerieProduto>I5-0106-03041</NumeroSerieProduto>
+    <DescrGarantia> (27/7/2002 - Fora da garantia)</DescrGarantia>
+    <SubItem />
+    <DescricaoSubItem />
+    <CodigoServico />
+    <DescricaoServico />
+    <Quantidade />
+    <ValorUnitario />
+    <Total />
+    <Comentario />
+  </itens>
+</OrdemServico>

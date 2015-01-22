@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile>2013-02-04T12:22:54.0000000-02:00</TimeStampOfAssociatedLegacyPublishXmlFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Themes/padrao/aguarde.gif">
+      <publishTime>06/21/2010 13:59:24</publishTime>
+    </File>
+    <File Include="App_Themes/padrao/alerta.png">
+      <publishTime>06/21/2010 13:59:24</publishTime>
+    </File>
+    <File Include="App_Themes/padrao/booyaosx.png">
+      <publishTime>06/16/2011 18:21:39</publishTime>
+    </File>
+    <File Include="App_Themes/padrao/botao.gif">
+      <publishTime>06/07/2010 18:26:38</publishTime>
+    </File>
+    <File Include="App_Themes/padrao/CallCenter.png">
+      <publishTime>06/14/2011 16:15:56</publishTime>
+    </File>
+    <File Include="App_Themes/padrao/erro.png">
+      <publishTime>06/21/2010 13:59:32</publishTime>
+    </File>
+    <File Include="App_Themes/padrao/Estilos.css">
+      <publishTime>09/05/2011 19:05:50</publishTime>
+    </File>
+    <File Include="App_Themes/padrao/GridView.css">
+      <publishTime>07/11/2011 15:08:55</publishTime>
+    </File>
+    <File Include="App_Themes/padrao/informacao.png">
+      <publishTime>06/21/2010 13:59:44</publishTime>
+    </File>
+    <File Include="App_Themes/padrao/Logo.gif">
+      <publishTime>05/09/2011 18:15:55</publishTime>
+    </File>
+    <File Include="App_Themes/padrao/pixel.png">
+      <publishTime>06/21/2010 14:00:10</publishTime>
+    </File>
+    <File Include="App_Themes/padrao/print.png">
+      <publishTime>06/16/2011 18:21:15</publishTime>
+    </File>
+    <File Include="App_Themes/padrao/search.png">
+      <publishTime>06/07/2010 18:26:54</publishTime>
+    </File>
+    <File Include="App_Themes/padrao/UserControls.css">
+      <publishTime>06/14/2011 15:11:00</publishTime>
+    </File>
+    <File Include="App_Themes/padrao/wizard.png">
+      <publishTime>05/12/2011 10:57:31</publishTime>
+    </File>
+    <File Include="bin/AjaxControlToolkit.dll">
+      <publishTime>05/12/2010 11:10:28</publishTime>
+    </File>
+    <File Include="bin/OrdemServico.dll">
+      <publishTime>09/12/2011 15:37:37</publishTime>
+    </File>
+    <File Include="bin/OrdemServico.pdb">
+      <publishTime>09/12/2011 15:37:37</publishTime>
+    </File>
+    <File Include="bin/OrdemServico.xml">
+      <publishTime>09/12/2011 15:37:37</publishTime>
+    </File>
+    <File Include="componentes/controles/AutoHideButton.ascx">
+      <publishTime>06/14/2011 16:35:22</publishTime>
+    </File>
+    <File Include="componentes/controles/BarraUsuario.ascx">
+      <publishTime>03/24/2011 11:26:43</publishTime>
+    </File>
+    <File Include="componentes/controles/ConsultaPadrao.ascx">
+      <publishTime>09/02/2011 09:51:45</publishTime>
+    </File>
+    <File Include="componentes/controles/DateBox.ascx">
+      <publishTime>05/04/2011 15:48:31</publishTime>
+    </File>
+    <File Include="componentes/controles/DescriptionBox.ascx">
+      <publishTime>05/27/2011 10:30:32</publishTime>
+    </File>
+    <File Include="componentes/controles/DetalheConsultaPadrao.ascx">
+      <publishTime>08/22/2011 17:26:45</publishTime>
+    </File>
+    <File Include="componentes/controles/HourBox.ascx">
+      <publishTime>05/06/2011 11:58:43</publishTime>
+    </File>
+    <File Include="componentes/controles/Mensagem.ascx">
+      <publishTime>05/09/2011 10:01:41</publishTime>
+    </File>
+    <File Include="componentes/controles/NumberBox.ascx">
+      <publishTime>01/21/2011 15:43:56</publishTime>
+    </File>
+    <File Include="componentes/controles/PhoneBox.ascx">
+      <publishTime>05/06/2011 11:43:28</publishTime>
+    </File>
+    <File Include="componentes/controles/pixel.png">
+      <publishTime>04/28/2010 15:02:04</publishTime>
+    </File>
+    <File Include="componentes/controles/PopupBox.ascx">
+      <publishTime>06/15/2011 16:00:36</publishTime>
+    </File>
+    <File Include="ConsultaAtendimento.aspx">
+      <publishTime>06/13/2011 17:09:53</publishTime>
+    </File>
+    <File Include="ConsultaBaseInstalada.aspx">
+      <publishTime>06/13/2011 17:09:49</publishTime>
+    </File>
+    <File Include="ConsultaChamadoTecnico.aspx">
+      <publishTime>06/14/2011 10:21:12</publishTime>
+    </File>
+    <File Include="ConsultaHistoricoProduto.aspx">
+      <publishTime>06/03/2011 12:08:13</publishTime>
+    </File>
+    <File Include="ConsultaOrdemServico.aspx">
+      <publishTime>07/08/2011 16:42:31</publishTime>
+    </File>
+    <File Include="controlesespecificos/AcessorioView.ascx">
+      <publishTime>04/07/2011 15:45:06</publishTime>
+    </File>
+    <File Include="controlesespecificos/BaseInstaladaBox.ascx">
+      <publishTime>05/04/2011 10:09:20</publishTime>
+    </File>
+    <File Include="controlesespecificos/BaseInstaladaView.ascx">
+      <publishTime>06/13/2011 17:41:07</publishTime>
+    </File>
+    <File Include="controlesespecificos/ClienteBox.ascx">
+      <publishTime>03/15/2011 11:08:28</publishTime>
+    </File>
+    <File Include="controlesespecificos/ClienteView.ascx">
+      <publishTime>08/22/2011 18:16:43</publishTime>
+    </File>
+    <File Include="controlesespecificos/PecaView.ascx">
+      <publishTime>05/05/2011 10:31:50</publishTime>
+    </File>
+    <File Include="controlesespecificos/ProdutoBox.ascx">
+      <publishTime>05/03/2011 15:53:02</publishTime>
+    </File>
+    <File Include="controlesespecificos/ProdutoView.ascx">
+      <publishTime>06/13/2011 17:44:02</publishTime>
+    </File>
+    <File Include="DetalheAtendimento.aspx">
+      <publishTime>07/21/2011 14:53:16</publishTime>
+    </File>
+    <File Include="DetalheBaseInstalada.aspx">
+      <publishTime>07/06/2011 10:31:21</publishTime>
+    </File>
+    <File Include="DetalheChamadoTecnico.aspx">
+      <publishTime>07/12/2011 16:30:08</publishTime>
+    </File>
+    <File Include="DetalheHistoricoProduto.aspx">
+      <publishTime>04/07/2011 14:56:09</publishTime>
+    </File>
+    <File Include="DetalheOrdemServico.aspx">
+      <publishTime>07/12/2011 16:39:24</publishTime>
+    </File>
+    <File Include="Erro.aspx">
+      <publishTime>01/21/2011 15:43:56</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>01/21/2011 15:43:56</publishTime>
+    </File>
+    <File Include="imagens/confirmar.png">
+      <publishTime>04/29/2010 22:35:12</publishTime>
+    </File>
+    <File Include="imagens/desfazer.png">
+      <publishTime>05/13/2010 19:25:04</publishTime>
+    </File>
+    <File Include="imagens/Editar.png">
+      <publishTime>04/29/2010 22:34:22</publishTime>
+    </File>
+    <File Include="imagens/Excluir.png">
+      <publishTime>04/29/2010 22:43:20</publishTime>
+    </File>
+    <File Include="imagens/fechar.jpg">
+      <publishTime>04/28/2010 15:02:00</publishTime>
+    </File>
+    <File Include="imagens/load.gif">
+      <publishTime>08/22/2011 16:29:49</publishTime>
+    </File>
+    <File Include="imagens/Logo.gif">
+      <publishTime>04/28/2010 15:02:02</publishTime>
+    </File>
+    <File Include="imagens/Nota.png">
+      <publishTime>05/09/2011 15:36:13</publishTime>
+    </File>
+    <File Include="imagens/Novo.png">
+      <publishTime>04/29/2010 22:33:50</publishTime>
+    </File>
+    <File Include="imagens/pixel.png">
+      <publishTime>06/07/2010 18:46:32</publishTime>
+    </File>
+    <File Include="imagens/search.png">
+      <publishTime>04/29/2010 18:03:16</publishTime>
+    </File>
+    <File Include="imagens/severidade.png">
+      <publishTime>04/30/2010 01:11:40</publishTime>
+    </File>
+    <File Include="imagens/wait18trans.gif">
+      <publishTime>04/18/2006 09:06:34</publishTime>
+    </File>
+    <File Include="ImpressaoAtendimento.aspx">
+      <publishTime>06/16/2011 18:09:46</publishTime>
+    </File>
+    <File Include="ImpressaoOrdemServico.aspx">
+      <publishTime>06/21/2011 09:37:58</publishTime>
+    </File>
+    <File Include="include.js">
+      <publishTime>06/20/2011 12:36:19</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>03/22/2011 14:08:14</publishTime>
+    </File>
+    <File Include="MasterPage.Master">
+      <publishTime>08/26/2011 10:50:25</publishTime>
+    </File>
+    <File Include="MasterPrint.Master">
+      <publishTime>03/31/2011 10:41:31</publishTime>
+    </File>
+    <File Include="SubMaster.Master">
+      <publishTime>09/02/2011 15:56:20</publishTime>
+    </File>
+    <File Include="TestPage.aspx">
+      <publishTime>06/17/2011 12:30:28</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/09/2011 20:31:14</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

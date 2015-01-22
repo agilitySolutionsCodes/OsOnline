@@ -1,0 +1,5354 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+OrdemServico
+</name>
+</assembly>
+<members>
+<member name="F:OrdemServico.AcessorioView.pnlAcessorio">
+	<summary>
+Controle pnlAcessorio.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.AcessorioView.txtCodigo">
+	<summary>
+Controle txtCodigo.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.AcessorioView.btnBusca">
+	<summary>
+Controle btnBusca.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.AcessorioView.lblDescricao">
+	<summary>
+Controle lblDescricao.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.DownloadVersao.Image2">
+	<summary>
+Image2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DownloadVersao.Image1">
+	<summary>
+Image1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DownloadVersao.updMensagem">
+	<summary>
+updMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DownloadVersao.pnlMensagem">
+	<summary>
+pnlMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DownloadVersao.oMensagem">
+	<summary>
+oMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DownloadVersao.pnlItens">
+	<summary>
+pnlItens control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DownloadVersao.grdItens">
+	<summary>
+grdItens control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.AutoHideButton.pnlAutoHide">
+	<summary>
+Controle pnlAutoHide.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.AutoHideButton.btnAutoHide">
+	<summary>
+Controle btnAutoHide.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaOrdemServico.pnlPesquisa">
+	<summary>
+pnlPesquisa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaOrdemServico.lblTitPesquisar">
+	<summary>
+lblTitPesquisar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaOrdemServico.drpTipoPequisa">
+	<summary>
+drpTipoPequisa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaOrdemServico.spanParametros">
+	<summary>
+spanParametros control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaOrdemServico.txtParametroPesquisa">
+	<summary>
+txtParametroPesquisa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaOrdemServico.txtEmissao">
+	<summary>
+txtEmissao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaOrdemServico.txtCliente">
+	<summary>
+txtCliente control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaOrdemServico.btnBuscar">
+	<summary>
+btnBuscar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaOrdemServico.pnlIncluir">
+	<summary>
+pnlIncluir control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaOrdemServico.btnIncluir">
+	<summary>
+btnIncluir control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaOrdemServico.pnlResultado">
+	<summary>
+pnlResultado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaOrdemServico.pnlItens">
+	<summary>
+pnlItens control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaOrdemServico.grdItens">
+	<summary>
+grdItens control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaOrdemServico.oMensagem">
+	<summary>
+oMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.pnlCabecalho">
+	<summary>
+pnlCabecalho control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.lblTitSerie">
+	<summary>
+lblTitSerie control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.txtSerie">
+	<summary>
+txtSerie control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.lblTitEquipamento">
+	<summary>
+lblTitEquipamento control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.lblProduto">
+	<summary>
+lblProduto control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.lblTitLote">
+	<summary>
+lblTitLote control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.txtLote">
+	<summary>
+txtLote control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.lblTitStatus">
+	<summary>
+lblTitStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.drpStatus">
+	<summary>
+drpStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.lblTitEndereco">
+	<summary>
+lblTitEndereco control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.txtEndereco">
+	<summary>
+txtEndereco control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.lblCidade">
+	<summary>
+lblCidade control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.txtCidade">
+	<summary>
+txtCidade control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.lblEstadoTit">
+	<summary>
+lblEstadoTit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.lblEstado">
+	<summary>
+lblEstado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.lblTitCliente">
+	<summary>
+lblTitCliente control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.spanParametros">
+	<summary>
+spanParametros control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.txtCliente">
+	<summary>
+txtCliente control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.lblTitTecnico">
+	<summary>
+lblTitTecnico control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.drpTecnico">
+	<summary>
+drpTecnico control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.lblTitNotaFiscal">
+	<summary>
+lblTitNotaFiscal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.txtNotaFiscal">
+	<summary>
+txtNotaFiscal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.lblTitSerieNota">
+	<summary>
+lblTitSerieNota control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.txtSerieNota">
+	<summary>
+txtSerieNota control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.lblTitPedido">
+	<summary>
+lblTitPedido control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.txtPedido">
+	<summary>
+txtPedido control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.lblTitItemPedido">
+	<summary>
+lblTitItemPedido control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.txtItemPedido">
+	<summary>
+txtItemPedido control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.lblTitDataInstalacao">
+	<summary>
+lblTitDataInstalacao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.oDataInstalacao">
+	<summary>
+oDataInstalacao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.lblTitDataVenda">
+	<summary>
+lblTitDataVenda control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.oDataVenda">
+	<summary>
+oDataVenda control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.lblTitDataGarantia">
+	<summary>
+lblTitDataGarantia control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.oDataGarantia">
+	<summary>
+oDataGarantia control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.lblTitLocalInstalacao">
+	<summary>
+lblTitLocalInstalacao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.txtLocalInstalacao">
+	<summary>
+txtLocalInstalacao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.lblTitContato">
+	<summary>
+lblTitContato control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.txtContato">
+	<summary>
+txtContato control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.lblTitTelefone">
+	<summary>
+lblTitTelefone control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.txtTelefone">
+	<summary>
+txtTelefone control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.lblRevisaoFabrica">
+	<summary>
+lblRevisaoFabrica control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.drpRevisaoFabrica">
+	<summary>
+drpRevisaoFabrica control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.UpdatePanel1">
+	<summary>
+UpdatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.pnlItens">
+	<summary>
+pnlItens control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.grdItens">
+	<summary>
+grdItens control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.pnlEmail">
+	<summary>
+pnlEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.lblTitEmail">
+	<summary>
+lblTitEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.txtEmail">
+	<summary>
+txtEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.lblTitMensagem">
+	<summary>
+lblTitMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.txtMensagem">
+	<summary>
+txtMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.pnlBotoes">
+	<summary>
+pnlBotoes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.btnIncluir">
+	<summary>
+btnIncluir control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.btnAlterar">
+	<summary>
+btnAlterar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.btnVoltar">
+	<summary>
+btnVoltar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.pnlMensagm">
+	<summary>
+pnlMensagm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheBaseInstalada.oMensagem">
+	<summary>
+oMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheChamadoTecnico.pnlUpdate">
+	<summary>
+pnlUpdate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheChamadoTecnico.pnlCabecalho">
+	<summary>
+pnlCabecalho control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheChamadoTecnico.lblTitNumero">
+	<summary>
+lblTitNumero control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheChamadoTecnico.lblNumero">
+	<summary>
+lblNumero control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheChamadoTecnico.lblTitEmissao">
+	<summary>
+lblTitEmissao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheChamadoTecnico.lblEmissao">
+	<summary>
+lblEmissao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheChamadoTecnico.lblTitTipo">
+	<summary>
+lblTitTipo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheChamadoTecnico.drpTipo">
+	<summary>
+drpTipo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheChamadoTecnico.lblChamadoAntigo">
+	<summary>
+lblChamadoAntigo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheChamadoTecnico.txtChamadoAntigo">
+	<summary>
+txtChamadoAntigo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheChamadoTecnico.lblTitCliente">
+	<summary>
+lblTitCliente control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheChamadoTecnico.spanParametros">
+	<summary>
+spanParametros control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheChamadoTecnico.txtCliente">
+	<summary>
+txtCliente control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheChamadoTecnico.lblTitContato">
+	<summary>
+lblTitContato control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheChamadoTecnico.txtContato">
+	<summary>
+txtContato control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheChamadoTecnico.txtTitTelefone">
+	<summary>
+txtTitTelefone control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheChamadoTecnico.oPhoneBox">
+	<summary>
+oPhoneBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheChamadoTecnico.txtNumOS">
+	<summary>
+txtNumOS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheChamadoTecnico.UpdatePanel1">
+	<summary>
+UpdatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheChamadoTecnico.pnlItens">
+	<summary>
+pnlItens control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheChamadoTecnico.grdItens">
+	<summary>
+grdItens control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheChamadoTecnico.pnlBotoes">
+	<summary>
+pnlBotoes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheChamadoTecnico.btnNovo">
+	<summary>
+btnNovo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheChamadoTecnico.btnIncluir">
+	<summary>
+btnIncluir control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheChamadoTecnico.btnAlterar">
+	<summary>
+btnAlterar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheChamadoTecnico.btnLimpar">
+	<summary>
+btnLimpar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheChamadoTecnico.btnVoltar">
+	<summary>
+btnVoltar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheChamadoTecnico.pnlMensagem">
+	<summary>
+pnlMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheChamadoTecnico.oMensagem">
+	<summary>
+oMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:OrdemServico.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:OrdemServico.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:OrdemServico.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:OrdemServico.Teste.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaChamadoTecnico.pnlPesquisa">
+	<summary>
+pnlPesquisa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaChamadoTecnico.lblTitPesquisar">
+	<summary>
+lblTitPesquisar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaChamadoTecnico.drpTipoPequisa">
+	<summary>
+drpTipoPequisa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaChamadoTecnico.spanParametros">
+	<summary>
+spanParametros control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaChamadoTecnico.txtParametroPesquisa">
+	<summary>
+txtParametroPesquisa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaChamadoTecnico.txtEmissao">
+	<summary>
+txtEmissao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaChamadoTecnico.txtCliente">
+	<summary>
+txtCliente control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaChamadoTecnico.btnBuscar">
+	<summary>
+btnBuscar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaChamadoTecnico.pnlIncluir">
+	<summary>
+pnlIncluir control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaChamadoTecnico.btnIncluir">
+	<summary>
+btnIncluir control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaChamadoTecnico.pnlResultado">
+	<summary>
+pnlResultado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaChamadoTecnico.pnlItens">
+	<summary>
+pnlItens control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaChamadoTecnico.grdItens">
+	<summary>
+grdItens control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaChamadoTecnico.oMensagem">
+	<summary>
+oMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.Erro.lblTitulo">
+	<summary>
+lblTitulo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.Erro.pnlErro">
+	<summary>
+pnlErro control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.Erro.lblSubTitulo1">
+	<summary>
+lblSubTitulo1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.Erro.lblMensagem">
+	<summary>
+lblMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.Erro.lblDetalhe">
+	<summary>
+lblDetalhe control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.pnlUpdate">
+	<summary>
+pnlUpdate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.pnlCabecalho">
+	<summary>
+pnlCabecalho control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.lblTitNumero">
+	<summary>
+lblTitNumero control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.lblChamado">
+	<summary>
+lblChamado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.lblOrdemServico">
+	<summary>
+lblOrdemServico control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.lblTitEmissao">
+	<summary>
+lblTitEmissao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.lblEmissao">
+	<summary>
+lblEmissao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.lblTitTipo">
+	<summary>
+lblTitTipo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.drpTipo">
+	<summary>
+drpTipo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.lblOSAntiga">
+	<summary>
+lblOSAntiga control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.txtOSAntiga">
+	<summary>
+txtOSAntiga control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.lblTitCliente">
+	<summary>
+lblTitCliente control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.spanParametros">
+	<summary>
+spanParametros control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.txtCliente">
+	<summary>
+txtCliente control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.lblTitContato">
+	<summary>
+lblTitContato control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.txtContato">
+	<summary>
+txtContato control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.txtTitTelefone">
+	<summary>
+txtTitTelefone control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.oPhoneBox">
+	<summary>
+oPhoneBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.lblOSParceiro">
+	<summary>
+lblOSParceiro control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.txtOSParceiro">
+	<summary>
+txtOSParceiro control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.UpdatePanel1">
+	<summary>
+UpdatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.pnlItens">
+	<summary>
+pnlItens control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.grdItens">
+	<summary>
+grdItens control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.containerAnexo">
+	<summary>
+containerAnexo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.UploadAnexoUm">
+	<summary>
+UploadAnexoUm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.TxtDescArquivoUm">
+	<summary>
+TxtDescArquivoUm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.UploadAnexoDois">
+	<summary>
+UploadAnexoDois control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.TxtDescArquivoDois">
+	<summary>
+TxtDescArquivoDois control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.UploadAnexoTres">
+	<summary>
+UploadAnexoTres control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.TxtDescArquivoTres">
+	<summary>
+TxtDescArquivoTres control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.containerAnexados">
+	<summary>
+containerAnexados control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.LblTituloAnexo">
+	<summary>
+LblTituloAnexo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.LtlConteudo">
+	<summary>
+LtlConteudo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.pnlBotoes">
+	<summary>
+pnlBotoes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.btnNovo">
+	<summary>
+btnNovo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.btnIncluir">
+	<summary>
+btnIncluir control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.btnAlterar">
+	<summary>
+btnAlterar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.btnImprimir">
+	<summary>
+btnImprimir control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.btnImpimirAtend">
+	<summary>
+btnImpimirAtend control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.btnLimpar">
+	<summary>
+btnLimpar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.btnVoltar">
+	<summary>
+btnVoltar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.btnAnexar">
+	<summary>
+btnAnexar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.pnlMensagem">
+	<summary>
+pnlMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.oMensagem">
+	<summary>
+oMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheOrdemServico.oPopupBox">
+	<summary>
+oPopupBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.FaleConosco.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.FaleConosco.txtNome">
+	<summary>
+txtNome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.FaleConosco.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.FaleConosco.txtEmail">
+	<summary>
+txtEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.FaleConosco.lblAssunto">
+	<summary>
+lblAssunto control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.FaleConosco.drpAssunto">
+	<summary>
+drpAssunto control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.FaleConosco.lblDescricao">
+	<summary>
+lblDescricao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.FaleConosco.txtDescricao">
+	<summary>
+txtDescricao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.FaleConosco.containerAnexo">
+	<summary>
+containerAnexo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.FaleConosco.UploadAnexoUm">
+	<summary>
+UploadAnexoUm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.FaleConosco.pnlBotoes">
+	<summary>
+pnlBotoes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.FaleConosco.btnEnviar">
+	<summary>
+btnEnviar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.FaleConosco.pnlMensagm">
+	<summary>
+pnlMensagm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.FaleConosco.oMensagem">
+	<summary>
+oMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoHistoricoAtendimento.lblTitEmpresa">
+	<summary>
+lblTitEmpresa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoHistoricoAtendimento.lblTitTitulo">
+	<summary>
+lblTitTitulo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoHistoricoAtendimento.lblSerie">
+	<summary>
+lblSerie control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoHistoricoAtendimento.imgLogoIntermed">
+	<summary>
+imgLogoIntermed control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoHistoricoAtendimento.litConteudo">
+	<summary>
+litConteudo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoHistoricoAtendimento.pnlBotoes">
+	<summary>
+pnlBotoes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoHistoricoAtendimento.btnVoltar">
+	<summary>
+btnVoltar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoHistoricoAtendimento.pnlMensagm">
+	<summary>
+pnlMensagm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoHistoricoAtendimento.oMensagem">
+	<summary>
+oMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.PopupBox.pnlMensagem">
+	<summary>
+Controle pnlMensagem.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.PopupBox.pnlCabecalho">
+	<summary>
+Controle pnlCabecalho.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.PopupBox.lblTitulo">
+	<summary>
+Controle lblTitulo.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.PopupBox.pnlCorpo">
+	<summary>
+Controle pnlCorpo.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.PopupBox.lblMensagem">
+	<summary>
+Controle lblMensagem.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.PopupBox.Label1">
+	<summary>
+Controle Label1.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.PopupBox.rdbOpcao1">
+	<summary>
+Controle rdbOpcao1.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.PopupBox.lblValor1">
+	<summary>
+Controle lblValor1.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.PopupBox.Label2">
+	<summary>
+Controle Label2.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.PopupBox.rdbOpcao2">
+	<summary>
+Controle rdbOpcao2.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.PopupBox.lblValor2">
+	<summary>
+Controle lblValor2.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.PopupBox.pnlRodape">
+	<summary>
+Controle pnlRodape.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.PopupBox.btnOk">
+	<summary>
+Controle btnOk.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.PopupBox.HiddenForModal">
+	<summary>
+Controle HiddenForModal.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.PopupBox.HiddenForModal_ModalPopupExtender">
+	<summary>
+Controle HiddenForModal_ModalPopupExtender.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.MasterPage.head">
+	<summary>
+head control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.MasterPage.frmPrincipal">
+	<summary>
+frmPrincipal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.MasterPage.oScriptManager">
+	<summary>
+oScriptManager control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.MasterPage.objLogout">
+	<summary>
+objLogout control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.MasterPage.lnkHome">
+	<summary>
+lnkHome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.MasterPage.cMaster">
+	<summary>
+cMaster control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.SubMaster.oBarraUsuario">
+	<summary>
+oBarraUsuario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.SubMaster.menuOsOnline">
+	<summary>
+menuOsOnline control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.SubMaster.SubMaster">
+	<summary>
+SubMaster control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="M:OrdemServico.wsmicrosiga.utilagility.WSUTILAGILITY.#ctor">
+	<remarks/>
+</member><member name="E:OrdemServico.wsmicrosiga.utilagility.WSUTILAGILITY.WEBGETMVCompleted">
+	<remarks/>
+</member><member name="M:OrdemServico.wsmicrosiga.utilagility.WSUTILAGILITY.WEBGETMV(OrdemServico.wsmicrosiga.utilagility.TKNSTRUCT,System.String)">
+	<remarks/>
+</member><member name="M:OrdemServico.wsmicrosiga.utilagility.WSUTILAGILITY.WEBGETMVAsync(OrdemServico.wsmicrosiga.utilagility.TKNSTRUCT,System.String)">
+	<remarks/>
+</member><member name="M:OrdemServico.wsmicrosiga.utilagility.WSUTILAGILITY.WEBGETMVAsync(OrdemServico.wsmicrosiga.utilagility.TKNSTRUCT,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:OrdemServico.wsmicrosiga.utilagility.WSUTILAGILITY.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:OrdemServico.wsmicrosiga.utilagility.WSUTILAGILITY">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.utilagility.TKNSTRUCT.CONTEUDO">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.utilagility.TKNSTRUCT.EMPRESAFILIAL">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.utilagility.TKNSTRUCT.MENSAGEM">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.utilagility.TKNSTRUCT.MODULO">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.utilagility.TKNSTRUCT.SENHA">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.utilagility.TKNSTRUCT.SESSIONID">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.utilagility.TKNSTRUCT.SISTEMA">
+	<remarks/>
+</member><member name="T:OrdemServico.wsmicrosiga.utilagility.TKNSTRUCT">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.utilagility.EMPFILIALSTRUCT.EMPRESA">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.utilagility.EMPFILIALSTRUCT.FILIAL">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.utilagility.EMPFILIALSTRUCT.FILPAR">
+	<remarks/>
+</member><member name="T:OrdemServico.wsmicrosiga.utilagility.EMPFILIALSTRUCT">
+	<remarks/>
+</member><member name="T:OrdemServico.wsmicrosiga.utilagility.WEBGETMVCompletedEventHandler">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.utilagility.WEBGETMVCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:OrdemServico.wsmicrosiga.utilagility.WEBGETMVCompletedEventArgs">
+	<remarks/>
+</member><member name="F:OrdemServico.ClienteView.lblFound">
+	<summary>
+lblFound control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ClienteView.updCabecalho">
+	<summary>
+updCabecalho control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ClienteView.pnlEdicao">
+	<summary>
+pnlEdicao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ClienteView.txtCodigo">
+	<summary>
+txtCodigo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ClienteView.lblBarra">
+	<summary>
+lblBarra control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ClienteView.txtLoja">
+	<summary>
+txtLoja control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ClienteView.txtCnpj">
+	<summary>
+txtCnpj control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ClienteView.txtCnpj_MaskedEditExtender">
+	<summary>
+txtCnpj_MaskedEditExtender control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ClienteView.txtCnpj_MaskedEditValidator">
+	<summary>
+txtCnpj_MaskedEditValidator control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ClienteView.btnBusca">
+	<summary>
+btnBusca control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ClienteView.imgNotFound">
+	<summary>
+imgNotFound control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ClienteView.lblNome">
+	<summary>
+lblNome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ClienteView.oDetalhe">
+	<summary>
+oDetalhe control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaPadrao.pnlConsultaPadrao">
+	<summary>
+Controle pnlConsultaPadrao.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaPadrao.pnlParametros">
+	<summary>
+Controle pnlParametros.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaPadrao.drpTipoPesquisa">
+	<summary>
+Controle drpTipoPesquisa.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaPadrao.txtParametroPesquisa">
+	<summary>
+Controle txtParametroPesquisa.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaPadrao.wucAutoHideButton">
+	<summary>
+Controle wucAutoHideButton.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaPadrao.oMensagem">
+	<summary>
+Controle oMensagem.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaPadrao.grdPesquisar">
+	<summary>
+Controle grdPesquisar.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.AlteracaoBaseInstalada.lblTitBaseInstalada">
+	<summary>
+lblTitBaseInstalada control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.AlteracaoBaseInstalada.UpdatePanel1">
+	<summary>
+UpdatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.AlteracaoBaseInstalada.pnlItens">
+	<summary>
+pnlItens control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.AlteracaoBaseInstalada.grdItens">
+	<summary>
+grdItens control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.AlteracaoBaseInstalada.pnlMensagm">
+	<summary>
+pnlMensagm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.AlteracaoBaseInstalada.oMensagem">
+	<summary>
+oMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.AlteracaoBaseInstalada.pnlBotoes">
+	<summary>
+pnlBotoes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.AlteracaoBaseInstalada.btnConfirmar">
+	<summary>
+btnConfirmar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.AlteracaoBaseInstalada.btnVoltar">
+	<summary>
+btnVoltar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaBaseInstalada.pnlPesquisa">
+	<summary>
+pnlPesquisa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaBaseInstalada.lblTitPesquisar">
+	<summary>
+lblTitPesquisar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaBaseInstalada.drpTipoPequisa">
+	<summary>
+drpTipoPequisa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaBaseInstalada.spanParametros">
+	<summary>
+spanParametros control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaBaseInstalada.txtParametroPesquisa">
+	<summary>
+txtParametroPesquisa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaBaseInstalada.txtEmissao">
+	<summary>
+txtEmissao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaBaseInstalada.txtCliente">
+	<summary>
+txtCliente control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaBaseInstalada.btnBuscar">
+	<summary>
+btnBuscar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaBaseInstalada.pnlResultado">
+	<summary>
+pnlResultado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaBaseInstalada.pnlItens">
+	<summary>
+pnlItens control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaBaseInstalada.grdItens">
+	<summary>
+grdItens control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaBaseInstalada.oMensagem">
+	<summary>
+oMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ProdutoView.lblFound">
+	<summary>
+Controle lblFound.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.ProdutoView.updCabecalho">
+	<summary>
+Controle updCabecalho.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.ProdutoView.lblPrecoVenda1">
+	<summary>
+Controle lblPrecoVenda1.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.ProdutoView.pnlEdicao">
+	<summary>
+Controle pnlEdicao.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.ProdutoView.txtCodigo">
+	<summary>
+Controle txtCodigo.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.ProdutoView.btnBusca">
+	<summary>
+Controle btnBusca.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.ProdutoView.imgNotFound">
+	<summary>
+Controle imgNotFound.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.ProdutoView.txtNome2">
+	<summary>
+Controle txtNome2.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.ProdutoView.pnlVisualizacao">
+	<summary>
+Controle pnlVisualizacao.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.ProdutoView.lblCodigo">
+	<summary>
+Controle lblCodigo.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.ProdutoView.lblNome">
+	<summary>
+Controle lblNome.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.ProdutoView.oDetalhe">
+	<summary>
+Controle oDetalhe.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOSAtendimento.lblTitEmpresa">
+	<summary>
+lblTitEmpresa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOSAtendimento.lblTitTitulo">
+	<summary>
+lblTitTitulo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOSAtendimento.lblNumero">
+	<summary>
+lblNumero control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOSAtendimento.imgLogoIntermed">
+	<summary>
+imgLogoIntermed control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOSAtendimento.lblTitCliente">
+	<summary>
+lblTitCliente control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOSAtendimento.lblCliente">
+	<summary>
+lblCliente control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOSAtendimento.lblTitEndereco">
+	<summary>
+lblTitEndereco control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOSAtendimento.lblEndereco">
+	<summary>
+lblEndereco control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOSAtendimento.lblTitContato">
+	<summary>
+lblTitContato control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOSAtendimento.lblContato">
+	<summary>
+lblContato control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOSAtendimento.lblTitTelefone">
+	<summary>
+lblTitTelefone control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOSAtendimento.lblTelefone">
+	<summary>
+lblTelefone control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOSAtendimento.lblTitChamado">
+	<summary>
+lblTitChamado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOSAtendimento.lblChamado">
+	<summary>
+lblChamado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOSAtendimento.lblTitDataChamado">
+	<summary>
+lblTitDataChamado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOSAtendimento.lblDataChamado">
+	<summary>
+lblDataChamado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOSAtendimento.lblTitHoraChamado">
+	<summary>
+lblTitHoraChamado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOSAtendimento.lblHoraChamado">
+	<summary>
+lblHoraChamado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOSAtendimento.lblTitObservacao">
+	<summary>
+lblTitObservacao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOSAtendimento.lblObservacao">
+	<summary>
+lblObservacao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOSAtendimento.litConteudo">
+	<summary>
+litConteudo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOSAtendimento.pnlCliente">
+	<summary>
+pnlCliente control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOSAtendimento.lblTitAssCli">
+	<summary>
+lblTitAssCli control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOSAtendimento.lblAssCli">
+	<summary>
+lblAssCli control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOSAtendimento.lblAprovador">
+	<summary>
+lblAprovador control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOSAtendimento.lblTitAprovador">
+	<summary>
+lblTitAprovador control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOSAtendimento.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOSAtendimento.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOSAtendimento.pnlBotoes">
+	<summary>
+pnlBotoes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOSAtendimento.btnVoltar">
+	<summary>
+btnVoltar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOSAtendimento.pnlMensagm">
+	<summary>
+pnlMensagm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOSAtendimento.oMensagem">
+	<summary>
+oMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="M:OrdemServico.wsmicrosiga.ordemservico.WSORDEMSERVICO.#ctor">
+	<remarks/>
+</member><member name="E:OrdemServico.wsmicrosiga.ordemservico.WSORDEMSERVICO.ALTERARCompleted">
+	<remarks/>
+</member><member name="E:OrdemServico.wsmicrosiga.ordemservico.WSORDEMSERVICO.ATENDERCompleted">
+	<remarks/>
+</member><member name="E:OrdemServico.wsmicrosiga.ordemservico.WSORDEMSERVICO.INCLUIRCompleted">
+	<remarks/>
+</member><member name="E:OrdemServico.wsmicrosiga.ordemservico.WSORDEMSERVICO.INCLUIROSCompleted">
+	<remarks/>
+</member><member name="M:OrdemServico.wsmicrosiga.ordemservico.WSORDEMSERVICO.ALTERAR(OrdemServico.wsmicrosiga.ordemservico.TKNSTRUCT,OrdemServico.wsmicrosiga.ordemservico.FICHAORDEMSERVICOSTRUCT)">
+	<remarks/>
+</member><member name="M:OrdemServico.wsmicrosiga.ordemservico.WSORDEMSERVICO.ALTERARAsync(OrdemServico.wsmicrosiga.ordemservico.TKNSTRUCT,OrdemServico.wsmicrosiga.ordemservico.FICHAORDEMSERVICOSTRUCT)">
+	<remarks/>
+</member><member name="M:OrdemServico.wsmicrosiga.ordemservico.WSORDEMSERVICO.ALTERARAsync(OrdemServico.wsmicrosiga.ordemservico.TKNSTRUCT,OrdemServico.wsmicrosiga.ordemservico.FICHAORDEMSERVICOSTRUCT,System.Object)">
+	<remarks/>
+</member><member name="M:OrdemServico.wsmicrosiga.ordemservico.WSORDEMSERVICO.ATENDER(OrdemServico.wsmicrosiga.ordemservico.TKNSTRUCT,OrdemServico.wsmicrosiga.ordemservico.FICHAATENDIMENTOSTRUCT)">
+	<remarks/>
+</member><member name="M:OrdemServico.wsmicrosiga.ordemservico.WSORDEMSERVICO.ATENDERAsync(OrdemServico.wsmicrosiga.ordemservico.TKNSTRUCT,OrdemServico.wsmicrosiga.ordemservico.FICHAATENDIMENTOSTRUCT)">
+	<remarks/>
+</member><member name="M:OrdemServico.wsmicrosiga.ordemservico.WSORDEMSERVICO.ATENDERAsync(OrdemServico.wsmicrosiga.ordemservico.TKNSTRUCT,OrdemServico.wsmicrosiga.ordemservico.FICHAATENDIMENTOSTRUCT,System.Object)">
+	<remarks/>
+</member><member name="M:OrdemServico.wsmicrosiga.ordemservico.WSORDEMSERVICO.INCLUIR(OrdemServico.wsmicrosiga.ordemservico.TKNSTRUCT,OrdemServico.wsmicrosiga.ordemservico.FICHAORDEMSERVICOSTRUCT)">
+	<remarks/>
+</member><member name="M:OrdemServico.wsmicrosiga.ordemservico.WSORDEMSERVICO.INCLUIRAsync(OrdemServico.wsmicrosiga.ordemservico.TKNSTRUCT,OrdemServico.wsmicrosiga.ordemservico.FICHAORDEMSERVICOSTRUCT)">
+	<remarks/>
+</member><member name="M:OrdemServico.wsmicrosiga.ordemservico.WSORDEMSERVICO.INCLUIRAsync(OrdemServico.wsmicrosiga.ordemservico.TKNSTRUCT,OrdemServico.wsmicrosiga.ordemservico.FICHAORDEMSERVICOSTRUCT,System.Object)">
+	<remarks/>
+</member><member name="M:OrdemServico.wsmicrosiga.ordemservico.WSORDEMSERVICO.INCLUIROS(OrdemServico.wsmicrosiga.ordemservico.TKNSTRUCT,OrdemServico.wsmicrosiga.ordemservico.FICHAORDEMSERVICOSTRUCT)">
+	<remarks/>
+</member><member name="M:OrdemServico.wsmicrosiga.ordemservico.WSORDEMSERVICO.INCLUIROSAsync(OrdemServico.wsmicrosiga.ordemservico.TKNSTRUCT,OrdemServico.wsmicrosiga.ordemservico.FICHAORDEMSERVICOSTRUCT)">
+	<remarks/>
+</member><member name="M:OrdemServico.wsmicrosiga.ordemservico.WSORDEMSERVICO.INCLUIROSAsync(OrdemServico.wsmicrosiga.ordemservico.TKNSTRUCT,OrdemServico.wsmicrosiga.ordemservico.FICHAORDEMSERVICOSTRUCT,System.Object)">
+	<remarks/>
+</member><member name="M:OrdemServico.wsmicrosiga.ordemservico.WSORDEMSERVICO.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:OrdemServico.wsmicrosiga.ordemservico.WSORDEMSERVICO">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.TKNSTRUCT.CONTEUDO">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.TKNSTRUCT.EMPRESAFILIAL">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.TKNSTRUCT.MENSAGEM">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.TKNSTRUCT.MODULO">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.TKNSTRUCT.SENHA">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.TKNSTRUCT.SESSIONID">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.TKNSTRUCT.SISTEMA">
+	<remarks/>
+</member><member name="T:OrdemServico.wsmicrosiga.ordemservico.TKNSTRUCT">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.EMPFILIALSTRUCT.EMPRESA">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.EMPFILIALSTRUCT.FILIAL">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.EMPFILIALSTRUCT.FILPAR">
+	<remarks/>
+</member><member name="T:OrdemServico.wsmicrosiga.ordemservico.EMPFILIALSTRUCT">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.ITEMATENDIMENTOSTRUCT.CODIGOPRODUTONOVO">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.ITEMATENDIMENTOSTRUCT.D_E_L_E_T_">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.ITEMATENDIMENTOSTRUCT.NUMEROITEM">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.ITEMATENDIMENTOSTRUCT.NUMEROLOTE">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.ITEMATENDIMENTOSTRUCT.NUMEROSERIENOVO">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.ITEMATENDIMENTOSTRUCT.NUMEROSERIEPECAS">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.ITEMATENDIMENTOSTRUCT.QUANTIDADE">
+	<remarks/>
+</member><member name="T:OrdemServico.wsmicrosiga.ordemservico.ITEMATENDIMENTOSTRUCT">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.FICHAATENDIMENTOSTRUCT.APROVADO2ATENDIMENTO">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.FICHAATENDIMENTOSTRUCT.APROVADOATENDIMENTO">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.FICHAATENDIMENTOSTRUCT.BLOQUEIOATENDIMENTO">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.FICHAATENDIMENTOSTRUCT.CAUSAPROVAVEL">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.FICHAATENDIMENTOSTRUCT.CODIGODEFEITO">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.FICHAATENDIMENTOSTRUCT.CODIGOGARANTIA">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.FICHAATENDIMENTOSTRUCT.CODIGOOCORRENCIA">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.FICHAATENDIMENTOSTRUCT.CODIGOSERVICO">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.FICHAATENDIMENTOSTRUCT.CODIGOSITUACAO">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.FICHAATENDIMENTOSTRUCT.CODIGOTECNICO">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.FICHAATENDIMENTOSTRUCT.DATAFIM">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.FICHAATENDIMENTOSTRUCT.DATAINICIO">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.FICHAATENDIMENTOSTRUCT.DEFEITOCONSTATADO">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.FICHAATENDIMENTOSTRUCT.HORAFIM">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.FICHAATENDIMENTOSTRUCT.HORAINICIO">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.FICHAATENDIMENTOSTRUCT.INCLUIITEMOS">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.FICHAATENDIMENTOSTRUCT.ITENS">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.FICHAATENDIMENTOSTRUCT.MODOATENDIMENTO">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.FICHAATENDIMENTOSTRUCT.NUMEROATENDIMENTOOS">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.FICHAATENDIMENTOSTRUCT.NUMEROSERIEEQUIP">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.FICHAATENDIMENTOSTRUCT.ORDEMSERVICO">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.FICHAATENDIMENTOSTRUCT.SEQUENCIAATENDIMENTOOS">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.FICHAATENDIMENTOSTRUCT.SERVICOEXECUTADO">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.FICHAATENDIMENTOSTRUCT.TRASLADO">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.FICHAATENDIMENTOSTRUCT.VERSAOATUAL">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.FICHAATENDIMENTOSTRUCT.VERSAOSOFTWARE">
+	<remarks/>
+</member><member name="T:OrdemServico.wsmicrosiga.ordemservico.FICHAATENDIMENTOSTRUCT">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.RETSTRUCT.CHAVE">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.RETSTRUCT.CODIGO">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.RETSTRUCT.MENSAGEM">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.RETSTRUCT.SUCESSO">
+	<remarks/>
+</member><member name="T:OrdemServico.wsmicrosiga.ordemservico.RETSTRUCT">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.ITEMORDEMSERVICOSTRUCT.CODIGOCLASSIFICACAO">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.ITEMORDEMSERVICOSTRUCT.CODIGOETAPA">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.ITEMORDEMSERVICOSTRUCT.CODIGOOCORRENCIA">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.ITEMORDEMSERVICOSTRUCT.CODIGOPRODUTO">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.ITEMORDEMSERVICOSTRUCT.CODIGOSITUACAO">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.ITEMORDEMSERVICOSTRUCT.CODIGOSTATUS">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.ITEMORDEMSERVICOSTRUCT.COMENTARIO">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.ITEMORDEMSERVICOSTRUCT.D_E_L_E_T_">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.ITEMORDEMSERVICOSTRUCT.NUMEROITEM">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.ITEMORDEMSERVICOSTRUCT.NUMEROSERIE">
+	<remarks/>
+</member><member name="T:OrdemServico.wsmicrosiga.ordemservico.ITEMORDEMSERVICOSTRUCT">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.ANEXOORDEMSERVICOSTRUCT.D_E_L_E_T_">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.ANEXOORDEMSERVICOSTRUCT.DESCARQUIVO">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.ANEXOORDEMSERVICOSTRUCT.NOMEARQUIVO">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.ANEXOORDEMSERVICOSTRUCT.SEQARQUIVO">
+	<remarks/>
+</member><member name="T:OrdemServico.wsmicrosiga.ordemservico.ANEXOORDEMSERVICOSTRUCT">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.FICHAORDEMSERVICOSTRUCT.ANEXOS">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.FICHAORDEMSERVICOSTRUCT.CHAMADOOS">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.FICHAORDEMSERVICOSTRUCT.CNPJ">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.FICHAORDEMSERVICOSTRUCT.CODIGOCLIENTE">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.FICHAORDEMSERVICOSTRUCT.CONTATO">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.FICHAORDEMSERVICOSTRUCT.ITENS">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.FICHAORDEMSERVICOSTRUCT.NUMEROCHAMADO">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.FICHAORDEMSERVICOSTRUCT.NUMEROORDEMSERVICO">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.FICHAORDEMSERVICOSTRUCT.NUMEROOSPARC">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.FICHAORDEMSERVICOSTRUCT.TELEFONE">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.FICHAORDEMSERVICOSTRUCT.TIPO">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.FICHAORDEMSERVICOSTRUCT.TIPOORDEMSERVICO">
+	<remarks/>
+</member><member name="T:OrdemServico.wsmicrosiga.ordemservico.FICHAORDEMSERVICOSTRUCT">
+	<remarks/>
+</member><member name="T:OrdemServico.wsmicrosiga.ordemservico.ALTERARCompletedEventHandler">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.ALTERARCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:OrdemServico.wsmicrosiga.ordemservico.ALTERARCompletedEventArgs">
+	<remarks/>
+</member><member name="T:OrdemServico.wsmicrosiga.ordemservico.ATENDERCompletedEventHandler">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.ATENDERCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:OrdemServico.wsmicrosiga.ordemservico.ATENDERCompletedEventArgs">
+	<remarks/>
+</member><member name="T:OrdemServico.wsmicrosiga.ordemservico.INCLUIRCompletedEventHandler">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.INCLUIRCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:OrdemServico.wsmicrosiga.ordemservico.INCLUIRCompletedEventArgs">
+	<remarks/>
+</member><member name="T:OrdemServico.wsmicrosiga.ordemservico.INCLUIROSCompletedEventHandler">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.ordemservico.INCLUIROSCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:OrdemServico.wsmicrosiga.ordemservico.INCLUIROSCompletedEventArgs">
+	<remarks/>
+</member><member name="F:OrdemServico.ConsultaHistoricoProduto.pnlPesquisa">
+	<summary>
+pnlPesquisa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaHistoricoProduto.lblTitPesquisar">
+	<summary>
+lblTitPesquisar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaHistoricoProduto.drpTipoPequisa">
+	<summary>
+drpTipoPequisa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaHistoricoProduto.spanParametros">
+	<summary>
+spanParametros control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaHistoricoProduto.txtParametroPesquisa">
+	<summary>
+txtParametroPesquisa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaHistoricoProduto.btnBuscar">
+	<summary>
+btnBuscar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaHistoricoProduto.hdnNumSerie">
+	<summary>
+hdnNumSerie control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaHistoricoProduto.tcHistoricoProduto">
+	<summary>
+tcHistoricoProduto control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaHistoricoProduto.tpChamado">
+	<summary>
+tpChamado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaHistoricoProduto.pnlResultado">
+	<summary>
+pnlResultado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaHistoricoProduto.pnlItens">
+	<summary>
+pnlItens control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaHistoricoProduto.grdChamado">
+	<summary>
+grdChamado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaHistoricoProduto.tpOs">
+	<summary>
+tpOs control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaHistoricoProduto.pnlResultadoOS">
+	<summary>
+pnlResultadoOS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaHistoricoProduto.Panel1">
+	<summary>
+Panel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaHistoricoProduto.grdOs">
+	<summary>
+grdOs control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaHistoricoProduto.tbAtendimento">
+	<summary>
+tbAtendimento control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaHistoricoProduto.Panel2">
+	<summary>
+Panel2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaHistoricoProduto.Panel3">
+	<summary>
+Panel3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaHistoricoProduto.grdAtendimento">
+	<summary>
+grdAtendimento control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaHistoricoProduto.btnImprimir">
+	<summary>
+btnImprimir control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaHistoricoProduto.oMensagem">
+	<summary>
+oMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DateBox.txtDateBox">
+	<summary>
+Controle txtDateBox.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.DateBox.txtDateBox_MaskedEditExtender">
+	<summary>
+Controle txtDateBox_MaskedEditExtender.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.DateBox.txtDateBox_CalendarExtender">
+	<summary>
+Controle txtDateBox_CalendarExtender.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.DescriptionBoxSmall.imgDescricao">
+	<summary>
+imgDescricao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DescriptionBoxSmall.pnlDescricao">
+	<summary>
+pnlDescricao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DescriptionBoxSmall.pnlTopBar">
+	<summary>
+pnlTopBar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DescriptionBoxSmall.imgFechar">
+	<summary>
+imgFechar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DescriptionBoxSmall.lblTopBar">
+	<summary>
+lblTopBar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DescriptionBoxSmall.txtDescricao">
+	<summary>
+txtDescricao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DescriptionBoxSmall.btnFechar">
+	<summary>
+btnFechar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.updCabecalho">
+	<summary>
+updCabecalho control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.pnlCabecalho">
+	<summary>
+pnlCabecalho control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.txtModoAtendimento">
+	<summary>
+txtModoAtendimento control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.hdnAlteracaoItem">
+	<summary>
+hdnAlteracaoItem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.hdnTpAtendimento">
+	<summary>
+hdnTpAtendimento control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.hdnDtEmissaoOS">
+	<summary>
+hdnDtEmissaoOS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.lblTitNumero">
+	<summary>
+lblTitNumero control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.lblNumero">
+	<summary>
+lblNumero control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.lblTitSequencia">
+	<summary>
+lblTitSequencia control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.lblSequencia">
+	<summary>
+lblSequencia control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.lblTitSerie">
+	<summary>
+lblTitSerie control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.lblSerie">
+	<summary>
+lblSerie control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.lblTitGarantia">
+	<summary>
+lblTitGarantia control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.lblDtGarantia">
+	<summary>
+lblDtGarantia control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.txtPossuiGarantia">
+	<summary>
+txtPossuiGarantia control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.lblTitVersaoSoft">
+	<summary>
+lblTitVersaoSoft control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.lblVersaoSoft">
+	<summary>
+lblVersaoSoft control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.lblMsgAtualizarVersao">
+	<summary>
+lblMsgAtualizarVersao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.lblTitVersaoAtual">
+	<summary>
+lblTitVersaoAtual control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.lblVersaoAtual">
+	<summary>
+lblVersaoAtual control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.lblTitTecnico">
+	<summary>
+lblTitTecnico control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.drpTecnico">
+	<summary>
+drpTecnico control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.lblTitOcorrencia">
+	<summary>
+lblTitOcorrencia control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.drpOcorrencia">
+	<summary>
+drpOcorrencia control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.lblTitDataInicio">
+	<summary>
+lblTitDataInicio control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.oDataInicio">
+	<summary>
+oDataInicio control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.lblTitHoraInicio">
+	<summary>
+lblTitHoraInicio control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.oHoraInicio">
+	<summary>
+oHoraInicio control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.lblTitDataTermino">
+	<summary>
+lblTitDataTermino control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.oDataTermino">
+	<summary>
+oDataTermino control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.lblTitHoraTermino">
+	<summary>
+lblTitHoraTermino control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.oHoraTermino">
+	<summary>
+oHoraTermino control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.lblTitTranslado">
+	<summary>
+lblTitTranslado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.txtTranslado">
+	<summary>
+txtTranslado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.lblTitStatus">
+	<summary>
+lblTitStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.drpStatus">
+	<summary>
+drpStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.lblTitHorasFaturadas">
+	<summary>
+lblTitHorasFaturadas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.oHorasFaturadas">
+	<summary>
+oHorasFaturadas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.lblTitIncluirItemOS">
+	<summary>
+lblTitIncluirItemOS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.drpIncluirItemOS">
+	<summary>
+drpIncluirItemOS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.UpdatePanel2">
+	<summary>
+UpdatePanel2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.pnlEtapas">
+	<summary>
+pnlEtapas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.grdEtapas">
+	<summary>
+grdEtapas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.pnlAprovacaoOS">
+	<summary>
+pnlAprovacaoOS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.lblTitROT">
+	<summary>
+lblTitROT control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.drpROTAprovado">
+	<summary>
+drpROTAprovado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.lblAprovacao2">
+	<summary>
+lblAprovacao2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.drpAprovacao2">
+	<summary>
+drpAprovacao2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.pnlEnviaAnalise">
+	<summary>
+pnlEnviaAnalise control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.chkEnviaAnalise">
+	<summary>
+chkEnviaAnalise control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.lblDefeito">
+	<summary>
+lblDefeito control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.drpDefeito">
+	<summary>
+drpDefeito control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.lblServico">
+	<summary>
+lblServico control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.drpServico">
+	<summary>
+drpServico control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.pnlDescricaoROT">
+	<summary>
+pnlDescricaoROT control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.lblTitRelROT">
+	<summary>
+lblTitRelROT control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.txtROT">
+	<summary>
+txtROT control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.pnlDescricaoOS2">
+	<summary>
+pnlDescricaoOS2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.lblAnaliseOS2">
+	<summary>
+lblAnaliseOS2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.txtAnaliseOS2">
+	<summary>
+txtAnaliseOS2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.lblTitDefeito">
+	<summary>
+lblTitDefeito control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.txtDefeito">
+	<summary>
+txtDefeito control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.lblTitCausa">
+	<summary>
+lblTitCausa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.txtCausa">
+	<summary>
+txtCausa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.lblTitServExecutado">
+	<summary>
+lblTitServExecutado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.txtServExecutado">
+	<summary>
+txtServExecutado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.UpdatePanel1">
+	<summary>
+UpdatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.pnlItens">
+	<summary>
+pnlItens control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.grdItens">
+	<summary>
+grdItens control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.pnlBotoes">
+	<summary>
+pnlBotoes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.btnIncluir">
+	<summary>
+btnIncluir control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.btnAlterar">
+	<summary>
+btnAlterar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.btnAlterarComPedido">
+	<summary>
+btnAlterarComPedido control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.btnImprimir">
+	<summary>
+btnImprimir control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.btnVoltar">
+	<summary>
+btnVoltar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.pnlMensagm">
+	<summary>
+pnlMensagm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.oMensagem">
+	<summary>
+oMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DetalheAtendimento.oPopupBox">
+	<summary>
+oPopupBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ProdutoBox.pnlProdutoBox">
+	<summary>
+Controle pnlProdutoBox.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.ProdutoBox.lblCodigo">
+	<summary>
+Controle lblCodigo.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.ProdutoBox.lblNome">
+	<summary>
+Controle lblNome.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="P:OrdemServico.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:OrdemServico.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:OrdemServico.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:OrdemServico.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:OrdemServico.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:OrdemServico.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:OrdemServico.HourBox.txtHour">
+	<summary>
+Controle txtHour.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.HourBox.txtHour_MaskedEditExtender">
+	<summary>
+Controle txtHour_MaskedEditExtender.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.HourBox.txtTelefone_MaskedEditValidator">
+	<summary>
+Controle txtTelefone_MaskedEditValidator.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.DetalheConsultaPadrao.updDetalhe">
+	<summary>
+Controle updDetalhe.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.DetalheConsultaPadrao.pnlConsulta">
+	<summary>
+Controle pnlConsulta.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.DetalheConsultaPadrao.pnlTopBar">
+	<summary>
+Controle pnlTopBar.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.DetalheConsultaPadrao.imgFechar">
+	<summary>
+Controle imgFechar.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.DetalheConsultaPadrao.lblTopBar">
+	<summary>
+Controle lblTopBar.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.DetalheConsultaPadrao.pnlConteudoConsulta">
+	<summary>
+Controle pnlConteudoConsulta.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.DetalheConsultaPadrao.oConsulta">
+	<summary>
+Controle oConsulta.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.BaseInstaladaBox.pnlBaseInstaladaBox">
+	<summary>
+pnlBaseInstaladaBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.BaseInstaladaBox.lblSerie">
+	<summary>
+lblSerie control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.BaseInstaladaBox.lblNome">
+	<summary>
+lblNome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.BaseInstaladaBox.lblGarantia">
+	<summary>
+lblGarantia control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.BaseInstaladaBox.lblCodigo">
+	<summary>
+lblCodigo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.Login.lblTitulo">
+	<summary>
+lblTitulo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.Login.objLogin">
+	<summary>
+objLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.Login.oMsgErro">
+	<summary>
+oMsgErro control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.Login.oMensagem">
+	<summary>
+oMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:OrdemServico.Login.Master">
+	<summary>
+Master property.
+</summary>
+	<remarks>
+Auto-generated property.
+</remarks>
+</member><member name="F:OrdemServico.ClienteBox.pnlConteudo">
+	<summary>
+Controle pnlConteudo.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.ClienteBox.lblCodigo">
+	<summary>
+Controle lblCodigo.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.ClienteBox.lblBarra">
+	<summary>
+Controle lblBarra.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.ClienteBox.lblLoja">
+	<summary>
+Controle lblLoja.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.ClienteBox.lblCPF_CNPJ">
+	<summary>
+Controle lblCPF_CNPJ.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.ClienteBox.lblNome">
+	<summary>
+Controle lblNome.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.Mensagem.pnlMensagem">
+	<summary>
+Controle pnlMensagem.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.Mensagem.imgIcone">
+	<summary>
+Controle imgIcone.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.Mensagem.lblMensagem">
+	<summary>
+Controle lblMensagem.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.NumberBox.txtNumberBox">
+	<summary>
+txtNumberBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.NumberBox.txtNumberBox_NumericUpDownExtender">
+	<summary>
+txtNumberBox_NumericUpDownExtender control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.NumberBox.txtNumberBox_FilteredTextBoxExtender">
+	<summary>
+txtNumberBox_FilteredTextBoxExtender control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.NumberBox.spanBotoes">
+	<summary>
+spanBotoes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="M:OrdemServico.wsmicrosiga.useragility.WSUSERAGILITY.#ctor">
+	<remarks/>
+</member><member name="E:OrdemServico.wsmicrosiga.useragility.WSUSERAGILITY.AUTENTICARCompleted">
+	<remarks/>
+</member><member name="M:OrdemServico.wsmicrosiga.useragility.WSUSERAGILITY.AUTENTICAR(OrdemServico.wsmicrosiga.useragility.TKNSTRUCT)">
+	<remarks/>
+</member><member name="M:OrdemServico.wsmicrosiga.useragility.WSUSERAGILITY.AUTENTICARAsync(OrdemServico.wsmicrosiga.useragility.TKNSTRUCT)">
+	<remarks/>
+</member><member name="M:OrdemServico.wsmicrosiga.useragility.WSUSERAGILITY.AUTENTICARAsync(OrdemServico.wsmicrosiga.useragility.TKNSTRUCT,System.Object)">
+	<remarks/>
+</member><member name="M:OrdemServico.wsmicrosiga.useragility.WSUSERAGILITY.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:OrdemServico.wsmicrosiga.useragility.WSUSERAGILITY">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.useragility.TKNSTRUCT.CONTEUDO">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.useragility.TKNSTRUCT.EMPRESAFILIAL">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.useragility.TKNSTRUCT.MENSAGEM">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.useragility.TKNSTRUCT.MODULO">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.useragility.TKNSTRUCT.SENHA">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.useragility.TKNSTRUCT.SESSIONID">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.useragility.TKNSTRUCT.SISTEMA">
+	<remarks/>
+</member><member name="T:OrdemServico.wsmicrosiga.useragility.TKNSTRUCT">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.useragility.EMPFILIALSTRUCT.EMPRESA">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.useragility.EMPFILIALSTRUCT.FILIAL">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.useragility.EMPFILIALSTRUCT.FILPAR">
+	<remarks/>
+</member><member name="T:OrdemServico.wsmicrosiga.useragility.EMPFILIALSTRUCT">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.useragility.USUARIOSTRUCT.ACESSOMENU">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.useragility.USUARIOSTRUCT.EMAIL">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.useragility.USUARIOSTRUCT.FILIAIS">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.useragility.USUARIOSTRUCT.GRUPOS">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.useragility.USUARIOSTRUCT.GRUPOUSUARIO">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.useragility.USUARIOSTRUCT.NOME">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.useragility.USUARIOSTRUCT.REGIOES">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.useragility.USUARIOSTRUCT.TOKEN">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.useragility.USUARIOSTRUCT.USERID">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.useragility.USUARIOSTRUCT.USERNAME">
+	<remarks/>
+</member><member name="T:OrdemServico.wsmicrosiga.useragility.USUARIOSTRUCT">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.useragility.RETSTRUCT.CHAVE">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.useragility.RETSTRUCT.CODIGO">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.useragility.RETSTRUCT.MENSAGEM">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.useragility.RETSTRUCT.SUCESSO">
+	<remarks/>
+</member><member name="T:OrdemServico.wsmicrosiga.useragility.RETSTRUCT">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.useragility.VALIDASTRUCT.RETORNO">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.useragility.VALIDASTRUCT.USUARIO">
+	<remarks/>
+</member><member name="T:OrdemServico.wsmicrosiga.useragility.VALIDASTRUCT">
+	<remarks/>
+</member><member name="T:OrdemServico.wsmicrosiga.useragility.AUTENTICARCompletedEventHandler">
+	<remarks/>
+</member><member name="P:OrdemServico.wsmicrosiga.useragility.AUTENTICARCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:OrdemServico.wsmicrosiga.useragility.AUTENTICARCompletedEventArgs">
+	<remarks/>
+</member><member name="F:OrdemServico.DescriptionBox.imgDescricao">
+	<summary>
+Controle imgDescricao.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.DescriptionBox.pnlDescricao">
+	<summary>
+Controle pnlDescricao.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.DescriptionBox.pnlTopBar">
+	<summary>
+Controle pnlTopBar.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.DescriptionBox.imgFechar">
+	<summary>
+Controle imgFechar.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.DescriptionBox.lblTopBar">
+	<summary>
+Controle lblTopBar.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.DescriptionBox.txtDescricao">
+	<summary>
+Controle txtDescricao.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.DescriptionBox.btnConfirmar">
+	<summary>
+Controle btnConfirmar.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.DescriptionBoxItens.imgDescricao">
+	<summary>
+imgDescricao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DescriptionBoxItens.pnlDescricao">
+	<summary>
+pnlDescricao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DescriptionBoxItens.pnlTopBar">
+	<summary>
+pnlTopBar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DescriptionBoxItens.imgFechar">
+	<summary>
+imgFechar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DescriptionBoxItens.lblTopBar">
+	<summary>
+lblTopBar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DescriptionBoxItens.lblNumAtendimento">
+	<summary>
+lblNumAtendimento control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DescriptionBoxItens.grdItens">
+	<summary>
+grdItens control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DescriptionBoxItens.oMensagem">
+	<summary>
+oMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.DescriptionBoxItens.btnFechar">
+	<summary>
+btnFechar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaAtendimento.pnlPesquisa">
+	<summary>
+pnlPesquisa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaAtendimento.lblTitPesquisar">
+	<summary>
+lblTitPesquisar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaAtendimento.drpTipoPequisa">
+	<summary>
+drpTipoPequisa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaAtendimento.spanParametros">
+	<summary>
+spanParametros control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaAtendimento.txtParametroPesquisa">
+	<summary>
+txtParametroPesquisa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaAtendimento.txtEmissao">
+	<summary>
+txtEmissao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaAtendimento.txtCliente">
+	<summary>
+txtCliente control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaAtendimento.btnBuscar">
+	<summary>
+btnBuscar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaAtendimento.pnlResultado">
+	<summary>
+pnlResultado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaAtendimento.pnlItens">
+	<summary>
+pnlItens control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaAtendimento.grdItens">
+	<summary>
+grdItens control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaAtendimento.imgAz">
+	<summary>
+imgAz control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaAtendimento.ImgAm">
+	<summary>
+ImgAm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaAtendimento.imgV">
+	<summary>
+imgV control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaAtendimento.Image1">
+	<summary>
+Image1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaAtendimento.Image2">
+	<summary>
+Image2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ConsultaAtendimento.oMensagem">
+	<summary>
+oMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.PecaView.pnlProdutoSerie">
+	<summary>
+Controle pnlProdutoSerie.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.PecaView.txtSerie">
+	<summary>
+Controle txtSerie.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.PecaView.btnBusca">
+	<summary>
+Controle btnBusca.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.PecaView.lblDescricao">
+	<summary>
+Controle lblDescricao.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.PecaView.lblFound">
+	<summary>
+Controle lblFound.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.PecaView.imgNotFound">
+	<summary>
+Controle imgNotFound.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.PecaView.lblCodigo">
+	<summary>
+Controle lblCodigo.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblTitEmpresa">
+	<summary>
+lblTitEmpresa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblTitTitulo">
+	<summary>
+lblTitTitulo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblTitNumero">
+	<summary>
+lblTitNumero control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblNumero">
+	<summary>
+lblNumero control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblTitSequencia">
+	<summary>
+lblTitSequencia control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblSequencia">
+	<summary>
+lblSequencia control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.imgLogoIntermed">
+	<summary>
+imgLogoIntermed control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblTitCliente">
+	<summary>
+lblTitCliente control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblCliente">
+	<summary>
+lblCliente control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblTitEndereco">
+	<summary>
+lblTitEndereco control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblEndereco">
+	<summary>
+lblEndereco control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblTitContato">
+	<summary>
+lblTitContato control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblContato">
+	<summary>
+lblContato control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblTitTelefone">
+	<summary>
+lblTitTelefone control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblTelefone">
+	<summary>
+lblTelefone control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblTitChamado">
+	<summary>
+lblTitChamado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblChamado">
+	<summary>
+lblChamado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblTitDataChamado">
+	<summary>
+lblTitDataChamado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblDataChamado">
+	<summary>
+lblDataChamado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblTitHoraChamado">
+	<summary>
+lblTitHoraChamado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblHoraChamado">
+	<summary>
+lblHoraChamado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblTitObservacao">
+	<summary>
+lblTitObservacao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblObservacao">
+	<summary>
+lblObservacao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblTitProduto">
+	<summary>
+lblTitProduto control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblProduto">
+	<summary>
+lblProduto control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblTitSerie">
+	<summary>
+lblTitSerie control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblSerie">
+	<summary>
+lblSerie control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblTitOcorrencia">
+	<summary>
+lblTitOcorrencia control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblOcorrencia">
+	<summary>
+lblOcorrencia control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblCodigoOcorrencia">
+	<summary>
+lblCodigoOcorrencia control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblTitGarantia">
+	<summary>
+lblTitGarantia control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblGarantia">
+	<summary>
+lblGarantia control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblTitDataInicio">
+	<summary>
+lblTitDataInicio control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblDataInicio">
+	<summary>
+lblDataInicio control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblTitHoraInicio">
+	<summary>
+lblTitHoraInicio control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblHoraInicio">
+	<summary>
+lblHoraInicio control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblTitDataTermino">
+	<summary>
+lblTitDataTermino control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblDataTermino">
+	<summary>
+lblDataTermino control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblTitHoraTermino">
+	<summary>
+lblTitHoraTermino control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblHoraTermino">
+	<summary>
+lblHoraTermino control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblTitDefeito">
+	<summary>
+lblTitDefeito control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblDefeito">
+	<summary>
+lblDefeito control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblTitCausa">
+	<summary>
+lblTitCausa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblCausa">
+	<summary>
+lblCausa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblTitServExecutado">
+	<summary>
+lblTitServExecutado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblServExecutado">
+	<summary>
+lblServExecutado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.grdItens">
+	<summary>
+grdItens control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.pnlCliente">
+	<summary>
+pnlCliente control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblTitAssCli">
+	<summary>
+lblTitAssCli control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblAssCli">
+	<summary>
+lblAssCli control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblAprovador">
+	<summary>
+lblAprovador control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.lblTitAprovador">
+	<summary>
+lblTitAprovador control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.pnlBotoes">
+	<summary>
+pnlBotoes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.btnVoltar">
+	<summary>
+btnVoltar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.pnlMensagm">
+	<summary>
+pnlMensagm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoAtendimento.oMensagem">
+	<summary>
+oMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="M:OrdemServico.DetalheOrdemServico.ProcurarMesmaOcorrencia(System.String,System.String,System.String,System.String)">
+	<summary>
+ Verifica se o número de série e a ocorrência são iguais em itens diferentes.
+ </summary>
+	<param name="nrItem"></param>
+	<param name="nrSerie"></param>
+	<param name="ocorrencia"></param>
+	<param name="D_E_L_E_T_"></param>
+	<returns>Retorna o número do registro duplicado, se não existir duplicidade retorna em branco</returns>
+	<remarks></remarks>
+</member><member name="F:OrdemServico.PhoneBox.txtPhone">
+	<summary>
+Controle txtPhone.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.PhoneBox.txtPhone_MaskedEditExtender">
+	<summary>
+Controle txtPhone_MaskedEditExtender.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.PhoneBox.txtTelefone_MaskedEditValidator">
+	<summary>
+Controle txtTelefone_MaskedEditValidator.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.PopupBoxYesNo.pnlMensagem">
+	<summary>
+pnlMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.PopupBoxYesNo.pnlCabecalho">
+	<summary>
+pnlCabecalho control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.PopupBoxYesNo.lblTitulo">
+	<summary>
+lblTitulo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.PopupBoxYesNo.pnlCorpo">
+	<summary>
+pnlCorpo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.PopupBoxYesNo.lblMensagem">
+	<summary>
+lblMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.PopupBoxYesNo.txtSelecionadoSim">
+	<summary>
+txtSelecionadoSim control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.PopupBoxYesNo.pnlRodape">
+	<summary>
+pnlRodape control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.PopupBoxYesNo.btnSim">
+	<summary>
+btnSim control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.PopupBoxYesNo.btnNao">
+	<summary>
+btnNao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.PopupBoxYesNo.HiddenForModal">
+	<summary>
+HiddenForModal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.PopupBoxYesNo.HiddenForModal_ModalPopupExtender">
+	<summary>
+HiddenForModal_ModalPopupExtender control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.BarraUsuario.pnlBarraUsuario">
+	<summary>
+pnlBarraUsuario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.BarraUsuario.lblLocalAtual">
+	<summary>
+lblLocalAtual control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.BarraUsuario.lblTitNomeUsuario">
+	<summary>
+lblTitNomeUsuario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.BarraUsuario.lblNomeCompleto">
+	<summary>
+lblNomeCompleto control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.BaseInstaladaView.lblFound">
+	<summary>
+lblFound control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.BaseInstaladaView.updCabecalho">
+	<summary>
+updCabecalho control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.BaseInstaladaView.pnlEdicao">
+	<summary>
+pnlEdicao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.BaseInstaladaView.txtSerie">
+	<summary>
+txtSerie control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.BaseInstaladaView.btnBusca">
+	<summary>
+btnBusca control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.BaseInstaladaView.imgNotFound">
+	<summary>
+imgNotFound control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.BaseInstaladaView.lblNome2">
+	<summary>
+lblNome2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.BaseInstaladaView.lblGarantia">
+	<summary>
+lblGarantia control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.BaseInstaladaView.pnlVisualizacao">
+	<summary>
+pnlVisualizacao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.BaseInstaladaView.lblSerie">
+	<summary>
+lblSerie control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.BaseInstaladaView.lblNome">
+	<summary>
+lblNome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.BaseInstaladaView.lblCodigo">
+	<summary>
+lblCodigo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.BaseInstaladaView.lblGarantia2">
+	<summary>
+lblGarantia2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.BaseInstaladaView.oDetalhe">
+	<summary>
+oDetalhe control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="M:OrdemServico.DetalheChamadoTecnico.ProcurarMesmaOcorrencia(System.String,System.String,System.String,System.String)">
+	<summary>
+ Verifica se o número de série e a ocorrência são iguais em itens diferentes.
+ </summary>
+	<param name="nrItem"></param>
+	<param name="nrSerie"></param>
+	<param name="ocorrencia"></param>
+	<param name="D_E_L_E_T"></param>
+	<returns>Retorna o número do registro duplicado, se não existir duplicidade retorna em branco</returns>
+	<remarks></remarks>
+</member><member name="F:OrdemServico.ImpressaoOrdemServico.lblTitEmpresa">
+	<summary>
+lblTitEmpresa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOrdemServico.lblTitTitulo">
+	<summary>
+lblTitTitulo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOrdemServico.lblTitNumero">
+	<summary>
+lblTitNumero control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOrdemServico.lblNumero">
+	<summary>
+lblNumero control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOrdemServico.imgLogoIntermed">
+	<summary>
+imgLogoIntermed control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOrdemServico.lblTitCliente">
+	<summary>
+lblTitCliente control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOrdemServico.lblCliente">
+	<summary>
+lblCliente control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOrdemServico.lblTitDataEmissao">
+	<summary>
+lblTitDataEmissao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOrdemServico.lblDataEmissao">
+	<summary>
+lblDataEmissao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOrdemServico.lblTitAtendente">
+	<summary>
+lblTitAtendente control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOrdemServico.lblAtendente">
+	<summary>
+lblAtendente control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOrdemServico.lblTitCondicaoPagamento">
+	<summary>
+lblTitCondicaoPagamento control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOrdemServico.lblCondicaoPagamento">
+	<summary>
+lblCondicaoPagamento control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOrdemServico.lblTitDesconto">
+	<summary>
+lblTitDesconto control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOrdemServico.lblDesconto">
+	<summary>
+lblDesconto control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOrdemServico.grdItens">
+	<summary>
+grdItens control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOrdemServico.lblTitTotal">
+	<summary>
+lblTitTotal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOrdemServico.lblTotal">
+	<summary>
+lblTotal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOrdemServico.lblObservação">
+	<summary>
+lblObservação control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOrdemServico.lblTitAssCli">
+	<summary>
+lblTitAssCli control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOrdemServico.lblAssCli">
+	<summary>
+lblAssCli control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOrdemServico.lblAprovador">
+	<summary>
+lblAprovador control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOrdemServico.lblTitAprovador">
+	<summary>
+lblTitAprovador control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOrdemServico.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOrdemServico.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOrdemServico.pnlBotoes">
+	<summary>
+pnlBotoes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOrdemServico.btnVoltar">
+	<summary>
+btnVoltar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOrdemServico.pnlMensagm">
+	<summary>
+pnlMensagm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.ImpressaoOrdemServico.oMensagem">
+	<summary>
+oMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OrdemServico.MasterPrint.head">
+	<summary>
+Controle head.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.MasterPrint.frmPrint">
+	<summary>
+Controle frmPrint.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:OrdemServico.MasterPrint.ContentPlaceHolder1">
+	<summary>
+Controle ContentPlaceHolder1.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member>
+</members>
+</doc>

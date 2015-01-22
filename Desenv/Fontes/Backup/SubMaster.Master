@@ -1,0 +1,46 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="SubMaster.master.vb" Inherits="OrdemServico.SubMaster" 
+MasterPageFile="MasterPage.Master"  %>
+
+<%@ Register src="componentes/controles/BarraUsuario.ascx" tagname="BarraUsuario" tagprefix="uc1" %>
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="asp" %>
+
+<asp:Content ID="Principal" ContentPlaceHolderID="cMaster" Runat="Server">    
+   
+          <uc1:BarraUsuario ID="oBarraUsuario" runat="server" />     
+          
+          <asp:Menu ID="menuOsOnline" runat="server" BackColor="#F7F6F3"          
+               DynamicHorizontalOffset="2" Font-Names="Verdana" Font-Size="0.9em"           
+               ForeColor="#7C6F57" Orientation="Horizontal" StaticSubMenuIndent="10px" Width="100.2%" >         
+               
+               <DynamicHoverStyle BackColor="#7C6F57" ForeColor="White" />         
+               <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />         
+               <DynamicMenuStyle BackColor="#F7F6F3" />         
+               <DynamicSelectedStyle BackColor="#5D7B9D" />         
+               
+               <Items>
+                   <asp:MenuItem NavigateUrl="~/ConsultaChamadoTecnico.aspx" Text="Chamado Técnico"          
+                       Value="Chamado Técnico" Selected="False"></asp:MenuItem>            
+                   <asp:MenuItem NavigateUrl="~/ConsultaOrdemServico.aspx" Text="Ordem de Serviço"          
+                       Value="Ordem de Serviço"></asp:MenuItem> 
+                   <asp:MenuItem NavigateUrl="~/ConsultaAtendimento.aspx" Text="Atendimento da OS"          
+                       Value="Atendimento da OS"></asp:MenuItem>        
+                   <asp:MenuItem NavigateUrl="~/ConsultaBaseInstalada.aspx" Text="Base Instalada"          
+                       Value="Base Instalada"></asp:MenuItem>
+                   <asp:MenuItem NavigateUrl="~/ConsultaHistoricoProduto.aspx" Text="Histórico do Produto"          
+                       Value="Histórico do Produto"></asp:MenuItem>  
+                   <asp:MenuItem NavigateUrl="~/DownloadVersao.aspx" Text="Documentos"          
+                       Value="Download Software"></asp:MenuItem>  
+                   <asp:MenuItem NavigateUrl="~/FaleConosco.aspx" Text="Fale Conosco"          
+                       Value="Fale Conosco"></asp:MenuItem>           
+               </Items> 
+                       
+               <StaticHoverStyle BackColor="#7C6F57" ForeColor="White" />         
+               <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="7px"  />         
+               <StaticSelectedStyle BackColor="#5D7B9D" />         
+           
+           </asp:Menu>         
+
+    <asp:ContentPlaceHolder ID="SubMaster" runat="server">         
+    </asp:ContentPlaceHolder>
+
+</asp:Content>

@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="OrdemServico_wsmicrosiga_usermicrosiga_USERMICROSIGA" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://192.168.41.40:91//USERMICROSIGA.apw</Value>
+    </Setting>
+    <Setting Name="OrdemServico_wsmicrosiga_OrdemServico_OrdemServico" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://192.168.41.40:91//OrdemServico.apw</Value>
+    </Setting>
+    <Setting Name="OrdemServico_wsmicrosigaD_OrdemServico_WSOrdemServico" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://192.168.44.18:8180/WSORDEMSERVICO.apw</Value>
+    </Setting>
+    <Setting Name="Orcamento_wsmicrosigaD_orcamento_WSORCAMENTO" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://192.168.44.40:8000/WSORDEMSERVICO.apw</Value>
+    </Setting>
+    <Setting Name="OrdemServico_wsmicrosigaP11_baseinstalada_WSBASEINSTALADA" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://192.168.44.42:8001/WSBASEINSTALADA.apw</Value>
+    </Setting>
+    <Setting Name="OrdemServico_wsmicrosigaP11_utilagility_WSUTILAGILITY" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://192.168.44.42:8001/WSUTILAGILITY.apw</Value>
+    </Setting>
+    <Setting Name="OrdemServico_wsmicrosiga_ordemservico_WSORDEMSERVICO" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://10.230.2.42:91/WSORDEMSERVICO.apw</Value>
+    </Setting>
+    <Setting Name="OrdemServico_wsmicrosiga_useragility_WSUSERAGILITY" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://10.230.2.42:91/WSUSERAGILITY.apw</Value>
+    </Setting>
+    <Setting Name="OrdemServico_wsmicrosigaP11_ordemservico_WSORDEMSERVICO" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://10.230.2.42:91/WSORDEMSERVICO.apw?WSDL</Value>
+    </Setting>
+    <Setting Name="OrdemServico_wsmicrosigaP11_userutility_WSUSERAGILITY" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://10.230.2.42:91/WSUSERAGILITY.apw?WSDL</Value>
+    </Setting>
+    <Setting Name="OrdemServico_wsmicrosiga_utilagility_WSUTILAGILITY" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://10.230.2.42:91/WSUTILAGILITY.apw</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

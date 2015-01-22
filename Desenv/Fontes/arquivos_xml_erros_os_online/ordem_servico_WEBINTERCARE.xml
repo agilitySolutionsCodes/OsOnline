@@ -1,0 +1,1126 @@
+<?xml version="1.0"?>
+<!--Cabeçalho e itens de Ordem de Servico-->
+<OrdemServico>
+  <itens>
+    <Atendente>000646</Atendente>
+    <Licenciado>000646</Licenciado>
+    <CodigoStatusOS />
+    <DescricaoStatusOS />
+    <NumeroOS>062619</NumeroOS>
+    <NumeroChamado>00075382</NumeroChamado>
+    <ItemChamado />
+    <DataEmissao>14/07/2014</DataEmissao>
+    <HoraEmissao />
+    <CodigoOrigem />
+    <DescricaoOrigem />
+    <CodigoTipoChamado>E</CodigoTipoChamado>
+    <TipoChamado />
+    <NomeContato>cleosmar</NomeContato>
+    <TelefoneContato>1147448200</TelefoneContato>
+    <OSParceiro />
+    <OSAntiga />
+    <FilialCliente />
+    <CodigoCliente>000053</CodigoCliente>
+    <NomeCliente>hosp. clin. faculdade medicina da usp             </NomeCliente>
+    <CGCCliente>60448040000122</CGCCliente>
+    <LojaCliente>01</LojaCliente>
+    <ProximoAtendimento>0626190101</ProximoAtendimento>
+    <ItemOS>01</ItemOS>
+    <DescricaoSituacaoOS>O.S</DescricaoSituacaoOS>
+    <CodigoSituacaoOS>1</CodigoSituacaoOS>
+    <CodigoClassificacao>002</CodigoClassificacao>
+    <DescricaoClassificacao>preventiva (mensal)</DescricaoClassificacao>
+    <CodigoOcorrencia>000202</CodigoOcorrencia>
+    <DescricaoOcorrencia>servico - preventiva (mensal) </DescricaoOcorrencia>
+    <CodigoEtapa>10</CodigoEtapa>
+    <DescricaoEtapa>manutencao preventiva                                  </DescricaoEtapa>
+    <DescricaoSituacao>Ordem de Serviço</DescricaoSituacao>
+    <CodigoSituacao>3</CodigoSituacao>
+    <D_E_L_E_T_ />
+    <DataGarantia>13/08/2006 00:00:00</DataGarantia>
+    <Versao />
+    <CodigoProduto>155.00000      </CodigoProduto>
+    <DescricaoProduto>vent.pulm.neo.ped.ad.-i-5 plus</DescricaoProduto>
+    <NumeroSerieProduto>IP5-2004-07-00515</NumeroSerieProduto>
+    <DescrGarantia> (13/8/2006 - Fora da garantia)</DescrGarantia>
+    <SubItem />
+    <DescricaoSubItem />
+    <CodigoServico />
+    <DescricaoServico />
+    <Quantidade />
+    <ValorUnitario />
+    <Total />
+    <Comentario />
+  </itens>
+  <itens>
+    <Atendente>000646</Atendente>
+    <Licenciado>000646</Licenciado>
+    <CodigoStatusOS />
+    <DescricaoStatusOS />
+    <NumeroOS>062619</NumeroOS>
+    <NumeroChamado>00075382</NumeroChamado>
+    <ItemChamado />
+    <DataEmissao>14/07/2014</DataEmissao>
+    <HoraEmissao />
+    <CodigoOrigem />
+    <DescricaoOrigem />
+    <CodigoTipoChamado>E</CodigoTipoChamado>
+    <TipoChamado />
+    <NomeContato>cleosmar</NomeContato>
+    <TelefoneContato>1147448200</TelefoneContato>
+    <OSParceiro />
+    <OSAntiga />
+    <FilialCliente />
+    <CodigoCliente>000053</CodigoCliente>
+    <NomeCliente>hosp. clin. faculdade medicina da usp             </NomeCliente>
+    <CGCCliente>60448040000122</CGCCliente>
+    <LojaCliente>01</LojaCliente>
+    <ProximoAtendimento>0626190501</ProximoAtendimento>
+    <ItemOS>05</ItemOS>
+    <DescricaoSituacaoOS>O.S</DescricaoSituacaoOS>
+    <CodigoSituacaoOS>1</CodigoSituacaoOS>
+    <CodigoClassificacao />
+    <DescricaoClassificacao />
+    <CodigoOcorrencia>000202</CodigoOcorrencia>
+    <DescricaoOcorrencia>servico - preventiva (mensal) </DescricaoOcorrencia>
+    <CodigoEtapa>10</CodigoEtapa>
+    <DescricaoEtapa>manutencao preventiva                                  </DescricaoEtapa>
+    <DescricaoSituacao />
+    <CodigoSituacao />
+    <D_E_L_E_T_ />
+    <DataGarantia>04/10/2006 00:00:00</DataGarantia>
+    <Versao />
+    <CodigoProduto>155.00000      </CodigoProduto>
+    <DescricaoProduto>vent.pulm.neo.ped.ad.-i-5 plus</DescricaoProduto>
+    <NumeroSerieProduto>IP5-2004-08-00562</NumeroSerieProduto>
+    <DescrGarantia> (4/10/2006 - Fora da garantia)</DescrGarantia>
+    <SubItem />
+    <DescricaoSubItem />
+    <CodigoServico />
+    <DescricaoServico />
+    <Quantidade />
+    <ValorUnitario />
+    <Total />
+    <Comentario />
+  </itens>
+  <itens>
+    <Atendente>000646</Atendente>
+    <Licenciado>000646</Licenciado>
+    <CodigoStatusOS />
+    <DescricaoStatusOS />
+    <NumeroOS>062619</NumeroOS>
+    <NumeroChamado>00075382</NumeroChamado>
+    <ItemChamado />
+    <DataEmissao>14/07/2014</DataEmissao>
+    <HoraEmissao />
+    <CodigoOrigem />
+    <DescricaoOrigem />
+    <CodigoTipoChamado>E</CodigoTipoChamado>
+    <TipoChamado />
+    <NomeContato>cleosmar</NomeContato>
+    <TelefoneContato>1147448200</TelefoneContato>
+    <OSParceiro />
+    <OSAntiga />
+    <FilialCliente />
+    <CodigoCliente>000053</CodigoCliente>
+    <NomeCliente>hosp. clin. faculdade medicina da usp             </NomeCliente>
+    <CGCCliente>60448040000122</CGCCliente>
+    <LojaCliente>01</LojaCliente>
+    <ProximoAtendimento>0626190601</ProximoAtendimento>
+    <ItemOS>06</ItemOS>
+    <DescricaoSituacaoOS>O.S</DescricaoSituacaoOS>
+    <CodigoSituacaoOS>1</CodigoSituacaoOS>
+    <CodigoClassificacao />
+    <DescricaoClassificacao />
+    <CodigoOcorrencia>000202</CodigoOcorrencia>
+    <DescricaoOcorrencia>servico - preventiva (mensal) </DescricaoOcorrencia>
+    <CodigoEtapa>10</CodigoEtapa>
+    <DescricaoEtapa>manutencao preventiva                                  </DescricaoEtapa>
+    <DescricaoSituacao />
+    <CodigoSituacao />
+    <D_E_L_E_T_ />
+    <DataGarantia>04/10/2006 00:00:00</DataGarantia>
+    <Versao />
+    <CodigoProduto>155.00000      </CodigoProduto>
+    <DescricaoProduto>vent.pulm.neo.ped.ad.-i-5 plus</DescricaoProduto>
+    <NumeroSerieProduto>IP5-2004-08-00569</NumeroSerieProduto>
+    <DescrGarantia> (4/10/2006 - Fora da garantia)</DescrGarantia>
+    <SubItem />
+    <DescricaoSubItem />
+    <CodigoServico />
+    <DescricaoServico />
+    <Quantidade />
+    <ValorUnitario />
+    <Total />
+    <Comentario />
+  </itens>
+  <itens>
+    <Atendente>000646</Atendente>
+    <Licenciado>000646</Licenciado>
+    <CodigoStatusOS />
+    <DescricaoStatusOS />
+    <NumeroOS>062619</NumeroOS>
+    <NumeroChamado>00075382</NumeroChamado>
+    <ItemChamado />
+    <DataEmissao>14/07/2014</DataEmissao>
+    <HoraEmissao />
+    <CodigoOrigem />
+    <DescricaoOrigem />
+    <CodigoTipoChamado>E</CodigoTipoChamado>
+    <TipoChamado />
+    <NomeContato>cleosmar</NomeContato>
+    <TelefoneContato>1147448200</TelefoneContato>
+    <OSParceiro />
+    <OSAntiga />
+    <FilialCliente />
+    <CodigoCliente>000053</CodigoCliente>
+    <NomeCliente>hosp. clin. faculdade medicina da usp             </NomeCliente>
+    <CGCCliente>60448040000122</CGCCliente>
+    <LojaCliente>01</LojaCliente>
+    <ProximoAtendimento>0626191401</ProximoAtendimento>
+    <ItemOS>14</ItemOS>
+    <DescricaoSituacaoOS>O.S</DescricaoSituacaoOS>
+    <CodigoSituacaoOS>1</CodigoSituacaoOS>
+    <CodigoClassificacao />
+    <DescricaoClassificacao />
+    <CodigoOcorrencia>000202</CodigoOcorrencia>
+    <DescricaoOcorrencia>servico - preventiva (mensal) </DescricaoOcorrencia>
+    <CodigoEtapa>10</CodigoEtapa>
+    <DescricaoEtapa>manutencao preventiva                                  </DescricaoEtapa>
+    <DescricaoSituacao />
+    <CodigoSituacao />
+    <D_E_L_E_T_ />
+    <DataGarantia>14/01/2008 00:00:00</DataGarantia>
+    <Versao />
+    <CodigoProduto>150.00000      </CodigoProduto>
+    <DescricaoProduto>ventilador inter plus vaps-gmx</DescricaoProduto>
+    <NumeroSerieProduto>IP-2005-06-00463</NumeroSerieProduto>
+    <DescrGarantia> (14/1/2008 - Fora da garantia)</DescrGarantia>
+    <SubItem />
+    <DescricaoSubItem />
+    <CodigoServico />
+    <DescricaoServico />
+    <Quantidade />
+    <ValorUnitario />
+    <Total />
+    <Comentario />
+  </itens>
+  <itens>
+    <Atendente>000646</Atendente>
+    <Licenciado>000646</Licenciado>
+    <CodigoStatusOS />
+    <DescricaoStatusOS />
+    <NumeroOS>062619</NumeroOS>
+    <NumeroChamado>00075382</NumeroChamado>
+    <ItemChamado />
+    <DataEmissao>14/07/2014</DataEmissao>
+    <HoraEmissao />
+    <CodigoOrigem />
+    <DescricaoOrigem />
+    <CodigoTipoChamado>E</CodigoTipoChamado>
+    <TipoChamado />
+    <NomeContato>cleosmar</NomeContato>
+    <TelefoneContato>1147448200</TelefoneContato>
+    <OSParceiro />
+    <OSAntiga />
+    <FilialCliente />
+    <CodigoCliente>000053</CodigoCliente>
+    <NomeCliente>hosp. clin. faculdade medicina da usp             </NomeCliente>
+    <CGCCliente>60448040000122</CGCCliente>
+    <LojaCliente>01</LojaCliente>
+    <ProximoAtendimento>0626191501</ProximoAtendimento>
+    <ItemOS>15</ItemOS>
+    <DescricaoSituacaoOS>O.S</DescricaoSituacaoOS>
+    <CodigoSituacaoOS>1</CodigoSituacaoOS>
+    <CodigoClassificacao />
+    <DescricaoClassificacao />
+    <CodigoOcorrencia>000202</CodigoOcorrencia>
+    <DescricaoOcorrencia>servico - preventiva (mensal) </DescricaoOcorrencia>
+    <CodigoEtapa>10</CodigoEtapa>
+    <DescricaoEtapa>manutencao preventiva                                  </DescricaoEtapa>
+    <DescricaoSituacao />
+    <CodigoSituacao />
+    <D_E_L_E_T_ />
+    <DataGarantia>14/01/2008 00:00:00</DataGarantia>
+    <Versao />
+    <CodigoProduto>150.00000      </CodigoProduto>
+    <DescricaoProduto>ventilador inter plus vaps-gmx</DescricaoProduto>
+    <NumeroSerieProduto>IP-2005-09-00467</NumeroSerieProduto>
+    <DescrGarantia> (14/1/2008 - Fora da garantia)</DescrGarantia>
+    <SubItem />
+    <DescricaoSubItem />
+    <CodigoServico />
+    <DescricaoServico />
+    <Quantidade />
+    <ValorUnitario />
+    <Total />
+    <Comentario />
+  </itens>
+  <itens>
+    <Atendente>000646</Atendente>
+    <Licenciado>000646</Licenciado>
+    <CodigoStatusOS />
+    <DescricaoStatusOS />
+    <NumeroOS>062619</NumeroOS>
+    <NumeroChamado>00075382</NumeroChamado>
+    <ItemChamado />
+    <DataEmissao>14/07/2014</DataEmissao>
+    <HoraEmissao />
+    <CodigoOrigem />
+    <DescricaoOrigem />
+    <CodigoTipoChamado>E</CodigoTipoChamado>
+    <TipoChamado />
+    <NomeContato>cleosmar</NomeContato>
+    <TelefoneContato>1147448200</TelefoneContato>
+    <OSParceiro />
+    <OSAntiga />
+    <FilialCliente />
+    <CodigoCliente>000053</CodigoCliente>
+    <NomeCliente>hosp. clin. faculdade medicina da usp             </NomeCliente>
+    <CGCCliente>60448040000122</CGCCliente>
+    <LojaCliente>01</LojaCliente>
+    <ProximoAtendimento>0626191601</ProximoAtendimento>
+    <ItemOS>16</ItemOS>
+    <DescricaoSituacaoOS>O.S</DescricaoSituacaoOS>
+    <CodigoSituacaoOS>1</CodigoSituacaoOS>
+    <CodigoClassificacao />
+    <DescricaoClassificacao />
+    <CodigoOcorrencia>000202</CodigoOcorrencia>
+    <DescricaoOcorrencia>servico - preventiva (mensal) </DescricaoOcorrencia>
+    <CodigoEtapa>10</CodigoEtapa>
+    <DescricaoEtapa>manutencao preventiva                                  </DescricaoEtapa>
+    <DescricaoSituacao />
+    <CodigoSituacao />
+    <D_E_L_E_T_ />
+    <DataGarantia>14/01/2008 00:00:00</DataGarantia>
+    <Versao />
+    <CodigoProduto>150.00000      </CodigoProduto>
+    <DescricaoProduto>ventilador inter plus vaps-gmx</DescricaoProduto>
+    <NumeroSerieProduto>IP-2005-09-00469</NumeroSerieProduto>
+    <DescrGarantia> (14/1/2008 - Fora da garantia)</DescrGarantia>
+    <SubItem />
+    <DescricaoSubItem />
+    <CodigoServico />
+    <DescricaoServico />
+    <Quantidade />
+    <ValorUnitario />
+    <Total />
+    <Comentario />
+  </itens>
+  <itens>
+    <Atendente>000646</Atendente>
+    <Licenciado>000646</Licenciado>
+    <CodigoStatusOS />
+    <DescricaoStatusOS />
+    <NumeroOS>062619</NumeroOS>
+    <NumeroChamado>00075382</NumeroChamado>
+    <ItemChamado />
+    <DataEmissao>14/07/2014</DataEmissao>
+    <HoraEmissao />
+    <CodigoOrigem />
+    <DescricaoOrigem />
+    <CodigoTipoChamado>E</CodigoTipoChamado>
+    <TipoChamado />
+    <NomeContato>cleosmar</NomeContato>
+    <TelefoneContato>1147448200</TelefoneContato>
+    <OSParceiro />
+    <OSAntiga />
+    <FilialCliente />
+    <CodigoCliente>000053</CodigoCliente>
+    <NomeCliente>hosp. clin. faculdade medicina da usp             </NomeCliente>
+    <CGCCliente>60448040000122</CGCCliente>
+    <LojaCliente>01</LojaCliente>
+    <ProximoAtendimento>0626191701</ProximoAtendimento>
+    <ItemOS>17</ItemOS>
+    <DescricaoSituacaoOS>O.S</DescricaoSituacaoOS>
+    <CodigoSituacaoOS>1</CodigoSituacaoOS>
+    <CodigoClassificacao />
+    <DescricaoClassificacao />
+    <CodigoOcorrencia>000202</CodigoOcorrencia>
+    <DescricaoOcorrencia>servico - preventiva (mensal) </DescricaoOcorrencia>
+    <CodigoEtapa>10</CodigoEtapa>
+    <DescricaoEtapa>manutencao preventiva                                  </DescricaoEtapa>
+    <DescricaoSituacao />
+    <CodigoSituacao />
+    <D_E_L_E_T_ />
+    <DataGarantia>13/02/2008 00:00:00</DataGarantia>
+    <Versao />
+    <CodigoProduto>132.00000      </CodigoProduto>
+    <DescricaoProduto>respirador inter-5</DescricaoProduto>
+    <NumeroSerieProduto>I5-9709-00014</NumeroSerieProduto>
+    <DescrGarantia> (13/2/2008 - Fora da garantia)</DescrGarantia>
+    <SubItem />
+    <DescricaoSubItem />
+    <CodigoServico />
+    <DescricaoServico />
+    <Quantidade />
+    <ValorUnitario />
+    <Total />
+    <Comentario />
+  </itens>
+  <itens>
+    <Atendente>000646</Atendente>
+    <Licenciado>000646</Licenciado>
+    <CodigoStatusOS />
+    <DescricaoStatusOS />
+    <NumeroOS>062619</NumeroOS>
+    <NumeroChamado>00075382</NumeroChamado>
+    <ItemChamado />
+    <DataEmissao>14/07/2014</DataEmissao>
+    <HoraEmissao />
+    <CodigoOrigem />
+    <DescricaoOrigem />
+    <CodigoTipoChamado>E</CodigoTipoChamado>
+    <TipoChamado />
+    <NomeContato>cleosmar</NomeContato>
+    <TelefoneContato>1147448200</TelefoneContato>
+    <OSParceiro />
+    <OSAntiga />
+    <FilialCliente />
+    <CodigoCliente>000053</CodigoCliente>
+    <NomeCliente>hosp. clin. faculdade medicina da usp             </NomeCliente>
+    <CGCCliente>60448040000122</CGCCliente>
+    <LojaCliente>01</LojaCliente>
+    <ProximoAtendimento>0626191801</ProximoAtendimento>
+    <ItemOS>18</ItemOS>
+    <DescricaoSituacaoOS>O.S</DescricaoSituacaoOS>
+    <CodigoSituacaoOS>1</CodigoSituacaoOS>
+    <CodigoClassificacao />
+    <DescricaoClassificacao />
+    <CodigoOcorrencia>000202</CodigoOcorrencia>
+    <DescricaoOcorrencia>servico - preventiva (mensal) </DescricaoOcorrencia>
+    <CodigoEtapa>10</CodigoEtapa>
+    <DescricaoEtapa>manutencao preventiva                                  </DescricaoEtapa>
+    <DescricaoSituacao />
+    <CodigoSituacao />
+    <D_E_L_E_T_ />
+    <DataGarantia>10/12/2000 00:00:00</DataGarantia>
+    <Versao />
+    <CodigoProduto>132.00000      </CodigoProduto>
+    <DescricaoProduto>respirador inter-5</DescricaoProduto>
+    <NumeroSerieProduto>I5-9811-00570</NumeroSerieProduto>
+    <DescrGarantia> (10/12/2000 - Fora da garantia)</DescrGarantia>
+    <SubItem />
+    <DescricaoSubItem />
+    <CodigoServico />
+    <DescricaoServico />
+    <Quantidade />
+    <ValorUnitario />
+    <Total />
+    <Comentario />
+  </itens>
+  <itens>
+    <Atendente>000646</Atendente>
+    <Licenciado>000646</Licenciado>
+    <CodigoStatusOS />
+    <DescricaoStatusOS />
+    <NumeroOS>062619</NumeroOS>
+    <NumeroChamado>00075382</NumeroChamado>
+    <ItemChamado />
+    <DataEmissao>14/07/2014</DataEmissao>
+    <HoraEmissao />
+    <CodigoOrigem />
+    <DescricaoOrigem />
+    <CodigoTipoChamado>E</CodigoTipoChamado>
+    <TipoChamado />
+    <NomeContato>cleosmar</NomeContato>
+    <TelefoneContato>1147448200</TelefoneContato>
+    <OSParceiro />
+    <OSAntiga />
+    <FilialCliente />
+    <CodigoCliente>000053</CodigoCliente>
+    <NomeCliente>hosp. clin. faculdade medicina da usp             </NomeCliente>
+    <CGCCliente>60448040000122</CGCCliente>
+    <LojaCliente>01</LojaCliente>
+    <ProximoAtendimento>0626191901</ProximoAtendimento>
+    <ItemOS>19</ItemOS>
+    <DescricaoSituacaoOS>O.S</DescricaoSituacaoOS>
+    <CodigoSituacaoOS>1</CodigoSituacaoOS>
+    <CodigoClassificacao />
+    <DescricaoClassificacao />
+    <CodigoOcorrencia>000202</CodigoOcorrencia>
+    <DescricaoOcorrencia>servico - preventiva (mensal) </DescricaoOcorrencia>
+    <CodigoEtapa>10</CodigoEtapa>
+    <DescricaoEtapa>manutencao preventiva                                  </DescricaoEtapa>
+    <DescricaoSituacao />
+    <CodigoSituacao />
+    <D_E_L_E_T_ />
+    <DataGarantia>15/02/2002 00:00:00</DataGarantia>
+    <Versao />
+    <CodigoProduto>132.00000      </CodigoProduto>
+    <DescricaoProduto>respirador inter-5</DescricaoProduto>
+    <NumeroSerieProduto>I5-9811-00572</NumeroSerieProduto>
+    <DescrGarantia> (15/2/2002 - Fora da garantia)</DescrGarantia>
+    <SubItem />
+    <DescricaoSubItem />
+    <CodigoServico />
+    <DescricaoServico />
+    <Quantidade />
+    <ValorUnitario />
+    <Total />
+    <Comentario />
+  </itens>
+  <itens>
+    <Atendente>000646</Atendente>
+    <Licenciado>000646</Licenciado>
+    <CodigoStatusOS />
+    <DescricaoStatusOS />
+    <NumeroOS>062619</NumeroOS>
+    <NumeroChamado>00075382</NumeroChamado>
+    <ItemChamado />
+    <DataEmissao>14/07/2014</DataEmissao>
+    <HoraEmissao />
+    <CodigoOrigem />
+    <DescricaoOrigem />
+    <CodigoTipoChamado>E</CodigoTipoChamado>
+    <TipoChamado />
+    <NomeContato>cleosmar</NomeContato>
+    <TelefoneContato>1147448200</TelefoneContato>
+    <OSParceiro />
+    <OSAntiga />
+    <FilialCliente />
+    <CodigoCliente>000053</CodigoCliente>
+    <NomeCliente>hosp. clin. faculdade medicina da usp             </NomeCliente>
+    <CGCCliente>60448040000122</CGCCliente>
+    <LojaCliente>01</LojaCliente>
+    <ProximoAtendimento>0626192001</ProximoAtendimento>
+    <ItemOS>20</ItemOS>
+    <DescricaoSituacaoOS>O.S</DescricaoSituacaoOS>
+    <CodigoSituacaoOS>1</CodigoSituacaoOS>
+    <CodigoClassificacao />
+    <DescricaoClassificacao />
+    <CodigoOcorrencia>000202</CodigoOcorrencia>
+    <DescricaoOcorrencia>servico - preventiva (mensal) </DescricaoOcorrencia>
+    <CodigoEtapa>10</CodigoEtapa>
+    <DescricaoEtapa>manutencao preventiva                                  </DescricaoEtapa>
+    <DescricaoSituacao />
+    <CodigoSituacao />
+    <D_E_L_E_T_ />
+    <DataGarantia>10/03/2001 00:00:00</DataGarantia>
+    <Versao />
+    <CodigoProduto>132.00000      </CodigoProduto>
+    <DescricaoProduto>respirador inter-5</DescricaoProduto>
+    <NumeroSerieProduto>I5-0001-01499</NumeroSerieProduto>
+    <DescrGarantia> (10/3/2001 - Fora da garantia)</DescrGarantia>
+    <SubItem />
+    <DescricaoSubItem />
+    <CodigoServico />
+    <DescricaoServico />
+    <Quantidade />
+    <ValorUnitario />
+    <Total />
+    <Comentario />
+  </itens>
+  <itens>
+    <Atendente>000646</Atendente>
+    <Licenciado>000646</Licenciado>
+    <CodigoStatusOS />
+    <DescricaoStatusOS />
+    <NumeroOS>062619</NumeroOS>
+    <NumeroChamado>00075382</NumeroChamado>
+    <ItemChamado />
+    <DataEmissao>14/07/2014</DataEmissao>
+    <HoraEmissao />
+    <CodigoOrigem />
+    <DescricaoOrigem />
+    <CodigoTipoChamado>E</CodigoTipoChamado>
+    <TipoChamado />
+    <NomeContato>cleosmar</NomeContato>
+    <TelefoneContato>1147448200</TelefoneContato>
+    <OSParceiro />
+    <OSAntiga />
+    <FilialCliente />
+    <CodigoCliente>000053</CodigoCliente>
+    <NomeCliente>hosp. clin. faculdade medicina da usp             </NomeCliente>
+    <CGCCliente>60448040000122</CGCCliente>
+    <LojaCliente>01</LojaCliente>
+    <ProximoAtendimento>0626192201</ProximoAtendimento>
+    <ItemOS>22</ItemOS>
+    <DescricaoSituacaoOS>O.S</DescricaoSituacaoOS>
+    <CodigoSituacaoOS>1</CodigoSituacaoOS>
+    <CodigoClassificacao />
+    <DescricaoClassificacao />
+    <CodigoOcorrencia>000202</CodigoOcorrencia>
+    <DescricaoOcorrencia>servico - preventiva (mensal) </DescricaoOcorrencia>
+    <CodigoEtapa>10</CodigoEtapa>
+    <DescricaoEtapa>manutencao preventiva                                  </DescricaoEtapa>
+    <DescricaoSituacao />
+    <CodigoSituacao />
+    <D_E_L_E_T_ />
+    <DataGarantia>10/03/2001 00:00:00</DataGarantia>
+    <Versao />
+    <CodigoProduto>132.00000      </CodigoProduto>
+    <DescricaoProduto>respirador inter-5</DescricaoProduto>
+    <NumeroSerieProduto>I5-0001-01504</NumeroSerieProduto>
+    <DescrGarantia> (10/3/2001 - Fora da garantia)</DescrGarantia>
+    <SubItem />
+    <DescricaoSubItem />
+    <CodigoServico />
+    <DescricaoServico />
+    <Quantidade />
+    <ValorUnitario />
+    <Total />
+    <Comentario />
+  </itens>
+  <itens>
+    <Atendente>000646</Atendente>
+    <Licenciado>000646</Licenciado>
+    <CodigoStatusOS />
+    <DescricaoStatusOS />
+    <NumeroOS>062619</NumeroOS>
+    <NumeroChamado>00075382</NumeroChamado>
+    <ItemChamado />
+    <DataEmissao>14/07/2014</DataEmissao>
+    <HoraEmissao />
+    <CodigoOrigem />
+    <DescricaoOrigem />
+    <CodigoTipoChamado>E</CodigoTipoChamado>
+    <TipoChamado />
+    <NomeContato>cleosmar</NomeContato>
+    <TelefoneContato>1147448200</TelefoneContato>
+    <OSParceiro />
+    <OSAntiga />
+    <FilialCliente />
+    <CodigoCliente>000053</CodigoCliente>
+    <NomeCliente>hosp. clin. faculdade medicina da usp             </NomeCliente>
+    <CGCCliente>60448040000122</CGCCliente>
+    <LojaCliente>01</LojaCliente>
+    <ProximoAtendimento>0626192301</ProximoAtendimento>
+    <ItemOS>23</ItemOS>
+    <DescricaoSituacaoOS>O.S</DescricaoSituacaoOS>
+    <CodigoSituacaoOS>1</CodigoSituacaoOS>
+    <CodigoClassificacao />
+    <DescricaoClassificacao />
+    <CodigoOcorrencia>000202</CodigoOcorrencia>
+    <DescricaoOcorrencia>servico - preventiva (mensal) </DescricaoOcorrencia>
+    <CodigoEtapa>10</CodigoEtapa>
+    <DescricaoEtapa>manutencao preventiva                                  </DescricaoEtapa>
+    <DescricaoSituacao />
+    <CodigoSituacao />
+    <D_E_L_E_T_ />
+    <DataGarantia>10/03/2001 00:00:00</DataGarantia>
+    <Versao />
+    <CodigoProduto>132.00000      </CodigoProduto>
+    <DescricaoProduto>respirador inter-5</DescricaoProduto>
+    <NumeroSerieProduto>I5-0001-01511</NumeroSerieProduto>
+    <DescrGarantia> (10/3/2001 - Fora da garantia)</DescrGarantia>
+    <SubItem />
+    <DescricaoSubItem />
+    <CodigoServico />
+    <DescricaoServico />
+    <Quantidade />
+    <ValorUnitario />
+    <Total />
+    <Comentario />
+  </itens>
+  <itens>
+    <Atendente>000646</Atendente>
+    <Licenciado>000646</Licenciado>
+    <CodigoStatusOS />
+    <DescricaoStatusOS />
+    <NumeroOS>062619</NumeroOS>
+    <NumeroChamado>00075382</NumeroChamado>
+    <ItemChamado />
+    <DataEmissao>14/07/2014</DataEmissao>
+    <HoraEmissao />
+    <CodigoOrigem />
+    <DescricaoOrigem />
+    <CodigoTipoChamado>E</CodigoTipoChamado>
+    <TipoChamado />
+    <NomeContato>cleosmar</NomeContato>
+    <TelefoneContato>1147448200</TelefoneContato>
+    <OSParceiro />
+    <OSAntiga />
+    <FilialCliente />
+    <CodigoCliente>000053</CodigoCliente>
+    <NomeCliente>hosp. clin. faculdade medicina da usp             </NomeCliente>
+    <CGCCliente>60448040000122</CGCCliente>
+    <LojaCliente>01</LojaCliente>
+    <ProximoAtendimento>0626192401</ProximoAtendimento>
+    <ItemOS>24</ItemOS>
+    <DescricaoSituacaoOS>O.S</DescricaoSituacaoOS>
+    <CodigoSituacaoOS>1</CodigoSituacaoOS>
+    <CodigoClassificacao />
+    <DescricaoClassificacao />
+    <CodigoOcorrencia>000202</CodigoOcorrencia>
+    <DescricaoOcorrencia>servico - preventiva (mensal) </DescricaoOcorrencia>
+    <CodigoEtapa>10</CodigoEtapa>
+    <DescricaoEtapa>manutencao preventiva                                  </DescricaoEtapa>
+    <DescricaoSituacao />
+    <CodigoSituacao />
+    <D_E_L_E_T_ />
+    <DataGarantia>10/03/2001 00:00:00</DataGarantia>
+    <Versao />
+    <CodigoProduto>132.00000      </CodigoProduto>
+    <DescricaoProduto>respirador inter-5</DescricaoProduto>
+    <NumeroSerieProduto>I5-0001-01554</NumeroSerieProduto>
+    <DescrGarantia> (10/3/2001 - Fora da garantia)</DescrGarantia>
+    <SubItem />
+    <DescricaoSubItem />
+    <CodigoServico />
+    <DescricaoServico />
+    <Quantidade />
+    <ValorUnitario />
+    <Total />
+    <Comentario />
+  </itens>
+  <itens>
+    <Atendente>000646</Atendente>
+    <Licenciado>000646</Licenciado>
+    <CodigoStatusOS />
+    <DescricaoStatusOS />
+    <NumeroOS>062619</NumeroOS>
+    <NumeroChamado>00075382</NumeroChamado>
+    <ItemChamado />
+    <DataEmissao>14/07/2014</DataEmissao>
+    <HoraEmissao />
+    <CodigoOrigem />
+    <DescricaoOrigem />
+    <CodigoTipoChamado>E</CodigoTipoChamado>
+    <TipoChamado />
+    <NomeContato>cleosmar</NomeContato>
+    <TelefoneContato>1147448200</TelefoneContato>
+    <OSParceiro />
+    <OSAntiga />
+    <FilialCliente />
+    <CodigoCliente>000053</CodigoCliente>
+    <NomeCliente>hosp. clin. faculdade medicina da usp             </NomeCliente>
+    <CGCCliente>60448040000122</CGCCliente>
+    <LojaCliente>01</LojaCliente>
+    <ProximoAtendimento>0626192501</ProximoAtendimento>
+    <ItemOS>25</ItemOS>
+    <DescricaoSituacaoOS>O.S</DescricaoSituacaoOS>
+    <CodigoSituacaoOS>1</CodigoSituacaoOS>
+    <CodigoClassificacao />
+    <DescricaoClassificacao />
+    <CodigoOcorrencia>000202</CodigoOcorrencia>
+    <DescricaoOcorrencia>servico - preventiva (mensal) </DescricaoOcorrencia>
+    <CodigoEtapa>10</CodigoEtapa>
+    <DescricaoEtapa>manutencao preventiva                                  </DescricaoEtapa>
+    <DescricaoSituacao />
+    <CodigoSituacao />
+    <D_E_L_E_T_ />
+    <DataGarantia>20/06/2001 00:00:00</DataGarantia>
+    <Versao />
+    <CodigoProduto>132.00000      </CodigoProduto>
+    <DescricaoProduto>respirador inter-5</DescricaoProduto>
+    <NumeroSerieProduto>I5-0005-01915</NumeroSerieProduto>
+    <DescrGarantia> (20/6/2001 - Fora da garantia)</DescrGarantia>
+    <SubItem />
+    <DescricaoSubItem />
+    <CodigoServico />
+    <DescricaoServico />
+    <Quantidade />
+    <ValorUnitario />
+    <Total />
+    <Comentario />
+  </itens>
+  <itens>
+    <Atendente>000646</Atendente>
+    <Licenciado>000646</Licenciado>
+    <CodigoStatusOS />
+    <DescricaoStatusOS />
+    <NumeroOS>062619</NumeroOS>
+    <NumeroChamado>00075382</NumeroChamado>
+    <ItemChamado />
+    <DataEmissao>14/07/2014</DataEmissao>
+    <HoraEmissao />
+    <CodigoOrigem />
+    <DescricaoOrigem />
+    <CodigoTipoChamado>E</CodigoTipoChamado>
+    <TipoChamado />
+    <NomeContato>cleosmar</NomeContato>
+    <TelefoneContato>1147448200</TelefoneContato>
+    <OSParceiro />
+    <OSAntiga />
+    <FilialCliente />
+    <CodigoCliente>000053</CodigoCliente>
+    <NomeCliente>hosp. clin. faculdade medicina da usp             </NomeCliente>
+    <CGCCliente>60448040000122</CGCCliente>
+    <LojaCliente>01</LojaCliente>
+    <ProximoAtendimento>0626192601</ProximoAtendimento>
+    <ItemOS>26</ItemOS>
+    <DescricaoSituacaoOS>O.S</DescricaoSituacaoOS>
+    <CodigoSituacaoOS>1</CodigoSituacaoOS>
+    <CodigoClassificacao />
+    <DescricaoClassificacao />
+    <CodigoOcorrencia>000202</CodigoOcorrencia>
+    <DescricaoOcorrencia>servico - preventiva (mensal) </DescricaoOcorrencia>
+    <CodigoEtapa>10</CodigoEtapa>
+    <DescricaoEtapa>manutencao preventiva                                  </DescricaoEtapa>
+    <DescricaoSituacao />
+    <CodigoSituacao />
+    <D_E_L_E_T_ />
+    <DataGarantia>20/06/2001 00:00:00</DataGarantia>
+    <Versao />
+    <CodigoProduto>132.00000      </CodigoProduto>
+    <DescricaoProduto>respirador inter-5</DescricaoProduto>
+    <NumeroSerieProduto>I5-0005-01918</NumeroSerieProduto>
+    <DescrGarantia> (20/6/2001 - Fora da garantia)</DescrGarantia>
+    <SubItem />
+    <DescricaoSubItem />
+    <CodigoServico />
+    <DescricaoServico />
+    <Quantidade />
+    <ValorUnitario />
+    <Total />
+    <Comentario />
+  </itens>
+  <itens>
+    <Atendente>000646</Atendente>
+    <Licenciado>000646</Licenciado>
+    <CodigoStatusOS />
+    <DescricaoStatusOS />
+    <NumeroOS>062619</NumeroOS>
+    <NumeroChamado>00075382</NumeroChamado>
+    <ItemChamado />
+    <DataEmissao>14/07/2014</DataEmissao>
+    <HoraEmissao />
+    <CodigoOrigem />
+    <DescricaoOrigem />
+    <CodigoTipoChamado>E</CodigoTipoChamado>
+    <TipoChamado />
+    <NomeContato>cleosmar</NomeContato>
+    <TelefoneContato>1147448200</TelefoneContato>
+    <OSParceiro />
+    <OSAntiga />
+    <FilialCliente />
+    <CodigoCliente>000053</CodigoCliente>
+    <NomeCliente>hosp. clin. faculdade medicina da usp             </NomeCliente>
+    <CGCCliente>60448040000122</CGCCliente>
+    <LojaCliente>01</LojaCliente>
+    <ProximoAtendimento>0626192701</ProximoAtendimento>
+    <ItemOS>27</ItemOS>
+    <DescricaoSituacaoOS>O.S</DescricaoSituacaoOS>
+    <CodigoSituacaoOS>1</CodigoSituacaoOS>
+    <CodigoClassificacao />
+    <DescricaoClassificacao />
+    <CodigoOcorrencia>000202</CodigoOcorrencia>
+    <DescricaoOcorrencia>servico - preventiva (mensal) </DescricaoOcorrencia>
+    <CodigoEtapa>10</CodigoEtapa>
+    <DescricaoEtapa>manutencao preventiva                                  </DescricaoEtapa>
+    <DescricaoSituacao />
+    <CodigoSituacao />
+    <D_E_L_E_T_ />
+    <DataGarantia>14/04/2003 00:00:00</DataGarantia>
+    <Versao />
+    <CodigoProduto>132.00000      </CodigoProduto>
+    <DescricaoProduto>respirador inter-5</DescricaoProduto>
+    <NumeroSerieProduto>I5-2002-03-03917</NumeroSerieProduto>
+    <DescrGarantia> (14/4/2003 - Fora da garantia)</DescrGarantia>
+    <SubItem />
+    <DescricaoSubItem />
+    <CodigoServico />
+    <DescricaoServico />
+    <Quantidade />
+    <ValorUnitario />
+    <Total />
+    <Comentario />
+  </itens>
+  <itens>
+    <Atendente>000646</Atendente>
+    <Licenciado>000646</Licenciado>
+    <CodigoStatusOS />
+    <DescricaoStatusOS />
+    <NumeroOS>062619</NumeroOS>
+    <NumeroChamado>00075382</NumeroChamado>
+    <ItemChamado />
+    <DataEmissao>14/07/2014</DataEmissao>
+    <HoraEmissao />
+    <CodigoOrigem />
+    <DescricaoOrigem />
+    <CodigoTipoChamado>E</CodigoTipoChamado>
+    <TipoChamado />
+    <NomeContato>cleosmar</NomeContato>
+    <TelefoneContato>1147448200</TelefoneContato>
+    <OSParceiro />
+    <OSAntiga />
+    <FilialCliente />
+    <CodigoCliente>000053</CodigoCliente>
+    <NomeCliente>hosp. clin. faculdade medicina da usp             </NomeCliente>
+    <CGCCliente>60448040000122</CGCCliente>
+    <LojaCliente>01</LojaCliente>
+    <ProximoAtendimento>0626192801</ProximoAtendimento>
+    <ItemOS>28</ItemOS>
+    <DescricaoSituacaoOS>O.S</DescricaoSituacaoOS>
+    <CodigoSituacaoOS>1</CodigoSituacaoOS>
+    <CodigoClassificacao />
+    <DescricaoClassificacao />
+    <CodigoOcorrencia>000202</CodigoOcorrencia>
+    <DescricaoOcorrencia>servico - preventiva (mensal) </DescricaoOcorrencia>
+    <CodigoEtapa>10</CodigoEtapa>
+    <DescricaoEtapa>manutencao preventiva                                  </DescricaoEtapa>
+    <DescricaoSituacao />
+    <CodigoSituacao />
+    <D_E_L_E_T_ />
+    <DataGarantia>31/03/2003 00:00:00</DataGarantia>
+    <Versao />
+    <CodigoProduto>132.00000      </CodigoProduto>
+    <DescricaoProduto>respirador inter-5</DescricaoProduto>
+    <NumeroSerieProduto>I5-2002-03-03926</NumeroSerieProduto>
+    <DescrGarantia> (31/3/2003 - Fora da garantia)</DescrGarantia>
+    <SubItem />
+    <DescricaoSubItem />
+    <CodigoServico />
+    <DescricaoServico />
+    <Quantidade />
+    <ValorUnitario />
+    <Total />
+    <Comentario />
+  </itens>
+  <itens>
+    <Atendente>000646</Atendente>
+    <Licenciado>000646</Licenciado>
+    <CodigoStatusOS />
+    <DescricaoStatusOS />
+    <NumeroOS>062619</NumeroOS>
+    <NumeroChamado>00075382</NumeroChamado>
+    <ItemChamado />
+    <DataEmissao>14/07/2014</DataEmissao>
+    <HoraEmissao />
+    <CodigoOrigem />
+    <DescricaoOrigem />
+    <CodigoTipoChamado>E</CodigoTipoChamado>
+    <TipoChamado />
+    <NomeContato>cleosmar</NomeContato>
+    <TelefoneContato>1147448200</TelefoneContato>
+    <OSParceiro />
+    <OSAntiga />
+    <FilialCliente />
+    <CodigoCliente>000053</CodigoCliente>
+    <NomeCliente>hosp. clin. faculdade medicina da usp             </NomeCliente>
+    <CGCCliente>60448040000122</CGCCliente>
+    <LojaCliente>01</LojaCliente>
+    <ProximoAtendimento>0626192901</ProximoAtendimento>
+    <ItemOS>29</ItemOS>
+    <DescricaoSituacaoOS>O.S</DescricaoSituacaoOS>
+    <CodigoSituacaoOS>1</CodigoSituacaoOS>
+    <CodigoClassificacao />
+    <DescricaoClassificacao />
+    <CodigoOcorrencia>000202</CodigoOcorrencia>
+    <DescricaoOcorrencia>servico - preventiva (mensal) </DescricaoOcorrencia>
+    <CodigoEtapa>10</CodigoEtapa>
+    <DescricaoEtapa>manutencao preventiva                                  </DescricaoEtapa>
+    <DescricaoSituacao />
+    <CodigoSituacao />
+    <D_E_L_E_T_ />
+    <DataGarantia>31/03/2003 00:00:00</DataGarantia>
+    <Versao />
+    <CodigoProduto>132.00000      </CodigoProduto>
+    <DescricaoProduto>respirador inter-5</DescricaoProduto>
+    <NumeroSerieProduto>I5-2002-03-03949</NumeroSerieProduto>
+    <DescrGarantia> (31/3/2003 - Fora da garantia)</DescrGarantia>
+    <SubItem />
+    <DescricaoSubItem />
+    <CodigoServico />
+    <DescricaoServico />
+    <Quantidade />
+    <ValorUnitario />
+    <Total />
+    <Comentario />
+  </itens>
+  <itens>
+    <Atendente>000646</Atendente>
+    <Licenciado>000646</Licenciado>
+    <CodigoStatusOS />
+    <DescricaoStatusOS />
+    <NumeroOS>062619</NumeroOS>
+    <NumeroChamado>00075382</NumeroChamado>
+    <ItemChamado />
+    <DataEmissao>14/07/2014</DataEmissao>
+    <HoraEmissao />
+    <CodigoOrigem />
+    <DescricaoOrigem />
+    <CodigoTipoChamado>E</CodigoTipoChamado>
+    <TipoChamado />
+    <NomeContato>cleosmar</NomeContato>
+    <TelefoneContato>1147448200</TelefoneContato>
+    <OSParceiro />
+    <OSAntiga />
+    <FilialCliente />
+    <CodigoCliente>000053</CodigoCliente>
+    <NomeCliente>hosp. clin. faculdade medicina da usp             </NomeCliente>
+    <CGCCliente>60448040000122</CGCCliente>
+    <LojaCliente>01</LojaCliente>
+    <ProximoAtendimento>0626193001</ProximoAtendimento>
+    <ItemOS>30</ItemOS>
+    <DescricaoSituacaoOS>O.S</DescricaoSituacaoOS>
+    <CodigoSituacaoOS>1</CodigoSituacaoOS>
+    <CodigoClassificacao />
+    <DescricaoClassificacao />
+    <CodigoOcorrencia>000202</CodigoOcorrencia>
+    <DescricaoOcorrencia>servico - preventiva (mensal) </DescricaoOcorrencia>
+    <CodigoEtapa>10</CodigoEtapa>
+    <DescricaoEtapa>manutencao preventiva                                  </DescricaoEtapa>
+    <DescricaoSituacao />
+    <CodigoSituacao />
+    <D_E_L_E_T_ />
+    <DataGarantia>31/03/2003 00:00:00</DataGarantia>
+    <Versao />
+    <CodigoProduto>132.00000      </CodigoProduto>
+    <DescricaoProduto>respirador inter-5</DescricaoProduto>
+    <NumeroSerieProduto>I5-2002-03-03950</NumeroSerieProduto>
+    <DescrGarantia> (31/3/2003 - Fora da garantia)</DescrGarantia>
+    <SubItem />
+    <DescricaoSubItem />
+    <CodigoServico />
+    <DescricaoServico />
+    <Quantidade />
+    <ValorUnitario />
+    <Total />
+    <Comentario />
+  </itens>
+  <itens>
+    <Atendente>000646</Atendente>
+    <Licenciado>000646</Licenciado>
+    <CodigoStatusOS />
+    <DescricaoStatusOS />
+    <NumeroOS>062619</NumeroOS>
+    <NumeroChamado>00075382</NumeroChamado>
+    <ItemChamado />
+    <DataEmissao>14/07/2014</DataEmissao>
+    <HoraEmissao />
+    <CodigoOrigem />
+    <DescricaoOrigem />
+    <CodigoTipoChamado>E</CodigoTipoChamado>
+    <TipoChamado />
+    <NomeContato>cleosmar</NomeContato>
+    <TelefoneContato>1147448200</TelefoneContato>
+    <OSParceiro />
+    <OSAntiga />
+    <FilialCliente />
+    <CodigoCliente>000053</CodigoCliente>
+    <NomeCliente>hosp. clin. faculdade medicina da usp             </NomeCliente>
+    <CGCCliente>60448040000122</CGCCliente>
+    <LojaCliente>01</LojaCliente>
+    <ProximoAtendimento>0626193201</ProximoAtendimento>
+    <ItemOS>32</ItemOS>
+    <DescricaoSituacaoOS>O.S</DescricaoSituacaoOS>
+    <CodigoSituacaoOS>1</CodigoSituacaoOS>
+    <CodigoClassificacao />
+    <DescricaoClassificacao />
+    <CodigoOcorrencia>000202</CodigoOcorrencia>
+    <DescricaoOcorrencia>servico - preventiva (mensal) </DescricaoOcorrencia>
+    <CodigoEtapa>10</CodigoEtapa>
+    <DescricaoEtapa>manutencao preventiva                                  </DescricaoEtapa>
+    <DescricaoSituacao />
+    <CodigoSituacao />
+    <D_E_L_E_T_ />
+    <DataGarantia>31/03/2003 00:00:00</DataGarantia>
+    <Versao />
+    <CodigoProduto>132.00000      </CodigoProduto>
+    <DescricaoProduto>respirador inter-5</DescricaoProduto>
+    <NumeroSerieProduto>I5-2002-03-03956</NumeroSerieProduto>
+    <DescrGarantia> (31/3/2003 - Fora da garantia)</DescrGarantia>
+    <SubItem />
+    <DescricaoSubItem />
+    <CodigoServico />
+    <DescricaoServico />
+    <Quantidade />
+    <ValorUnitario />
+    <Total />
+    <Comentario />
+  </itens>
+  <itens>
+    <Atendente>000646</Atendente>
+    <Licenciado>000646</Licenciado>
+    <CodigoStatusOS />
+    <DescricaoStatusOS />
+    <NumeroOS>062619</NumeroOS>
+    <NumeroChamado>00075382</NumeroChamado>
+    <ItemChamado />
+    <DataEmissao>14/07/2014</DataEmissao>
+    <HoraEmissao />
+    <CodigoOrigem />
+    <DescricaoOrigem />
+    <CodigoTipoChamado>E</CodigoTipoChamado>
+    <TipoChamado />
+    <NomeContato>cleosmar</NomeContato>
+    <TelefoneContato>1147448200</TelefoneContato>
+    <OSParceiro />
+    <OSAntiga />
+    <FilialCliente />
+    <CodigoCliente>000053</CodigoCliente>
+    <NomeCliente>hosp. clin. faculdade medicina da usp             </NomeCliente>
+    <CGCCliente>60448040000122</CGCCliente>
+    <LojaCliente>01</LojaCliente>
+    <ProximoAtendimento>0626193401</ProximoAtendimento>
+    <ItemOS>34</ItemOS>
+    <DescricaoSituacaoOS>O.S</DescricaoSituacaoOS>
+    <CodigoSituacaoOS>1</CodigoSituacaoOS>
+    <CodigoClassificacao />
+    <DescricaoClassificacao />
+    <CodigoOcorrencia>000202</CodigoOcorrencia>
+    <DescricaoOcorrencia>servico - preventiva (mensal) </DescricaoOcorrencia>
+    <CodigoEtapa>10</CodigoEtapa>
+    <DescricaoEtapa>manutencao preventiva                                  </DescricaoEtapa>
+    <DescricaoSituacao />
+    <CodigoSituacao />
+    <D_E_L_E_T_ />
+    <DataGarantia>01/01/2001 00:00:00</DataGarantia>
+    <Versao />
+    <CodigoProduto>131.00950      </CodigoProduto>
+    <DescricaoProduto>microblender ar/o2-hf completo</DescricaoProduto>
+    <NumeroSerieProduto>I0-9709-01233</NumeroSerieProduto>
+    <DescrGarantia> (1/1/2001 - Fora da garantia)</DescrGarantia>
+    <SubItem />
+    <DescricaoSubItem />
+    <CodigoServico />
+    <DescricaoServico />
+    <Quantidade />
+    <ValorUnitario />
+    <Total />
+    <Comentario />
+  </itens>
+  <itens>
+    <Atendente>000646</Atendente>
+    <Licenciado>000646</Licenciado>
+    <CodigoStatusOS />
+    <DescricaoStatusOS />
+    <NumeroOS>062619</NumeroOS>
+    <NumeroChamado>00075382</NumeroChamado>
+    <ItemChamado />
+    <DataEmissao>14/07/2014</DataEmissao>
+    <HoraEmissao />
+    <CodigoOrigem />
+    <DescricaoOrigem />
+    <CodigoTipoChamado>E</CodigoTipoChamado>
+    <TipoChamado />
+    <NomeContato>cleosmar</NomeContato>
+    <TelefoneContato>1147448200</TelefoneContato>
+    <OSParceiro />
+    <OSAntiga />
+    <FilialCliente />
+    <CodigoCliente>000053</CodigoCliente>
+    <NomeCliente>hosp. clin. faculdade medicina da usp             </NomeCliente>
+    <CGCCliente>60448040000122</CGCCliente>
+    <LojaCliente>01</LojaCliente>
+    <ProximoAtendimento>0626193501</ProximoAtendimento>
+    <ItemOS>35</ItemOS>
+    <DescricaoSituacaoOS>O.S</DescricaoSituacaoOS>
+    <CodigoSituacaoOS>1</CodigoSituacaoOS>
+    <CodigoClassificacao />
+    <DescricaoClassificacao />
+    <CodigoOcorrencia>000202</CodigoOcorrencia>
+    <DescricaoOcorrencia>servico - preventiva (mensal) </DescricaoOcorrencia>
+    <CodigoEtapa>10</CodigoEtapa>
+    <DescricaoEtapa>manutencao preventiva                                  </DescricaoEtapa>
+    <DescricaoSituacao />
+    <CodigoSituacao />
+    <D_E_L_E_T_ />
+    <DataGarantia>25/06/1998 00:00:00</DataGarantia>
+    <Versao />
+    <CodigoProduto>131.00950      </CodigoProduto>
+    <DescricaoProduto>microblender ar/o2-hf completo</DescricaoProduto>
+    <NumeroSerieProduto>I0-9709-01236</NumeroSerieProduto>
+    <DescrGarantia> (25/6/1998 - Fora da garantia)</DescrGarantia>
+    <SubItem />
+    <DescricaoSubItem />
+    <CodigoServico />
+    <DescricaoServico />
+    <Quantidade />
+    <ValorUnitario />
+    <Total />
+    <Comentario />
+  </itens>
+</OrdemServico>

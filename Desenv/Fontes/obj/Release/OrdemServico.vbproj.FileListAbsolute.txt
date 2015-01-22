@@ -1,0 +1,44 @@
+C:\Projetos\Desenv\osonline\Desenv\Fontes\bin\OrdemServico.dll
+C:\Projetos\Desenv\osonline\Desenv\Fontes\bin\OrdemServico.XmlSerializers.dll
+C:\Projetos\Desenv\osonline\Desenv\Fontes\bin\OrdemServico.xml
+C:\Projetos\Desenv\osonline\Desenv\Fontes\obj\Release\OrdemServico.Resources.resources
+C:\Projetos\Desenv\osonline\Desenv\Fontes\obj\Release\OrdemServico.vbproj.GenerateResource.Cache
+C:\Projetos\Desenv\osonline\Desenv\Fontes\obj\Release\OrdemServico.dll
+C:\Projetos\Desenv\osonline\Desenv\Fontes\obj\Release\OrdemServico.xml
+C:\Projetos\Desenv\osonline\Desenv\Fontes\obj\Release\OrdemServico.XmlSerializers.dll
+C:\Projetos\Desenv\osonline\Desenv\Fontes\obj\Release\OrdemServico.vbprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Agility\INTERMED\WEB OSONLINE\osonline\Desenv\Fontes\bin\OrdemServico.dll
+C:\Users\Felipe\Documents\Agility\INTERMED\WEB OSONLINE\osonline\Desenv\Fontes\bin\OrdemServico.XmlSerializers.dll
+C:\Users\Felipe\Documents\Agility\INTERMED\WEB OSONLINE\osonline\Desenv\Fontes\bin\OrdemServico.xml
+C:\Users\Felipe\Documents\Agility\INTERMED\WEB OSONLINE\osonline\Desenv\Fontes\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Agility\INTERMED\WEB OSONLINE\osonline\Desenv\Fontes\obj\Release\OrdemServico.Resources.resources
+C:\Users\Felipe\Documents\Agility\INTERMED\WEB OSONLINE\osonline\Desenv\Fontes\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Felipe\Documents\Agility\INTERMED\WEB OSONLINE\osonline\Desenv\Fontes\obj\Release\GenerateResource.write.1.tlog
+C:\Users\Felipe\Documents\Agility\INTERMED\WEB OSONLINE\osonline\Desenv\Fontes\obj\Release\OrdemServico.dll
+C:\Users\Felipe\Documents\Agility\INTERMED\WEB OSONLINE\osonline\Desenv\Fontes\obj\Release\OrdemServico.xml
+C:\Users\Felipe\Documents\Agility\INTERMED\WEB OSONLINE\osonline\Desenv\Fontes\obj\Release\OrdemServico.XmlSerializers.dll
+C:\Projetos\OsOnline\Fontes\bin\OrdemServico.dll
+C:\Projetos\OsOnline\Fontes\bin\OrdemServico.XmlSerializers.dll
+C:\Projetos\OsOnline\Fontes\bin\OrdemServico.xml
+C:\Projetos\OsOnline\Fontes\obj\Release\OrdemServico.vbprojResolveAssemblyReference.cache
+C:\Projetos\OsOnline\Fontes\obj\Release\OrdemServico.Resources.resources
+C:\Projetos\OsOnline\Fontes\obj\Release\OrdemServico.vbproj.GenerateResource.Cache
+C:\Projetos\OsOnline\Fontes\obj\Release\OrdemServico.dll
+C:\Projetos\OsOnline\Fontes\obj\Release\OrdemServico.xml
+C:\Projetos\OsOnline\Fontes\obj\Release\OrdemServico.XmlSerializers.dll
+C:\Projetos\osonline\Desenv\Fontes\bin\OrdemServico.dll
+C:\Projetos\osonline\Desenv\Fontes\bin\OrdemServico.XmlSerializers.dll
+C:\Projetos\osonline\Desenv\Fontes\bin\OrdemServico.xml
+C:\Projetos\osonline\Desenv\Fontes\obj\Release\OrdemServico.Resources.resources
+C:\Projetos\osonline\Desenv\Fontes\obj\Release\OrdemServico.vbproj.GenerateResource.Cache
+C:\Projetos\osonline\Desenv\Fontes\obj\Release\OrdemServico.dll
+C:\Projetos\osonline\Desenv\Fontes\obj\Release\OrdemServico.xml
+C:\Projetos\osonline\Desenv\Fontes\obj\Release\OrdemServico.XmlSerializers.dll
+C:\Users\Agility\Documents\Codes\osonline\Desenv\Fontes\bin\OrdemServico.dll
+C:\Users\Agility\Documents\Codes\osonline\Desenv\Fontes\bin\OrdemServico.XmlSerializers.dll
+C:\Users\Agility\Documents\Codes\osonline\Desenv\Fontes\bin\OrdemServico.xml
+C:\Users\Agility\Documents\Codes\osonline\Desenv\Fontes\obj\Release\OrdemServico.Resources.resources
+C:\Users\Agility\Documents\Codes\osonline\Desenv\Fontes\obj\Release\OrdemServico.vbproj.GenerateResource.Cache
+C:\Users\Agility\Documents\Codes\osonline\Desenv\Fontes\obj\Release\OrdemServico.dll
+C:\Users\Agility\Documents\Codes\osonline\Desenv\Fontes\obj\Release\OrdemServico.xml
+C:\Users\Agility\Documents\Codes\osonline\Desenv\Fontes\obj\Release\OrdemServico.XmlSerializers.dll

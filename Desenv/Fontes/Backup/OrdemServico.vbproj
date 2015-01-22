@@ -1,0 +1,662 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5EA97BC2-2313-456A-8D50-6C8DD9A7E9E8}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <RootNamespace>OrdemServico</RootNamespace>
+    <AssemblyName>OrdemServico</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <MyType>Custom</MyType>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>On</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkProfile />
+    <UseIISExpress>false</UseIISExpress>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>OrdemServico.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <FilesToIncludeForPublish>AllFilesInProjectFolder</FilesToIncludeForPublish>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>None</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>false</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>OrdemServico.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit, Version=3.5.40412.0, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Collections.Specialized" />
+    <Import Include="System.Configuration" />
+    <Import Include="System.Text" />
+    <Import Include="System.Text.RegularExpressions" />
+    <Import Include="System.Web" />
+    <Import Include="System.Web.Caching" />
+    <Import Include="System.Web.SessionState" />
+    <Import Include="System.Web.Security" />
+    <Import Include="System.Web.Profile" />
+    <Import Include="System.Web.UI" />
+    <Import Include="System.Web.UI.WebControls" />
+    <Import Include="System.Web.UI.WebControls.WebParts" />
+    <Import Include="System.Web.UI.HtmlControls" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AlteracaoBaseInstalada.aspx" />
+    <Content Include="App_Themes\padrao\booyaosx.png" />
+    <Content Include="App_Themes\padrao\botao_maior.gif" />
+    <Content Include="App_Themes\padrao\CallCenter.png" />
+    <Content Include="App_Themes\padrao\carregando3.gif" />
+    <Content Include="App_Themes\padrao\Logo.gif" />
+    <Content Include="App_Themes\padrao\print.png" />
+    <Content Include="App_Themes\padrao\RodapeEmail.gif" />
+    <Content Include="App_Themes\padrao\TopoEmail.gif" />
+    <Content Include="componentes\controles\DescriptionBox.ascx" />
+    <Content Include="componentes\controles\DescriptionBoxItens.ascx" />
+    <Content Include="componentes\controles\DescriptionBoxSmall.ascx" />
+    <Content Include="componentes\controles\HourBox.ascx" />
+    <Content Include="componentes\controles\PhoneBox.ascx" />
+    <Content Include="componentes\controles\PopupBox.ascx" />
+    <Content Include="componentes\controles\PopupBoxYesNo.ascx" />
+    <Content Include="ConsultaAtendimento.aspx" />
+    <Content Include="ConsultaChamadoTecnico.aspx" />
+    <Content Include="ConsultaHistoricoProduto.aspx" />
+    <Content Include="controlesespecificos\AcessorioView.ascx" />
+    <Content Include="controlesespecificos\PecaView.ascx" />
+    <Content Include="controlesespecificos\BaseInstaladaBox.ascx" />
+    <Content Include="controlesespecificos\BaseInstaladaView.ascx" />
+    <Content Include="DetalheAtendimento.aspx" />
+    <Content Include="DetalheBaseInstalada.aspx" />
+    <Content Include="ConsultaBaseInstalada.aspx" />
+    <Content Include="controlesespecificos\ProdutoBox.ascx" />
+    <Content Include="DetalheChamadoTecnico.aspx" />
+    <Content Include="DownloadVersao.aspx" />
+    <Content Include="FaleConosco.aspx" />
+    <Content Include="imagens\arq_baixado.png" />
+    <Content Include="imagens\arq_baixado_menor.png" />
+    <Content Include="imagens\download.png" />
+    <Content Include="imagens\download_menor.png" />
+    <Content Include="imagens\legenda_amarela.jpg" />
+    <Content Include="imagens\legenda_azul.jpg" />
+    <Content Include="imagens\legenda_cinza.bmp" />
+    <Content Include="imagens\legenda_cinza_azul.bmp" />
+    <Content Include="imagens\legenda_cinza_vermelho.bmp" />
+    <Content Include="imagens\legenda_verde.bmp" />
+    <Content Include="imagens\legenda_vermelha.jpg" />
+    <Content Include="ImpressaoHistoricoAtendimento.aspx" />
+    <Content Include="ImpressaoOSAtendimento.aspx" />
+    <Content Include="Erro.aspx" />
+    <Content Include="App_Themes\padrao\wizard.png" />
+    <Content Include="imagens\load.gif" />
+    <Content Include="imagens\Nota.png" />
+    <Content Include="ImpressaoAtendimento.aspx" />
+    <Content Include="ImpressaoOrdemServico.aspx" />
+    <Content Include="Login.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AlteracaoBaseInstalada.aspx.designer.vb">
+      <DependentUpon>AlteracaoBaseInstalada.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AlteracaoBaseInstalada.aspx.vb">
+      <DependentUpon>AlteracaoBaseInstalada.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="classes\BaseWebUI .vb">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="classes\ctlAplicacao.vb" />
+    <Compile Include="classes\ctlChamadoTecnico.vb" />
+    <Compile Include="classes\ctlEmail.vb" />
+    <Compile Include="classes\ctlHistoricoProduto.vb" />
+    <Compile Include="classes\ctlItemChamadoTecnico.vb" />
+    <Compile Include="classes\ctlOrdemServico.vb" />
+    <Compile Include="classes\ctlVersao.vb" />
+    <Compile Include="componentes\controles\DescriptionBox.ascx.designer.vb">
+      <DependentUpon>DescriptionBox.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="componentes\controles\DescriptionBox.ascx.vb">
+      <DependentUpon>DescriptionBox.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="componentes\controles\DescriptionBoxItens.ascx.designer.vb">
+      <DependentUpon>DescriptionBoxItens.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="componentes\controles\DescriptionBoxItens.ascx.vb">
+      <DependentUpon>DescriptionBoxItens.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="componentes\controles\DescriptionBoxSmall.ascx.designer.vb">
+      <DependentUpon>DescriptionBoxSmall.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="componentes\controles\DescriptionBoxSmall.ascx.vb">
+      <DependentUpon>DescriptionBoxSmall.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="componentes\controles\HourBox.ascx.designer.vb">
+      <DependentUpon>HourBox.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="componentes\controles\HourBox.ascx.vb">
+      <DependentUpon>HourBox.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="componentes\controles\PhoneBox.ascx.designer.vb">
+      <DependentUpon>PhoneBox.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="componentes\controles\PhoneBox.ascx.vb">
+      <DependentUpon>PhoneBox.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="componentes\controles\PopupBox.ascx.designer.vb">
+      <DependentUpon>PopupBox.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="componentes\controles\PopupBox.ascx.vb">
+      <DependentUpon>PopupBox.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="componentes\controles\PopupBoxYesNo.ascx.designer.vb">
+      <DependentUpon>PopupBoxYesNo.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="componentes\controles\PopupBoxYesNo.ascx.vb">
+      <DependentUpon>PopupBoxYesNo.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ConsultaAtendimento.aspx.designer.vb">
+      <DependentUpon>ConsultaAtendimento.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaAtendimento.aspx.vb">
+      <DependentUpon>ConsultaAtendimento.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ConsultaChamadoTecnico.aspx.designer.vb">
+      <DependentUpon>ConsultaChamadoTecnico.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaChamadoTecnico.aspx.vb">
+      <DependentUpon>ConsultaChamadoTecnico.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ConsultaHistoricoProduto.aspx.designer.vb">
+      <DependentUpon>ConsultaHistoricoProduto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaHistoricoProduto.aspx.vb">
+      <DependentUpon>ConsultaHistoricoProduto.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="controlesespecificos\AcessorioView.ascx.designer.vb">
+      <DependentUpon>AcessorioView.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="controlesespecificos\AcessorioView.ascx.vb">
+      <DependentUpon>AcessorioView.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="controlesespecificos\PecaView.ascx.designer.vb">
+      <DependentUpon>PecaView.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="controlesespecificos\PecaView.ascx.vb">
+      <DependentUpon>PecaView.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="controlesespecificos\BaseInstaladaBox.ascx.designer.vb">
+      <DependentUpon>BaseInstaladaBox.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="controlesespecificos\BaseInstaladaBox.ascx.vb">
+      <DependentUpon>BaseInstaladaBox.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="controlesespecificos\BaseInstaladaView.ascx.designer.vb">
+      <DependentUpon>BaseInstaladaView.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="controlesespecificos\BaseInstaladaView.ascx.vb">
+      <DependentUpon>BaseInstaladaView.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DetalheAtendimento.aspx.designer.vb">
+      <DependentUpon>DetalheAtendimento.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DetalheAtendimento.aspx.vb">
+      <DependentUpon>DetalheAtendimento.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="DetalheBaseInstalada.aspx.designer.vb">
+      <DependentUpon>DetalheBaseInstalada.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DetalheBaseInstalada.aspx.vb">
+      <DependentUpon>DetalheBaseInstalada.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="classes\ctlBaseInstalada.vb" />
+    <Compile Include="classes\ctlAtendimento.vb" />
+    <Compile Include="classes\ctlCliente.vb" />
+    <Compile Include="classes\ctlItemAtendimento.vb" />
+    <Compile Include="classes\ctlItemBaseInstalada.vb" />
+    <Compile Include="classes\ctlItemOrdemServico.vb" />
+    <Compile Include="ConsultaBaseInstalada.aspx.designer.vb">
+      <DependentUpon>ConsultaBaseInstalada.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaBaseInstalada.aspx.vb">
+      <DependentUpon>ConsultaBaseInstalada.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="controlesespecificos\ProdutoBox.ascx.designer.vb">
+      <DependentUpon>ProdutoBox.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="controlesespecificos\ProdutoBox.ascx.vb">
+      <DependentUpon>ProdutoBox.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DetalheChamadoTecnico.aspx.designer.vb">
+      <DependentUpon>DetalheChamadoTecnico.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DetalheChamadoTecnico.aspx.vb">
+      <DependentUpon>DetalheChamadoTecnico.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="DownloadVersao.aspx.designer.vb">
+      <DependentUpon>DownloadVersao.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DownloadVersao.aspx.vb">
+      <DependentUpon>DownloadVersao.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FaleConosco.aspx.designer.vb">
+      <DependentUpon>FaleConosco.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FaleConosco.aspx.vb">
+      <DependentUpon>FaleConosco.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ImpressaoHistoricoAtendimento.aspx.designer.vb">
+      <DependentUpon>ImpressaoHistoricoAtendimento.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ImpressaoHistoricoAtendimento.aspx.vb">
+      <DependentUpon>ImpressaoHistoricoAtendimento.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ImpressaoOSAtendimento.aspx.designer.vb">
+      <DependentUpon>ImpressaoOSAtendimento.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ImpressaoOSAtendimento.aspx.vb">
+      <DependentUpon>ImpressaoOSAtendimento.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Erro.aspx.designer.vb">
+      <DependentUpon>Erro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Erro.aspx.vb">
+      <DependentUpon>Erro.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ImpressaoAtendimento.aspx.designer.vb">
+      <DependentUpon>ImpressaoAtendimento.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ImpressaoAtendimento.aspx.vb">
+      <DependentUpon>ImpressaoAtendimento.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ImpressaoOrdemServico.aspx.designer.vb">
+      <DependentUpon>ImpressaoOrdemServico.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ImpressaoOrdemServico.aspx.vb">
+      <DependentUpon>ImpressaoOrdemServico.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.vb">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.vb">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="classes\ctlSeguranca.vb" />
+    <Compile Include="classes\ctlProduto.vb" />
+    <Compile Include="classes\ctlRetornoGenerico.vb" />
+    <Compile Include="classes\ctlUsuario.vb" />
+    <Compile Include="classes\ctlUtil.vb" />
+    <Compile Include="componentes\controles\AutoHideButton.ascx.designer.vb">
+      <DependentUpon>AutoHideButton.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="componentes\controles\AutoHideButton.ascx.vb">
+      <DependentUpon>AutoHideButton.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="componentes\controles\BarraUsuario.ascx.designer.vb">
+      <DependentUpon>BarraUsuario.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="componentes\controles\BarraUsuario.ascx.vb">
+      <DependentUpon>BarraUsuario.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="controlesespecificos\ClienteBox.ascx.designer.vb">
+      <DependentUpon>ClienteBox.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="controlesespecificos\ClienteBox.ascx.vb">
+      <DependentUpon>ClienteBox.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="controlesespecificos\ClienteView.ascx.designer.vb">
+      <DependentUpon>ClienteView.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="controlesespecificos\ClienteView.ascx.vb">
+      <DependentUpon>ClienteView.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="componentes\controles\ConsultaPadrao.ascx.designer.vb">
+      <DependentUpon>ConsultaPadrao.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="componentes\controles\ConsultaPadrao.ascx.vb">
+      <DependentUpon>ConsultaPadrao.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="componentes\controles\DateBox.ascx.designer.vb">
+      <DependentUpon>DateBox.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="componentes\controles\DateBox.ascx.vb">
+      <DependentUpon>DateBox.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="componentes\controles\DetalheConsultaPadrao.ascx.designer.vb">
+      <DependentUpon>DetalheConsultaPadrao.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="componentes\controles\DetalheConsultaPadrao.ascx.vb">
+      <DependentUpon>DetalheConsultaPadrao.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="componentes\controles\Mensagem.ascx.designer.vb">
+      <DependentUpon>Mensagem.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="componentes\controles\Mensagem.ascx.vb">
+      <DependentUpon>Mensagem.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="componentes\controles\NumberBox.ascx.designer.vb">
+      <DependentUpon>NumberBox.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="componentes\controles\NumberBox.ascx.vb">
+      <DependentUpon>NumberBox.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="controlesespecificos\ProdutoView.ascx.designer.vb">
+      <DependentUpon>ProdutoView.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="controlesespecificos\ProdutoView.ascx.vb">
+      <DependentUpon>ProdutoView.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Global.asax.vb">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="MasterPage.Master.designer.vb">
+      <DependentUpon>MasterPage.Master</DependentUpon>
+    </Compile>
+    <Compile Include="MasterPage.Master.vb">
+      <DependentUpon>MasterPage.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MasterPrint.Master.designer.vb">
+      <DependentUpon>MasterPrint.Master</DependentUpon>
+    </Compile>
+    <Compile Include="MasterPrint.Master.vb">
+      <DependentUpon>MasterPrint.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\MyExtensions\MyWebExtension.vb">
+      <VBMyExtensionTemplateID>Microsoft.VisualBasic.Web.MyExtension</VBMyExtensionTemplateID>
+      <VBMyExtensionTemplateVersion>1.0.0.0</VBMyExtensionTemplateVersion>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ConsultaOrdemServico.aspx.designer.vb">
+      <DependentUpon>ConsultaOrdemServico.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaOrdemServico.aspx.vb">
+      <DependentUpon>ConsultaOrdemServico.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="DetalheOrdemServico.aspx.designer.vb">
+      <DependentUpon>DetalheOrdemServico.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DetalheOrdemServico.aspx.vb">
+      <DependentUpon>DetalheOrdemServico.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SubMaster.Master.designer.vb">
+      <DependentUpon>SubMaster.Master</DependentUpon>
+    </Compile>
+    <Compile Include="SubMaster.Master.vb">
+      <DependentUpon>SubMaster.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Web References\wsmicrosiga.ordemservico\Reference.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\wsmicrosiga.useragility\Reference.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\wsmicrosiga.utilagility\Reference.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Themes\padrao\aguarde.gif" />
+    <Content Include="App_Themes\padrao\alerta.png" />
+    <Content Include="App_Themes\padrao\botao.gif" />
+    <Content Include="App_Themes\padrao\erro.png" />
+    <Content Include="App_Themes\padrao\informacao.png" />
+    <Content Include="App_Themes\padrao\pixel.png" />
+    <Content Include="App_Themes\padrao\search.png" />
+    <Content Include="componentes\controles\AutoHideButton.ascx" />
+    <Content Include="componentes\controles\BarraUsuario.ascx" />
+    <Content Include="controlesespecificos\ClienteBox.ascx" />
+    <Content Include="controlesespecificos\ClienteView.ascx" />
+    <Content Include="componentes\controles\ConsultaPadrao.ascx" />
+    <Content Include="componentes\controles\DateBox.ascx" />
+    <Content Include="componentes\controles\DetalheConsultaPadrao.ascx" />
+    <Content Include="componentes\controles\Mensagem.ascx" />
+    <Content Include="componentes\controles\NumberBox.ascx" />
+    <Content Include="controlesespecificos\ProdutoView.ascx" />
+    <Content Include="imagens\pixel.png" />
+    <Content Include="App_Themes\padrao\Estilos.css" />
+    <Content Include="App_Themes\padrao\GridView.css" />
+    <Content Include="App_Themes\padrao\UserControls.css" />
+    <Content Include="Global.asax" />
+    <Content Include="imagens\confirmar.png" />
+    <Content Include="imagens\desfazer.png" />
+    <Content Include="imagens\Editar.png" />
+    <Content Include="imagens\Excluir.png" />
+    <Content Include="imagens\fechar.jpg" />
+    <Content Include="imagens\Logo.gif" />
+    <Content Include="imagens\Novo.png" />
+    <Content Include="componentes\controles\pixel.png" />
+    <Content Include="imagens\search.png" />
+    <Content Include="imagens\severidade.png" />
+    <Content Include="imagens\wait18trans.gif" />
+    <Content Include="include.js" />
+    <Content Include="MasterPage.Master" />
+    <Content Include="MasterPrint.Master" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\PublishProfiles\Os Online - Homologação.pubxml" />
+    <None Include="My Project\PublishProfiles\Os Online - Produção.pubxml" />
+    <None Include="My Project\PublishProfiles\Produção - OsOnline.pubxml" />
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <Content Include="ConsultaOrdemServico.aspx" />
+    <Content Include="DetalheOrdemServico.aspx" />
+    <Content Include="SubMaster.Master" />
+    <None Include="Web References\wsmicrosiga.ordemservico\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.vb</LastGenOutput>
+    </None>
+    <None Include="Web References\wsmicrosiga.ordemservico\RETSTRUCT.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\wsmicrosiga.ordemservico\WSORDEMSERVICO.wsdl" />
+    <None Include="Web References\wsmicrosiga.useragility\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.vb</LastGenOutput>
+    </None>
+    <None Include="Web References\wsmicrosiga.useragility\VALIDASTRUCT.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\wsmicrosiga.useragility\WSUSERAGILITY.wsdl" />
+    <None Include="Web References\wsmicrosiga.utilagility\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.vb</LastGenOutput>
+    </None>
+    <None Include="Web References\wsmicrosiga.utilagility\WSUTILAGILITY.wsdl" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="http://10.230.2.42:91/WSORDEMSERVICO.apw%3fWSDL">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\wsmicrosiga.ordemservico\</RelPath>
+      <UpdateFromURL>http://10.230.2.42:91/WSORDEMSERVICO.apw%3fWSDL</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>MySettings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>OrdemServico_wsmicrosiga_ordemservico_WSORDEMSERVICO</CachedSettingsPropName>
+    </WebReferenceUrl>
+    <WebReferenceUrl Include="http://10.230.2.42:91/WSUSERAGILITY.apw%3fWSDL">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\wsmicrosiga.useragility\</RelPath>
+      <UpdateFromURL>http://10.230.2.42:91/WSUSERAGILITY.apw%3fWSDL</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>MySettings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>OrdemServico_wsmicrosiga_useragility_WSUSERAGILITY</CachedSettingsPropName>
+    </WebReferenceUrl>
+    <WebReferenceUrl Include="http://10.230.2.42:91/WSUTILAGILITY.apw%3fWSDL">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\wsmicrosiga.utilagility\</RelPath>
+      <UpdateFromURL>http://10.230.2.42:91/WSUTILAGILITY.apw%3fWSDL</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>MySettings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>OrdemServico_wsmicrosiga_utilagility_WSUTILAGILITY</CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>55607</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>
