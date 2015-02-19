@@ -152,13 +152,15 @@ Public Class DetalheAtendimento
     End Function
 
     Private Sub Selecionar(ByVal sNumero As String)
+
         Dim cn As New ctlAtendimento
-        Dim reader As SqlDataReader = cn.Selecionar(sNumero)
-        If reader.HasRows() Then
+        Dim readerAtendimento As SqlDataReader = cn.Selecionar(sNumero)
+
+        If readerAtendimento.HasRows() Then
             Dim dt As New DataTable
-            If reader IsNot Nothing Then
-                dt.Load(reader)
-                reader.Close()
+            If readerAtendimento IsNot Nothing Then
+                dt.Load(readerAtendimento)
+                readerAtendimento.Close()
             End If
             'consulta etapas
             Dim dtEtapa As New DataTable

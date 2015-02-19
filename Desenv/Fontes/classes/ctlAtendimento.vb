@@ -1,6 +1,7 @@
 ﻿Imports System.Data.SqlClient
 Imports System.ComponentModel
 Imports System.Threading
+Imports System.Data
 
 Public Class ctlAtendimento
 
@@ -110,19 +111,42 @@ Public Class ctlAtendimento
         End Select
         conn.Open()
         Return cmd.ExecuteReader(CommandBehavior.CloseConnection)
+
     End Function
 
     Public Function Selecionar(ByVal numero As String) As SqlDataReader
         Dim conn = ctlUtil.GetConnection
+
         Dim cmd As New SqlCommand("PR_LISTAR_ITENS_ATENDIMENTOOS_02", conn)
 
         cmd.CommandTimeout = conn.ConnectionTimeout
         cmd.CommandType = CommandType.StoredProcedure
+
         cmd.Parameters.Add(New SqlParameter("@P_LICENCIADO", HttpContext.Current.User.Identity.Name)) 'DirectCast(HttpContext.Current.Session("Usuario2"), ctlUsuario).UserCode))
         cmd.Parameters.Add(New SqlParameter("@P_FILIAL", ctlUtil.GetFilial)) 'DirectCast(HttpContext.Current.Session("Usuario2"), Usuario).Filial))
         cmd.Parameters.Add(New SqlParameter("@P_NUMEROATENDIMENTOOS", numero))
         conn.Open()
-        Return cmd.ExecuteReader(CommandBehavior.CloseConnection)
+        Return cmd.ExecuteReader(CommandBehavior.CloseConnection)        
+    End Function
+
+    Public Function SelecionarDt(ByVal numero As String) As DataTable
+        Dim conn = ctlUtil.GetConnection
+        Dim dt As New DataTable
+
+        Dim cmd As New SqlCommand("PR_LISTAR_ITENS_ATENDIMENTOOS_02", conn)
+
+        cmd.CommandTimeout = conn.ConnectionTimeout
+        cmd.CommandType = CommandType.StoredProcedure
+        conn.Open()
+
+        cmd.Parameters.Add(New SqlParameter("@P_LICENCIADO", HttpContext.Current.User.Identity.Name)) 'DirectCast(HttpContext.Current.Session("Usuario2"), ctlUsuario).UserCode))
+        cmd.Parameters.Add(New SqlParameter("@P_FILIAL", ctlUtil.GetFilial)) 'DirectCast(HttpContext.Current.Session("Usuario2"), Usuario).Filial))
+        cmd.Parameters.Add(New SqlParameter("@P_NUMEROATENDIMENTOOS", numero))
+        Dim da As New SqlDataAdapter(cmd)
+        da.Fill(dt)
+        cmd.ExecuteReader(CommandBehavior.CloseConnection)
+        Return dt
+
     End Function
 
     Public Function Atender(ByVal oFicha As ctlAtendimento) As ctlRetornoGenerico

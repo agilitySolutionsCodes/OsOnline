@@ -436,3 +436,12 @@ C:\Users\Agility\Documents\Codes\osonline\Desenv\Fontes\obj\Debug\OrdemServico.v
 C:\Users\Agility\Documents\Codes\osonline\Desenv\Fontes\obj\Debug\OrdemServico.dll
 C:\Users\Agility\Documents\Codes\osonline\Desenv\Fontes\obj\Debug\OrdemServico.xml
 C:\Users\Agility\Documents\Codes\osonline\Desenv\Fontes\obj\Debug\OrdemServico.pdb
+C:\Codes\OsOnline\Desenv\Fontes\bin\OrdemServico.dll
+C:\Codes\OsOnline\Desenv\Fontes\bin\OrdemServico.pdb
+C:\Codes\OsOnline\Desenv\Fontes\bin\OrdemServico.xml
+C:\Codes\OsOnline\Desenv\Fontes\obj\Debug\OrdemServico.Resources.resources
+C:\Codes\OsOnline\Desenv\Fontes\obj\Debug\OrdemServico.vbproj.GenerateResource.Cache
+C:\Codes\OsOnline\Desenv\Fontes\obj\Debug\OrdemServico.dll
+C:\Codes\OsOnline\Desenv\Fontes\obj\Debug\OrdemServico.xml
+C:\Codes\OsOnline\Desenv\Fontes\obj\Debug\OrdemServico.pdb
+C:\Codes\OsOnline\Desenv\Fontes\obj\Debug\OrdemServico.vbprojResolveAssemblyReference.cache
