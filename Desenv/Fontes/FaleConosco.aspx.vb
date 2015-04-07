@@ -43,6 +43,7 @@ Public Class FaleConosco
                         Dim appSettings As NameValueCollection = ConfigurationManager.AppSettings
                         Dim sChave = appSettings("Extensao").Split(CChar(","))
                         Dim anexoUm As String = Path.GetExtension(UploadAnexoUm.FileName.ToString())
+                        Dim caminho = Server.MapPath("~/OS_TempFiles/")
 
                         For Each item In sChave
 
@@ -50,7 +51,7 @@ Public Class FaleConosco
 
                                 Try
                                     Dim arquivo As String = ""
-                                    arquivo = "E:/PROJETO_OSONLINE/osonlinehomologacao/OS_TempFiles/" & UploadAnexoUm.FileName.ToString
+                                    arquivo = caminho & UploadAnexoUm.FileName.ToString
                                     'arquivo = "C:/Projetos/osonline/Desenv/Fontes/OS_TempFiles/" & UploadAnexoUm.FileName.ToString
 
                                     UploadAnexoUm.SaveAs(arquivo)
@@ -66,46 +67,47 @@ Public Class FaleConosco
                                     Throw ex
                                 End Try
 
-                            Else
-                                oRet.Sucesso = False
-                                oRet.Mensagem = "Extensão do arquivo anexado é inválida"
+                                'Else
+                                '    oRet.Sucesso = False
+                                '    oRet.Mensagem = "Extensão do arquivo anexado é inválida"
+                                'End If
+
                             End If
                         Next
                     End If
-                    'Else
-                    '    oRet.Sucesso = False
-                    '    If drpAssunto.SelectedValue.Trim = "R" Then
-                    '        sParam = "MV_OOFALEC"
-                    '        oRet.Sucesso = True
-                    '    Else
-                    '        sParam = "MV_OOFALEO"
-                    '        oRet.Sucesso = True
-                    '    End If
-                    '    oRet.Mensagem = "Necessário preencher o parâmetro " & sParam & " no Protheus. Favor entrar em contato com a Intermed."
-                    'End If
+
+                    If oRet.Sucesso Then
+                        'envia email para responsavel com dados
+                        cBody = "<html><head><link rel=""stylesheet"" type=""text/css"" href=""http://www.intermed.com.br/osonline/App_Themes/padrao/Estilos.css""></head>"
+                        cBody += "<body><form>"
+                        cBody += "<center><table class=""formulario"" style=""width:680px;"" >"
+                        cBody += "<tr><td><img style=""border-width:0px;"" src=""http://www.intermed.com.br/osonline/App_Themes/padrao/TopoEmail.gif"" title=""Carefusion""></td></tr>"
+                        cBody += "<tr><td class=""label"" align=""center"">FALE CONOSCO</td></tr>"
+                        cBody += "<tr><td align=""left""><strong>Licenciado:</strong> " & HttpContext.Current.Session("NomeUsuario").ToString & "</td></tr>"
+                        cBody += "<tr><td align=""left""><strong>Nome:</strong> " & txtNome.Text.Trim & "</td></tr>"
+                        cBody += "<tr><td align=""left""><strong>E-mail:</strong> " & txtEmail.Text.Trim & "</td></tr>"
+                        cBody += "<tr><td align=""left""><strong>Assunto:</strong> " & drpAssunto.SelectedItem.ToString & "</td></tr>"
+                        cBody += "<tr><td align=""left""><strong>Descrição:</strong> " & txtDescricao.Text & "</td></tr>"
+                        cBody += "<tr><td align=""left""><strong><a href=mailto:" & HttpContext.Current.Session("EmailUsuario").ToString() & ">Responda aqui</a>"
+                        cBody += "<tr><td><img style=""border-width:0px;"" src=""http://www.intermed.com.br/osonline/App_Themes/padrao/RodapeEmail.gif"" title=""Intermed""></div>"
+                        cBody += "</td></tr></table></center>"
+                        cBody += "</form></body></html>"
+
+                        sMsgRet = ctlEmail.enviaMensagemEmail(sParam.Trim, "", "Fale Conosco - OsOnline", cBody)
+                        oRet.Mensagem = sMsgRet
+                        ApagarCampos()
+                    End If
+
                 End If
-            End If
 
-            If oRet.Sucesso Then
-                'envia email para responsavel com dados
-                cBody = "<html><head><link rel=""stylesheet"" type=""text/css"" href=""http://www.intermed.com.br/osonline/App_Themes/padrao/Estilos.css""></head>"
-                cBody += "<body><form>"
-                cBody += "<center><table class=""formulario"" style=""width:680px;"" >"
-                cBody += "<tr><td><img style=""border-width:0px;"" src=""http://www.intermed.com.br/osonline/App_Themes/padrao/TopoEmail.gif"" title=""Carefusion""></td></tr>"
-                cBody += "<tr><td class=""label"" align=""center"">FALE CONOSCO</td></tr>"
-                cBody += "<tr><td align=""left""><strong>Licenciado:</strong> " & HttpContext.Current.Session("NomeUsuario").ToString & "</td></tr>"
-                cBody += "<tr><td align=""left""><strong>Nome:</strong> " & txtNome.Text.Trim & "</td></tr>"
-                cBody += "<tr><td align=""left""><strong>E-mail:</strong> " & txtEmail.Text.Trim & "</td></tr>"
-                cBody += "<tr><td align=""left""><strong>Assunto:</strong> " & drpAssunto.SelectedItem.ToString & "</td></tr>"
-                cBody += "<tr><td align=""left""><strong>Descrição:</strong> " & txtDescricao.Text & "</td></tr>"
-                cBody += "<tr><td align=""left""><strong><a href=mailto:" & HttpContext.Current.Session("EmailUsuario").ToString() & ">Responda aqui</a>"
-                cBody += "<tr><td><img style=""border-width:0px;"" src=""http://www.intermed.com.br/osonline/App_Themes/padrao/RodapeEmail.gif"" title=""Intermed""></div>"
-                cBody += "</td></tr></table></center>"
-                cBody += "</form></body></html>"
-
-                sMsgRet = ctlEmail.enviaMensagemEmail(sParam.Trim, "", "Fale Conosco - OsOnline", cBody)
-                oRet.Mensagem = sMsgRet
-                ApagarCampos()
+            Else
+                oRet.Sucesso = False
+                If drpAssunto.SelectedValue.Trim = "R" Then
+                    sParam = "MV_OOFALEC"
+                Else
+                    sParam = "MV_OOFALEO"
+                End If
+                oRet.Mensagem = "Necessário preencher o parâmetro " & sParam & " no Protheus. Favor entrar em contato com a Intermed."
             End If
 
             oMensagem.SetMessage(oRet)

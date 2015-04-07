@@ -62,10 +62,7 @@ Partial Public Class ConsultaOrdemServico
             oRet = Validar(oTipoSelecionado, oParametros)
 
             If oRet.Sucesso Then
-
-                Dim Os As New ctlOrdemServico
-                reader = Os.Listar(oTipoSelecionado, oParametros)
-
+                reader = New ctlOrdemServico().Listar(oTipoSelecionado, oParametros)
 
                 oMensagem.ClearMessage()
                 If Not reader.HasRows Then

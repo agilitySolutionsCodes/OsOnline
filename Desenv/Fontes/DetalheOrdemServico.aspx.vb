@@ -248,8 +248,10 @@ Partial Public Class DetalheOrdemServico
         btnImprimir.CommandArgument = dt.Rows(0).Item("NumeroOs").ToString.Trim
 
         Dim drpSituacao As DropDownList
+        Dim drpClassifica As DropDownList
         For Each gr As GridViewRow In grdItens.Rows
             drpSituacao = DirectCast(gr.FindControl("drpSituacao"), DropDownList)
+            drpClassifica = DirectCast(gr.FindControl("drpClassificacao"), DropDownList)
             If drpSituacao.SelectedValue.Trim = "4" Then
                 btnImpimirAtend.Visible = True
             End If
@@ -612,6 +614,7 @@ Partial Public Class DetalheOrdemServico
 
         'Variáveis criadas para validação de extensão ao anexar documento
         Dim appSettings As NameValueCollection = ConfigurationManager.AppSettings
+        Dim path_anexo = Server.MapPath("~/OS_Downloads_temp/")
         'Variáveis criadas para validação de extensão ao anexar documento
         Dim anexoUm As String = Path.GetExtension(UploadAnexoUm.FileName.ToString())
         Dim anexoDois As String = Path.GetExtension(UploadAnexoDois.FileName.ToString())
@@ -660,7 +663,7 @@ Partial Public Class DetalheOrdemServico
                                     tamanhoVetor = fileBreak.Length
 
                                     'arquiv = "C:/Projetos/osonline/Desenv/Fontes/OS_downloads/" & UploadAnexoUm.FileName.ToString
-                                    arquiv = "E:/PROJETO_OSONLINE/osonline/OS_downloads_temp/" & UploadAnexoUm.FileName.ToString
+                                    arquiv = path_anexo & UploadAnexoUm.FileName.ToString
 
                                     nomeArquivoUm = UploadAnexoUm.FileName.ToString
 
@@ -670,7 +673,7 @@ Partial Public Class DetalheOrdemServico
 
                                             nomeArquivoUm = UploadAnexoUm.FileName.ToString.Remove(UploadAnexoUm.FileName.Length - tamanhoExtensao) & "(" & contador.ToString() & ")" & "." & fileBreak(tamanhoVetor - 1)
                                             'arquiv = "C:/Projetos/osonline/Desenv/Fontes/OS_downloads/" & nomeArquivoUm
-                                            arquiv = "E:/PROJETO_OSONLINE/osonline/OS_downloads_temp/" & nomeArquivoUm
+                                            arquiv = path_anexo & nomeArquivoUm
                                         End While
                                     End If
 
@@ -678,6 +681,8 @@ Partial Public Class DetalheOrdemServico
 
                                     Session.Add("UploadAnexoUm", nomeArquivoUm)
 
+                                    oRet.Sucesso = True
+                                    oRet.Mensagem = "Arquivo salvo com sucesso."
                                 Catch ex As Exception
                                     Throw ex
                                 End Try
@@ -721,7 +726,7 @@ Partial Public Class DetalheOrdemServico
 
                                     tamanhoVetor = fileBreak.Length
 
-                                    arquiv = "E:/PROJETO_OSONLINE/osonline/OS_downloads_temp/" & UploadAnexoDois.FileName.ToString
+                                    arquiv = path_anexo & UploadAnexoDois.FileName.ToString
                                     nomeArquivoDois = UploadAnexoDois.FileName.ToString
 
                                     If "." & fileBreak(tamanhoVetor - 1) = anexoDois Then
@@ -729,7 +734,7 @@ Partial Public Class DetalheOrdemServico
                                             contador += 1
 
                                             nomeArquivoDois = UploadAnexoDois.FileName.ToString.Remove(UploadAnexoDois.FileName.Length - tamanhoExtensao) & "(" & contador.ToString() & ")" & "." & fileBreak(tamanhoVetor - 1)
-                                            arquiv = "E:/PROJETO_OSONLINE/osonline/OS_downloads_temp/" & nomeArquivoDois
+                                            arquiv = path_anexo & nomeArquivoDois
                                         End While
                                     End If
 
@@ -779,7 +784,7 @@ Partial Public Class DetalheOrdemServico
 
                                     tamanhoVetor = fileBreak.Length
 
-                                    arquiv = "E:/PROJETO_OSONLINE/osonline/OS_downloads_temp/" & UploadAnexoTres.FileName.ToString
+                                    arquiv = path_anexo & UploadAnexoTres.FileName.ToString
                                     nomeArquivoTres = UploadAnexoTres.FileName.ToString
 
                                     If "." & fileBreak(tamanhoVetor - 1) = anexoTres Then
@@ -787,7 +792,7 @@ Partial Public Class DetalheOrdemServico
                                             contador += 1
 
                                             nomeArquivoTres = UploadAnexoTres.FileName.ToString.Remove(UploadAnexoTres.FileName.Length - tamanhoExtensao) & "(" & contador.ToString() & ")" & "." & fileBreak(tamanhoVetor - 1)
-                                            arquiv = "E:/PROJETO_OSONLINE/osonline/OS_downloads_temp/" & nomeArquivoTres
+                                            arquiv = path_anexo & nomeArquivoTres
                                         End While
                                     End If
 

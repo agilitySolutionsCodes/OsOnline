@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:s0="http://10.230.2.42:91/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" targetNamespace="http://10.230.2.42:91/" xmlns="http://schemas.xmlsoap.org/wsdl/">
+<definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:s0="http://10.230.2.44:91/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" targetNamespace="http://10.230.2.44:91/" xmlns="http://schemas.xmlsoap.org/wsdl/">
   <types>
-    <s:schema elementFormDefault="qualified" targetNamespace="http://10.230.2.42:91/">
+    <s:schema elementFormDefault="qualified" targetNamespace="http://10.230.2.44:91/">
       <s:element name="WEBGETMV">
         <s:complexType>
           <s:sequence>
@@ -53,7 +53,7 @@
   <binding name="WSUTILAGILITYSOAP" type="s0:WSUTILAGILITYSOAP">
     <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
     <operation name="WEBGETMV">
-      <soap:operation soapAction="http://10.230.2.42:91/WEBGETMV" style="document" />
+      <soap:operation soapAction="http://10.230.2.44:91/WEBGETMV" style="document" />
       <input>
         <soap:body use="literal" />
       </input>
@@ -65,7 +65,7 @@
   <service name="WSUTILAGILITY">
     <documentation>Funcoes Utilitarias do Microsiga</documentation>
     <port name="WSUTILAGILITYSOAP" binding="s0:WSUTILAGILITYSOAP">
-      <soap:address location="http://10.230.2.42:91/WSUTILAGILITY.apw" />
+      <soap:address location="http://10.230.2.44:91/WSUTILAGILITY.apw" />
     </port>
   </service>
 </definitions>

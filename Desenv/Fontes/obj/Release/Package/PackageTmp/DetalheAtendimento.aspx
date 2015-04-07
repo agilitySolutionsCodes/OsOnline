@@ -88,12 +88,11 @@
         </asp:DropDownList>
                 <br />
                 <br />
-
                 <asp:UpdatePanel ID="UpdatePanel2" runat="server">
                     <ContentTemplate>
                         <br />
                         <asp:Panel ID="pnlEtapas" runat="server" CssClass="gridFundo">
-                            <asp:GridView ID="grdEtapas" runat="server" AutoGenerateColumns="False" Width="100%" CssClass="GridViewStyle" 
+                            <asp:GridView ID="grdEtapas" runat="server" AutoGenerateColumns="false" Width="100%" CssClass="GridViewStyle"
                                 ShowFooter="True" EnableModelValidation="True" HeaderStyle-HorizontalAlign="NotSet">
                                 <Columns>
                                     <asp:CommandField InsertText="Incluir" NewText="Novo" ShowCancelButton="True" ShowDeleteButton="true"
@@ -101,14 +100,12 @@
                                         CancelText="Cancelar" CancelImageUrl="~/imagens/desfazer.png" EditImageUrl="~/imagens/Editar.png"
                                         DeleteImageUrl="~/imagens/Excluir.png" InsertImageUrl="~/imagens/Novo.png" NewImageUrl="~/imagens/Novo.png"
                                         UpdateImageUrl="~/imagens/confirmar.png" HeaderText="&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" />
-
                                     <asp:TemplateField HeaderText="Item" Visible="True">
                                         <ItemTemplate>
                                             <asp:Label ID="lblItemEtapa" runat="server" Text='<%# Bind("Item") %>' />
                                         </ItemTemplate>
                                         <HeaderStyle HorizontalAlign="Left" />
                                     </asp:TemplateField>
-
                                     <asp:TemplateField HeaderText="Etapa">
                                         <EditItemTemplate>
                                             <asp:DropDownList ID="drpEtapa" runat="server" DataTextField="DescricaoEtapa"
@@ -122,8 +119,7 @@
                                         </ItemTemplate>
                                         <HeaderStyle HorizontalAlign="Left" />
                                     </asp:TemplateField>
-
-                                    <asp:TemplateField  HeaderText="Data Início">
+                                    <asp:TemplateField HeaderText="Data Início">
                                         <EditItemTemplate>
                                             <uc5:DateBox ID="oDtInicio" runat="server" Text='<%# Bind("DataInicio")%>' />
                                         </EditItemTemplate>
@@ -132,7 +128,6 @@
                                         </ItemTemplate>
                                         <HeaderStyle HorizontalAlign="Left" />
                                     </asp:TemplateField>
-
                                     <asp:TemplateField HeaderText="Hora Início">
                                         <EditItemTemplate>
                                             <uc11:HourBox ID="oHrInicio" runat="server" Text='<%# Bind("HoraInicio")%>' />
@@ -142,7 +137,6 @@
                                         </ItemTemplate>
                                         <HeaderStyle HorizontalAlign="Left" />
                                     </asp:TemplateField>
-
                                     <asp:TemplateField HeaderText="Data Término">
                                         <EditItemTemplate>
                                             <uc5:DateBox ID="oDtFim" runat="server" Text='<%# Bind("DataFim")%>' />
@@ -152,7 +146,6 @@
                                         </ItemTemplate>
                                         <HeaderStyle HorizontalAlign="Left" />
                                     </asp:TemplateField>
-
                                     <asp:TemplateField HeaderText="Hora Término">
                                         <EditItemTemplate>
                                             <uc11:HourBox ID="oHrFim" runat="server" Text='<%# Bind("HoraFim")%>' />
@@ -169,14 +162,12 @@
                                         </ItemTemplate>
                                         <HeaderStyle HorizontalAlign="Left" />
                                     </asp:TemplateField>
-
                                 </Columns>
                                 <HeaderStyle CssClass="HeaderStyle" />
                                 <FooterStyle CssClass="HeaderStyle" />
                                 <EditRowStyle CssClass="AltRowStyle" />
                                 <RowStyle CssClass="RowStyle2" />
                                 <AlternatingRowStyle CssClass="AltRowStyle" />
-
                             </asp:GridView>
                         </asp:Panel>
                     </ContentTemplate>

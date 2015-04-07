@@ -1,44 +1,68 @@
-C:\Projetos\Desenv\osonline\Desenv\Fontes\bin\OrdemServico.dll
-C:\Projetos\Desenv\osonline\Desenv\Fontes\bin\OrdemServico.XmlSerializers.dll
-C:\Projetos\Desenv\osonline\Desenv\Fontes\bin\OrdemServico.xml
-C:\Projetos\Desenv\osonline\Desenv\Fontes\obj\Release\OrdemServico.Resources.resources
-C:\Projetos\Desenv\osonline\Desenv\Fontes\obj\Release\OrdemServico.vbproj.GenerateResource.Cache
-C:\Projetos\Desenv\osonline\Desenv\Fontes\obj\Release\OrdemServico.dll
-C:\Projetos\Desenv\osonline\Desenv\Fontes\obj\Release\OrdemServico.xml
-C:\Projetos\Desenv\osonline\Desenv\Fontes\obj\Release\OrdemServico.XmlSerializers.dll
-C:\Projetos\Desenv\osonline\Desenv\Fontes\obj\Release\OrdemServico.vbprojResolveAssemblyReference.cache
-C:\Users\Felipe\Documents\Agility\INTERMED\WEB OSONLINE\osonline\Desenv\Fontes\bin\OrdemServico.dll
-C:\Users\Felipe\Documents\Agility\INTERMED\WEB OSONLINE\osonline\Desenv\Fontes\bin\OrdemServico.XmlSerializers.dll
-C:\Users\Felipe\Documents\Agility\INTERMED\WEB OSONLINE\osonline\Desenv\Fontes\bin\OrdemServico.xml
-C:\Users\Felipe\Documents\Agility\INTERMED\WEB OSONLINE\osonline\Desenv\Fontes\obj\Release\ResolveAssemblyReference.cache
-C:\Users\Felipe\Documents\Agility\INTERMED\WEB OSONLINE\osonline\Desenv\Fontes\obj\Release\OrdemServico.Resources.resources
-C:\Users\Felipe\Documents\Agility\INTERMED\WEB OSONLINE\osonline\Desenv\Fontes\obj\Release\GenerateResource.read.1.tlog
-C:\Users\Felipe\Documents\Agility\INTERMED\WEB OSONLINE\osonline\Desenv\Fontes\obj\Release\GenerateResource.write.1.tlog
-C:\Users\Felipe\Documents\Agility\INTERMED\WEB OSONLINE\osonline\Desenv\Fontes\obj\Release\OrdemServico.dll
-C:\Users\Felipe\Documents\Agility\INTERMED\WEB OSONLINE\osonline\Desenv\Fontes\obj\Release\OrdemServico.xml
-C:\Users\Felipe\Documents\Agility\INTERMED\WEB OSONLINE\osonline\Desenv\Fontes\obj\Release\OrdemServico.XmlSerializers.dll
-C:\Projetos\OsOnline\Fontes\bin\OrdemServico.dll
-C:\Projetos\OsOnline\Fontes\bin\OrdemServico.XmlSerializers.dll
-C:\Projetos\OsOnline\Fontes\bin\OrdemServico.xml
-C:\Projetos\OsOnline\Fontes\obj\Release\OrdemServico.vbprojResolveAssemblyReference.cache
-C:\Projetos\OsOnline\Fontes\obj\Release\OrdemServico.Resources.resources
-C:\Projetos\OsOnline\Fontes\obj\Release\OrdemServico.vbproj.GenerateResource.Cache
-C:\Projetos\OsOnline\Fontes\obj\Release\OrdemServico.dll
-C:\Projetos\OsOnline\Fontes\obj\Release\OrdemServico.xml
-C:\Projetos\OsOnline\Fontes\obj\Release\OrdemServico.XmlSerializers.dll
-C:\Projetos\osonline\Desenv\Fontes\bin\OrdemServico.dll
-C:\Projetos\osonline\Desenv\Fontes\bin\OrdemServico.XmlSerializers.dll
-C:\Projetos\osonline\Desenv\Fontes\bin\OrdemServico.xml
-C:\Projetos\osonline\Desenv\Fontes\obj\Release\OrdemServico.Resources.resources
-C:\Projetos\osonline\Desenv\Fontes\obj\Release\OrdemServico.vbproj.GenerateResource.Cache
-C:\Projetos\osonline\Desenv\Fontes\obj\Release\OrdemServico.dll
-C:\Projetos\osonline\Desenv\Fontes\obj\Release\OrdemServico.xml
-C:\Projetos\osonline\Desenv\Fontes\obj\Release\OrdemServico.XmlSerializers.dll
-C:\Users\Agility\Documents\Codes\osonline\Desenv\Fontes\bin\OrdemServico.dll
-C:\Users\Agility\Documents\Codes\osonline\Desenv\Fontes\bin\OrdemServico.XmlSerializers.dll
-C:\Users\Agility\Documents\Codes\osonline\Desenv\Fontes\bin\OrdemServico.xml
-C:\Users\Agility\Documents\Codes\osonline\Desenv\Fontes\obj\Release\OrdemServico.Resources.resources
-C:\Users\Agility\Documents\Codes\osonline\Desenv\Fontes\obj\Release\OrdemServico.vbproj.GenerateResource.Cache
-C:\Users\Agility\Documents\Codes\osonline\Desenv\Fontes\obj\Release\OrdemServico.dll
-C:\Users\Agility\Documents\Codes\osonline\Desenv\Fontes\obj\Release\OrdemServico.xml
-C:\Users\Agility\Documents\Codes\osonline\Desenv\Fontes\obj\Release\OrdemServico.XmlSerializers.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\OrdemServico.dll.config
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\OrdemServico.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\OrdemServico.XmlSerializers.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\OrdemServico.xml
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\AjaxControlToolkit.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\AjaxMin.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\HtmlAgilityPack.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\Microsoft.Data.Edm.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\Microsoft.Data.OData.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\System.Spatial.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\HtmlAgilityPack.pdb
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\HtmlAgilityPack.xml
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\Microsoft.Data.Edm.xml
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\Microsoft.Data.OData.xml
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\System.Spatial.xml
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\de\System.Spatial.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\es\System.Spatial.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\fr\System.Spatial.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\it\System.Spatial.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\ja\System.Spatial.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\ko\System.Spatial.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\ru\System.Spatial.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\obj\Release\OrdemServico.vbprojResolveAssemblyReference.cache
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\obj\Release\OrdemServico.Resources.resources
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\obj\Release\OrdemServico.vbproj.GenerateResource.Cache
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\obj\Release\OrdemServico.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\obj\Release\OrdemServico.xml
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\obj\Release\OrdemServico.XmlSerializers.dll

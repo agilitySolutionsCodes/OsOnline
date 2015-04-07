@@ -97,7 +97,7 @@
                             <HeaderStyle HorizontalAlign="Left" />
                             <ItemTemplate>
                                 <asp:DropDownList ID="drpSituacao" runat="server" DataTextField="DescricaoSituacaoOS"
-                                    DataValueField="CodigoSituacaoOS" CssClass="drop2" Enabled="false">
+                                    DataValueField="CodigoSituacaoOs" CssClass="drop2" Enabled="false">
                                 </asp:DropDownList>
                             </ItemTemplate>
                         </asp:TemplateField>

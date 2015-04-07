@@ -1,0 +1,27 @@
+﻿/* HOVER STYLES */
+div#pop-up {
+  display: none;
+  position: absolute;
+  width: 740px;
+  padding: 10px;
+  background: #eeeeee;
+  color: #000000;
+  border: 1px solid #1a1a1a;
+  font-size: 90%;
+}
+
+.tituloHover {
+    float: left;
+    margin: 2px 2px 2px 2px;
+    font-size: 13px;
+    width: 140px;
+    height: 20px;
+}
+
+.descricaoHover {
+    float: left;
+    margin: 2px 2px 2px 2px;
+    font-size: 12px;
+    width: 585px;
+    height: 25px;
+}

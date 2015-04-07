@@ -37,7 +37,7 @@
         </td>
         <td  dir="rtl" class="style2">
             <asp:Image ID="imgLogoIntermed" runat="server" Height="52px" 
-                       ImageUrl="~/App_Themes/padrao/Logo.jpg" /> &nbsp;
+                       ImageUrl="~/App_Themes/padrao/Logo.gif" /> &nbsp;
         </td>
     </tr >
 

@@ -1,447 +1,68 @@
-C:\Users\Andre\Documents\Desenvolvimento\Projeto Ordem de Serviço\Fontes\bin\OrdemServico.dll
-C:\Users\Andre\Documents\Desenvolvimento\Projeto Ordem de Serviço\Fontes\bin\OrdemServico.pdb
-C:\Users\Andre\Documents\Desenvolvimento\Projeto Ordem de Serviço\Fontes\bin\OrdemServico.xml
-C:\Users\Andre\Documents\Desenvolvimento\Projeto Ordem de Serviço\Fontes\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Andre\Documents\Desenvolvimento\Projeto Ordem de Serviço\Fontes\obj\Debug\OrdemServico.Resources.resources
-C:\Users\Andre\Documents\Desenvolvimento\Projeto Ordem de Serviço\Fontes\obj\Debug\GenerateResource.read.1.tlog
-C:\Users\Andre\Documents\Desenvolvimento\Projeto Ordem de Serviço\Fontes\obj\Debug\GenerateResource.write.1.tlog
-C:\Users\Andre\Documents\Desenvolvimento\Projeto Ordem de Serviço\Fontes\obj\Debug\OrdemServico.dll
-C:\Users\Andre\Documents\Desenvolvimento\Projeto Ordem de Serviço\Fontes\obj\Debug\OrdemServico.xml
-C:\Users\Andre\Documents\Desenvolvimento\Projeto Ordem de Serviço\Fontes\obj\Debug\OrdemServico.pdb
-C:\Users\Andre\Documents\Desenvolvimento\Projeto OS Online\Fontes\bin\OrdemServico.dll
-C:\Users\Andre\Documents\Desenvolvimento\Projeto OS Online\Fontes\bin\OrdemServico.pdb
-C:\Users\Andre\Documents\Desenvolvimento\Projeto OS Online\Fontes\bin\OrdemServico.xml
-C:\Users\Andre\Documents\Desenvolvimento\Projeto OS Online\Fontes\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Andre\Documents\Desenvolvimento\Projeto OS Online\Fontes\obj\Debug\OrdemServico.Resources.resources
-C:\Users\Andre\Documents\Desenvolvimento\Projeto OS Online\Fontes\obj\Debug\GenerateResource.read.1.tlog
-C:\Users\Andre\Documents\Desenvolvimento\Projeto OS Online\Fontes\obj\Debug\GenerateResource.write.1.tlog
-C:\Users\Andre\Documents\Desenvolvimento\Projeto OS Online\Fontes\obj\Debug\OrdemServico.dll
-C:\Users\Andre\Documents\Desenvolvimento\Projeto OS Online\Fontes\obj\Debug\OrdemServico.xml
-C:\Users\Andre\Documents\Desenvolvimento\Projeto OS Online\Fontes\obj\Debug\OrdemServico.pdb
-C:\Users\Andre\Documents\Desenvolvimento\OS ONLINE\Fontes\bin\OrdemServico.dll
-C:\Users\Andre\Documents\Desenvolvimento\OS ONLINE\Fontes\bin\OrdemServico.pdb
-C:\Users\Andre\Documents\Desenvolvimento\OS ONLINE\Fontes\bin\OrdemServico.xml
-C:\Users\Andre\Documents\Desenvolvimento\OS ONLINE\Fontes\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Andre\Documents\Desenvolvimento\OS ONLINE\Fontes\obj\Debug\OrdemServico.Resources.resources
-C:\Users\Andre\Documents\Desenvolvimento\OS ONLINE\Fontes\obj\Debug\GenerateResource.read.1.tlog
-C:\Users\Andre\Documents\Desenvolvimento\OS ONLINE\Fontes\obj\Debug\GenerateResource.write.1.tlog
-C:\Users\Andre\Documents\Desenvolvimento\OS ONLINE\Fontes\obj\Debug\OrdemServico.dll
-C:\Users\Andre\Documents\Desenvolvimento\OS ONLINE\Fontes\obj\Debug\OrdemServico.xml
-C:\Users\Andre\Documents\Desenvolvimento\OS ONLINE\Fontes\obj\Debug\OrdemServico.pdb
-C:\Users\André\Desktop\Desenvolvimento\OS ONLINE\Fontes\bin\OrdemServico.dll
-C:\Users\André\Desktop\Desenvolvimento\OS ONLINE\Fontes\bin\OrdemServico.pdb
-C:\Users\André\Desktop\Desenvolvimento\OS ONLINE\Fontes\bin\OrdemServico.xml
-C:\Users\André\Desktop\Desenvolvimento\OS ONLINE\Fontes\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\André\Desktop\Desenvolvimento\OS ONLINE\Fontes\obj\Debug\OrdemServico.Resources.resources
-C:\Users\André\Desktop\Desenvolvimento\OS ONLINE\Fontes\obj\Debug\GenerateResource.read.1.tlog
-C:\Users\André\Desktop\Desenvolvimento\OS ONLINE\Fontes\obj\Debug\GenerateResource.write.1.tlog
-C:\Users\André\Desktop\Desenvolvimento\OS ONLINE\Fontes\obj\Debug\OrdemServico.dll
-C:\Users\André\Desktop\Desenvolvimento\OS ONLINE\Fontes\obj\Debug\OrdemServico.xml
-C:\Users\André\Desktop\Desenvolvimento\OS ONLINE\Fontes\obj\Debug\OrdemServico.pdb
-D:\Agility\OS ONLINE\Fontes\bin\OrdemServico.dll
-D:\Agility\OS ONLINE\Fontes\bin\OrdemServico.pdb
-D:\Agility\OS ONLINE\Fontes\bin\OrdemServico.xml
-D:\Agility\OS ONLINE\Fontes\obj\Debug\ResolveAssemblyReference.cache
-D:\Agility\OS ONLINE\Fontes\obj\Debug\OrdemServico.Resources.resources
-D:\Agility\OS ONLINE\Fontes\obj\Debug\GenerateResource.read.1.tlog
-D:\Agility\OS ONLINE\Fontes\obj\Debug\GenerateResource.write.1.tlog
-D:\Agility\OS ONLINE\Fontes\obj\Debug\OrdemServico.dll
-D:\Agility\OS ONLINE\Fontes\obj\Debug\OrdemServico.xml
-D:\Agility\OS ONLINE\Fontes\obj\Debug\OrdemServico.pdb
-C:\Users\André\Desktop\Fontes\bin\OrdemServico.dll
-C:\Users\André\Desktop\Fontes\bin\OrdemServico.pdb
-C:\Users\André\Desktop\Fontes\bin\OrdemServico.xml
-C:\Users\André\Desktop\Fontes\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\André\Desktop\Fontes\obj\Debug\OrdemServico.Resources.resources
-C:\Users\André\Desktop\Fontes\obj\Debug\GenerateResource.read.1.tlog
-C:\Users\André\Desktop\Fontes\obj\Debug\GenerateResource.write.1.tlog
-C:\Users\André\Desktop\Fontes\obj\Debug\OrdemServico.dll
-C:\Users\André\Desktop\Fontes\obj\Debug\OrdemServico.xml
-C:\Users\André\Desktop\Fontes\obj\Debug\OrdemServico.pdb
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes\bin\OrdemServico.dll
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes\bin\OrdemServico.pdb
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes\bin\OrdemServico.xml
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes\obj\Debug\OrdemServico.Resources.resources
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes\obj\Debug\GenerateResource.read.1.tlog
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes\obj\Debug\GenerateResource.write.1.tlog
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes\obj\Debug\OrdemServico.dll
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes\obj\Debug\OrdemServico.xml
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes\obj\Debug\OrdemServico.pdb
-D:\NovoProjeto - Os antiga\Fontes\bin\OrdemServico.dll
-D:\NovoProjeto - Os antiga\Fontes\bin\OrdemServico.pdb
-D:\NovoProjeto - Os antiga\Fontes\bin\OrdemServico.xml
-D:\NovoProjeto - Os antiga\Fontes\obj\Debug\ResolveAssemblyReference.cache
-D:\NovoProjeto - Os antiga\Fontes\obj\Debug\OrdemServico.Resources.resources
-D:\NovoProjeto - Os antiga\Fontes\obj\Debug\GenerateResource.read.1.tlog
-D:\NovoProjeto - Os antiga\Fontes\obj\Debug\GenerateResource.write.1.tlog
-D:\NovoProjeto - Os antiga\Fontes\obj\Debug\OrdemServico.dll
-D:\NovoProjeto - Os antiga\Fontes\obj\Debug\OrdemServico.xml
-D:\NovoProjeto - Os antiga\Fontes\obj\Debug\OrdemServico.pdb
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.5\bin\OrdemServico.dll
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.5\bin\OrdemServico.pdb
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.5\bin\OrdemServico.xml
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.5\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.5\obj\Debug\OrdemServico.Resources.resources
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.5\obj\Debug\GenerateResource.read.1.tlog
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.5\obj\Debug\GenerateResource.write.1.tlog
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.5\obj\Debug\OrdemServico.dll
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.5\obj\Debug\OrdemServico.xml
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.5\obj\Debug\OrdemServico.pdb
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.6\bin\OrdemServico.dll
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.6\bin\OrdemServico.pdb
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.6\bin\OrdemServico.xml
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.6\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.6\obj\Debug\OrdemServico.Resources.resources
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.6\obj\Debug\GenerateResource.read.1.tlog
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.6\obj\Debug\GenerateResource.write.1.tlog
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.6\obj\Debug\OrdemServico.dll
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.6\obj\Debug\OrdemServico.xml
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.6\obj\Debug\OrdemServico.pdb
-D:\NovoProjeto - Os antiga\Fontes V.1.0.6\bin\OrdemServico.dll
-D:\NovoProjeto - Os antiga\Fontes V.1.0.6\bin\OrdemServico.pdb
-D:\NovoProjeto - Os antiga\Fontes V.1.0.6\bin\OrdemServico.xml
-D:\NovoProjeto - Os antiga\Fontes V.1.0.6\obj\Debug\ResolveAssemblyReference.cache
-D:\NovoProjeto - Os antiga\Fontes V.1.0.6\obj\Debug\OrdemServico.Resources.resources
-D:\NovoProjeto - Os antiga\Fontes V.1.0.6\obj\Debug\GenerateResource.read.1.tlog
-D:\NovoProjeto - Os antiga\Fontes V.1.0.6\obj\Debug\GenerateResource.write.1.tlog
-D:\NovoProjeto - Os antiga\Fontes V.1.0.6\obj\Debug\OrdemServico.dll
-D:\NovoProjeto - Os antiga\Fontes V.1.0.6\obj\Debug\OrdemServico.xml
-D:\NovoProjeto - Os antiga\Fontes V.1.0.6\obj\Debug\OrdemServico.pdb
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.8\bin\OrdemServico.dll
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.8\bin\OrdemServico.pdb
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.8\bin\OrdemServico.xml
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.8\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.8\obj\Debug\OrdemServico.Resources.resources
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.8\obj\Debug\GenerateResource.read.1.tlog
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.8\obj\Debug\GenerateResource.write.1.tlog
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.8\obj\Debug\OrdemServico.dll
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.8\obj\Debug\OrdemServico.xml
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.8\obj\Debug\OrdemServico.pdb
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.9\bin\OrdemServico.dll
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.9\bin\OrdemServico.pdb
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.9\bin\OrdemServico.xml
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.9\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.9\obj\Debug\OrdemServico.Resources.resources
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.9\obj\Debug\GenerateResource.read.1.tlog
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.9\obj\Debug\GenerateResource.write.1.tlog
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.9\obj\Debug\OrdemServico.dll
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.9\obj\Debug\OrdemServico.xml
-C:\Users\André\Documents\Agility\OS ONLINE\Fontes V.1.0.9\obj\Debug\OrdemServico.pdb
-D:\nova versao\Fontes V.1.0.9\bin\OrdemServico.dll
-D:\nova versao\Fontes V.1.0.9\bin\OrdemServico.pdb
-D:\nova versao\Fontes V.1.0.9\bin\OrdemServico.xml
-D:\nova versao\Fontes V.1.0.9\obj\Debug\ResolveAssemblyReference.cache
-D:\nova versao\Fontes V.1.0.9\obj\Debug\OrdemServico.Resources.resources
-D:\nova versao\Fontes V.1.0.9\obj\Debug\GenerateResource.read.1.tlog
-D:\nova versao\Fontes V.1.0.9\obj\Debug\GenerateResource.write.1.tlog
-D:\nova versao\Fontes V.1.0.9\obj\Debug\OrdemServico.dll
-D:\nova versao\Fontes V.1.0.9\obj\Debug\OrdemServico.xml
-D:\nova versao\Fontes V.1.0.9\obj\Debug\OrdemServico.pdb
-D:\Projetos\Intermed\Fontes V.1.0.9_NOVA_VERSAO_2\bin\OrdemServico.dll
-D:\Projetos\Intermed\Fontes V.1.0.9_NOVA_VERSAO_2\bin\OrdemServico.pdb
-D:\Projetos\Intermed\Fontes V.1.0.9_NOVA_VERSAO_2\bin\OrdemServico.xml
-D:\Projetos\Intermed\Fontes V.1.0.9_NOVA_VERSAO_2\obj\Debug\ResolveAssemblyReference.cache
-D:\Projetos\Intermed\Fontes V.1.0.9_NOVA_VERSAO_2\obj\Debug\OrdemServico.Resources.resources
-D:\Projetos\Intermed\Fontes V.1.0.9_NOVA_VERSAO_2\obj\Debug\GenerateResource.read.1.tlog
-D:\Projetos\Intermed\Fontes V.1.0.9_NOVA_VERSAO_2\obj\Debug\GenerateResource.write.1.tlog
-D:\Projetos\Intermed\Fontes V.1.0.9_NOVA_VERSAO_2\obj\Debug\OrdemServico.dll
-D:\Projetos\Intermed\Fontes V.1.0.9_NOVA_VERSAO_2\obj\Debug\OrdemServico.xml
-D:\Projetos\Intermed\Fontes V.1.0.9_NOVA_VERSAO_2\obj\Debug\OrdemServico.pdb
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.0.9_NOVA_VERSAO_2\obj\Debug\ResolveAssemblyReference.cache
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.0.9_NOVA_VERSAO_2\obj\Debug\OrdemServico.Resources.resources
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.0.9_NOVA_VERSAO_2\obj\Debug\GenerateResource.read.1.tlog
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.0.9_NOVA_VERSAO_2\obj\Debug\GenerateResource.write.1.tlog
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.0.9_NOVA_VERSAO_2\obj\Debug\OrdemServico.dll
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.0.9_NOVA_VERSAO_2\obj\Debug\OrdemServico.xml
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.0.9_NOVA_VERSAO_2\obj\Debug\OrdemServico.pdb
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.0.9_NOVA_VERSAO_2\bin\OrdemServico.dll
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.0.9_NOVA_VERSAO_2\bin\OrdemServico.pdb
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.0.9_NOVA_VERSAO_2\bin\OrdemServico.xml
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.0 - NOVA VERSAO\bin\OrdemServico.dll
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.0 - NOVA VERSAO\bin\OrdemServico.pdb
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.0 - NOVA VERSAO\bin\OrdemServico.xml
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.0 - NOVA VERSAO\obj\Debug\ResolveAssemblyReference.cache
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.0 - NOVA VERSAO\obj\Debug\OrdemServico.Resources.resources
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.0 - NOVA VERSAO\obj\Debug\GenerateResource.read.1.tlog
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.0 - NOVA VERSAO\obj\Debug\GenerateResource.write.1.tlog
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.0 - NOVA VERSAO\obj\Debug\OrdemServico.dll
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.0 - NOVA VERSAO\obj\Debug\OrdemServico.xml
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.0 - NOVA VERSAO\obj\Debug\OrdemServico.pdb
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.1 - NOVA VERSAO\bin\OrdemServico.dll
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.1 - NOVA VERSAO\bin\OrdemServico.pdb
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.1 - NOVA VERSAO\bin\OrdemServico.xml
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.1 - NOVA VERSAO\obj\Debug\ResolveAssemblyReference.cache
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.1 - NOVA VERSAO\obj\Debug\OrdemServico.Resources.resources
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.1 - NOVA VERSAO\obj\Debug\GenerateResource.read.1.tlog
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.1 - NOVA VERSAO\obj\Debug\GenerateResource.write.1.tlog
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.1 - NOVA VERSAO\obj\Debug\OrdemServico.dll
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.1 - NOVA VERSAO\obj\Debug\OrdemServico.xml
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.1 - NOVA VERSAO\obj\Debug\OrdemServico.pdb
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.2 - NOVA VERSAO\bin\OrdemServico.dll
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.2 - NOVA VERSAO\bin\OrdemServico.pdb
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.2 - NOVA VERSAO\bin\OrdemServico.xml
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.2 - NOVA VERSAO\obj\Debug\ResolveAssemblyReference.cache
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.2 - NOVA VERSAO\obj\Debug\OrdemServico.Resources.resources
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.2 - NOVA VERSAO\obj\Debug\GenerateResource.read.1.tlog
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.2 - NOVA VERSAO\obj\Debug\GenerateResource.write.1.tlog
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.2 - NOVA VERSAO\obj\Debug\OrdemServico.dll
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.2 - NOVA VERSAO\obj\Debug\OrdemServico.xml
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.2 - NOVA VERSAO\obj\Debug\OrdemServico.pdb
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.3 - NOVA VERSAO\bin\OrdemServico.dll
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.3 - NOVA VERSAO\bin\OrdemServico.pdb
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.3 - NOVA VERSAO\bin\OrdemServico.xml
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.3 - NOVA VERSAO\obj\Debug\ResolveAssemblyReference.cache
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.3 - NOVA VERSAO\obj\Debug\OrdemServico.Resources.resources
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.3 - NOVA VERSAO\obj\Debug\GenerateResource.read.1.tlog
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.3 - NOVA VERSAO\obj\Debug\GenerateResource.write.1.tlog
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.3 - NOVA VERSAO\obj\Debug\OrdemServico.dll
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.3 - NOVA VERSAO\obj\Debug\OrdemServico.xml
-D:\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.3 - NOVA VERSAO\obj\Debug\OrdemServico.pdb
-C:\Projetos\Desenvolvimento\Intermed\Fontes V.1.1.3 - NOVA VERSAO\bin\OrdemServico.dll
-C:\Projetos\Desenvolvimento\Intermed\Fontes V.1.1.3 - NOVA VERSAO\bin\OrdemServico.pdb
-C:\Projetos\Desenvolvimento\Intermed\Fontes V.1.1.3 - NOVA VERSAO\bin\OrdemServico.xml
-C:\Projetos\Desenvolvimento\Intermed\Fontes V.1.1.3 - NOVA VERSAO\obj\Debug\ResolveAssemblyReference.cache
-C:\Projetos\Desenvolvimento\Intermed\Fontes V.1.1.3 - NOVA VERSAO\obj\Debug\OrdemServico.Resources.resources
-C:\Projetos\Desenvolvimento\Intermed\Fontes V.1.1.3 - NOVA VERSAO\obj\Debug\GenerateResource.read.1.tlog
-C:\Projetos\Desenvolvimento\Intermed\Fontes V.1.1.3 - NOVA VERSAO\obj\Debug\GenerateResource.write.1.tlog
-C:\Projetos\Desenvolvimento\Intermed\Fontes V.1.1.3 - NOVA VERSAO\obj\Debug\OrdemServico.dll
-C:\Projetos\Desenvolvimento\Intermed\Fontes V.1.1.3 - NOVA VERSAO\obj\Debug\OrdemServico.xml
-C:\Projetos\Desenvolvimento\Intermed\Fontes V.1.1.3 - NOVA VERSAO\obj\Debug\OrdemServico.pdb
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.3 - NOVA VERSAO\bin\OrdemServico.dll
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.3 - NOVA VERSAO\bin\OrdemServico.pdb
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.3 - NOVA VERSAO\bin\OrdemServico.xml
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.3 - NOVA VERSAO\obj\Debug\ResolveAssemblyReference.cache
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.3 - NOVA VERSAO\obj\Debug\OrdemServico.Resources.resources
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.3 - NOVA VERSAO\obj\Debug\GenerateResource.read.1.tlog
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.3 - NOVA VERSAO\obj\Debug\GenerateResource.write.1.tlog
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.3 - NOVA VERSAO\obj\Debug\OrdemServico.dll
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.3 - NOVA VERSAO\obj\Debug\OrdemServico.xml
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.3 - NOVA VERSAO\obj\Debug\OrdemServico.pdb
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.4 - NV\bin\OrdemServico.dll
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.4 - NV\bin\OrdemServico.pdb
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.4 - NV\bin\OrdemServico.xml
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.4 - NV\obj\Debug\ResolveAssemblyReference.cache
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.4 - NV\obj\Debug\OrdemServico.Resources.resources
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.4 - NV\obj\Debug\GenerateResource.read.1.tlog
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.4 - NV\obj\Debug\GenerateResource.write.1.tlog
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.4 - NV\obj\Debug\OrdemServico.dll
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.4 - NV\obj\Debug\OrdemServico.xml
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.4 - NV\obj\Debug\OrdemServico.pdb
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.4 - NV - msg de erro\bin\OrdemServico.dll
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.4 - NV - msg de erro\bin\OrdemServico.pdb
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.4 - NV - msg de erro\bin\OrdemServico.xml
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.4 - NV - msg de erro\obj\Debug\ResolveAssemblyReference.cache
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.4 - NV - msg de erro\obj\Debug\OrdemServico.Resources.resources
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.4 - NV - msg de erro\obj\Debug\GenerateResource.read.1.tlog
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.4 - NV - msg de erro\obj\Debug\GenerateResource.write.1.tlog
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.4 - NV - msg de erro\obj\Debug\OrdemServico.dll
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.4 - NV - msg de erro\obj\Debug\OrdemServico.xml
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.4 - NV - msg de erro\obj\Debug\OrdemServico.pdb
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.5 - NV\bin\OrdemServico.dll
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.5 - NV\bin\OrdemServico.pdb
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.5 - NV\bin\OrdemServico.xml
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.5 - NV\obj\Debug\ResolveAssemblyReference.cache
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.5 - NV\obj\Debug\OrdemServico.Resources.resources
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.5 - NV\obj\Debug\GenerateResource.read.1.tlog
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.5 - NV\obj\Debug\GenerateResource.write.1.tlog
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.5 - NV\obj\Debug\OrdemServico.dll
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.5 - NV\obj\Debug\OrdemServico.xml
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.5 - NV\obj\Debug\OrdemServico.pdb
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.6\bin\OrdemServico.dll
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.6\bin\OrdemServico.pdb
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.6\bin\OrdemServico.xml
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.6\obj\Debug\ResolveAssemblyReference.cache
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.6\obj\Debug\OrdemServico.Resources.resources
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.6\obj\Debug\GenerateResource.read.1.tlog
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.6\obj\Debug\GenerateResource.write.1.tlog
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.6\obj\Debug\OrdemServico.dll
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.6\obj\Debug\OrdemServico.xml
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.6\obj\Debug\OrdemServico.pdb
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.6 - VN\bin\OrdemServico.dll
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.6 - VN\bin\OrdemServico.pdb
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.6 - VN\bin\OrdemServico.xml
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.6 - VN\obj\Debug\ResolveAssemblyReference.cache
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.6 - VN\obj\Debug\OrdemServico.Resources.resources
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.6 - VN\obj\Debug\GenerateResource.read.1.tlog
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.6 - VN\obj\Debug\GenerateResource.write.1.tlog
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.6 - VN\obj\Debug\OrdemServico.dll
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.6 - VN\obj\Debug\OrdemServico.xml
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.6 - VN\obj\Debug\OrdemServico.pdb
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.6 - Versao garantia\obj\Debug\ResolveAssemblyReference.cache
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.6 - Versao garantia\obj\Debug\OrdemServico.Resources.resources
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.6 - Versao garantia\obj\Debug\GenerateResource.read.1.tlog
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.6 - Versao garantia\obj\Debug\GenerateResource.write.1.tlog
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.6 - Versao garantia\obj\Debug\OrdemServico.dll
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.6 - Versao garantia\obj\Debug\OrdemServico.xml
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.6 - Versao garantia\obj\Debug\OrdemServico.pdb
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.6 - Versao garantia\bin\OrdemServico.dll
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.6 - Versao garantia\bin\OrdemServico.pdb
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.6 - Versao garantia\bin\OrdemServico.xml
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.8 - Versao grupo x serie\bin\OrdemServico.dll
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.8 - Versao grupo x serie\bin\OrdemServico.pdb
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.8 - Versao grupo x serie\bin\OrdemServico.xml
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.8 - Versao grupo x serie\obj\Debug\ResolveAssemblyReference.cache
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.8 - Versao grupo x serie\obj\Debug\OrdemServico.Resources.resources
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.8 - Versao grupo x serie\obj\Debug\GenerateResource.read.1.tlog
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.8 - Versao grupo x serie\obj\Debug\GenerateResource.write.1.tlog
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.8 - Versao grupo x serie\obj\Debug\OrdemServico.dll
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.8 - Versao grupo x serie\obj\Debug\OrdemServico.xml
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.8 - Versao grupo x serie\obj\Debug\OrdemServico.pdb
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.9 - Versao correcao grupo x serie x garantia\obj\Debug\ResolveAssemblyReference.cache
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.9 - Versao correcao grupo x serie x garantia\obj\Debug\OrdemServico.Resources.resources
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.9 - Versao correcao grupo x serie x garantia\obj\Debug\GenerateResource.read.1.tlog
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.9 - Versao correcao grupo x serie x garantia\obj\Debug\GenerateResource.write.1.tlog
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.9 - Versao correcao grupo x serie x garantia\obj\Debug\OrdemServico.dll
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.9 - Versao correcao grupo x serie x garantia\obj\Debug\OrdemServico.xml
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.9 - Versao correcao grupo x serie x garantia\obj\Debug\OrdemServico.pdb
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.9 - Versao correcao grupo x serie x garantia\bin\OrdemServico.dll
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.9 - Versao correcao grupo x serie x garantia\bin\OrdemServico.pdb
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.1.9 - Versao correcao grupo x serie x garantia\bin\OrdemServico.xml
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.2 - Versao correcao grupo x serie x garantia - Copy\bin\OrdemServico.dll
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.2 - Versao correcao grupo x serie x garantia - Copy\bin\OrdemServico.pdb
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.2 - Versao correcao grupo x serie x garantia - Copy\bin\OrdemServico.xml
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.2 - Versao correcao grupo x serie x garantia - Copy\obj\Debug\ResolveAssemblyReference.cache
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.2 - Versao correcao grupo x serie x garantia - Copy\obj\Debug\OrdemServico.Resources.resources
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.2 - Versao correcao grupo x serie x garantia - Copy\obj\Debug\GenerateResource.read.1.tlog
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.2 - Versao correcao grupo x serie x garantia - Copy\obj\Debug\GenerateResource.write.1.tlog
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.2 - Versao correcao grupo x serie x garantia - Copy\obj\Debug\OrdemServico.dll
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.2 - Versao correcao grupo x serie x garantia - Copy\obj\Debug\OrdemServico.xml
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.2 - Versao correcao grupo x serie x garantia - Copy\obj\Debug\OrdemServico.pdb
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.3 - Versao novos desenv\bin\OrdemServico.dll
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.3 - Versao novos desenv\bin\OrdemServico.pdb
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.3 - Versao novos desenv\bin\OrdemServico.xml
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.3 - Versao novos desenv\obj\Debug\ResolveAssemblyReference.cache
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.3 - Versao novos desenv\obj\Debug\OrdemServico.Resources.resources
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.3 - Versao novos desenv\obj\Debug\GenerateResource.read.1.tlog
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.3 - Versao novos desenv\obj\Debug\GenerateResource.write.1.tlog
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.3 - Versao novos desenv\obj\Debug\OrdemServico.dll
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.3 - Versao novos desenv\obj\Debug\OrdemServico.xml
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.3 - Versao novos desenv\obj\Debug\OrdemServico.pdb
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.4 - Versao novos desenv - 2\bin\OrdemServico.dll
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.4 - Versao novos desenv - 2\bin\OrdemServico.pdb
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.4 - Versao novos desenv - 2\bin\OrdemServico.xml
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.4 - Versao novos desenv - 2\obj\Debug\ResolveAssemblyReference.cache
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.4 - Versao novos desenv - 2\obj\Debug\OrdemServico.Resources.resources
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.4 - Versao novos desenv - 2\obj\Debug\GenerateResource.read.1.tlog
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.4 - Versao novos desenv - 2\obj\Debug\GenerateResource.write.1.tlog
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.4 - Versao novos desenv - 2\obj\Debug\OrdemServico.dll
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.4 - Versao novos desenv - 2\obj\Debug\OrdemServico.xml
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.4 - Versao novos desenv - 2\obj\Debug\OrdemServico.pdb
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.4 - Versao novos desenv - 3\bin\OrdemServico.dll
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.4 - Versao novos desenv - 3\bin\OrdemServico.pdb
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.4 - Versao novos desenv - 3\bin\OrdemServico.xml
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.4 - Versao novos desenv - 3\obj\Debug\OrdemServico.Resources.resources
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.4 - Versao novos desenv - 3\obj\Debug\OrdemServico.dll
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.4 - Versao novos desenv - 3\obj\Debug\OrdemServico.xml
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.4 - Versao novos desenv - 3\obj\Debug\OrdemServico.pdb
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.4 - Versao novos desenv - 3\obj\Debug\OrdemServico.vbprojResolveAssemblyReference.cache
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.4 - Versao novos desenv - 3\obj\Debug\OrdemServico.vbproj.GenerateResource.Cache
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.5 - Cadastro Etapa\bin\OrdemServico.dll
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.5 - Cadastro Etapa\bin\OrdemServico.pdb
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.5 - Cadastro Etapa\bin\OrdemServico.xml
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.5 - Cadastro Etapa\obj\Debug\OrdemServico.vbprojResolveAssemblyReference.cache
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.5 - Cadastro Etapa\obj\Debug\OrdemServico.Resources.resources
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.5 - Cadastro Etapa\obj\Debug\OrdemServico.vbproj.GenerateResource.Cache
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.5 - Cadastro Etapa\obj\Debug\OrdemServico.dll
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.5 - Cadastro Etapa\obj\Debug\OrdemServico.xml
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.5 - Cadastro Etapa\obj\Debug\OrdemServico.pdb
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.6 - Novos desenvolvimentos\bin\OrdemServico.dll
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.6 - Novos desenvolvimentos\bin\OrdemServico.pdb
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.6 - Novos desenvolvimentos\bin\OrdemServico.xml
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.6 - Novos desenvolvimentos\obj\Debug\OrdemServico.vbprojResolveAssemblyReference.cache
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.6 - Novos desenvolvimentos\obj\Debug\OrdemServico.Resources.resources
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.6 - Novos desenvolvimentos\obj\Debug\OrdemServico.vbproj.GenerateResource.Cache
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.6 - Novos desenvolvimentos\obj\Debug\OrdemServico.dll
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.6 - Novos desenvolvimentos\obj\Debug\OrdemServico.xml
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.6 - Novos desenvolvimentos\obj\Debug\OrdemServico.pdb
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.6 - Novos desenvolvimentos - 2\bin\OrdemServico.dll
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.6 - Novos desenvolvimentos - 2\bin\OrdemServico.pdb
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.6 - Novos desenvolvimentos - 2\bin\OrdemServico.xml
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.6 - Novos desenvolvimentos - 2\obj\Debug\OrdemServico.vbprojResolveAssemblyReference.cache
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.6 - Novos desenvolvimentos - 2\obj\Debug\OrdemServico.Resources.resources
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.6 - Novos desenvolvimentos - 2\obj\Debug\OrdemServico.vbproj.GenerateResource.Cache
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.6 - Novos desenvolvimentos - 2\obj\Debug\OrdemServico.dll
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.6 - Novos desenvolvimentos - 2\obj\Debug\OrdemServico.xml
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.6 - Novos desenvolvimentos - 2\obj\Debug\OrdemServico.pdb
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.6 - Novos desenvolvimentos - Impressao\bin\OrdemServico.dll
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.6 - Novos desenvolvimentos - Impressao\bin\OrdemServico.pdb
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.6 - Novos desenvolvimentos - Impressao\bin\OrdemServico.xml
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.6 - Novos desenvolvimentos - Impressao\obj\Debug\OrdemServico.vbprojResolveAssemblyReference.cache
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.6 - Novos desenvolvimentos - Impressao\obj\Debug\OrdemServico.Resources.resources
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.6 - Novos desenvolvimentos - Impressao\obj\Debug\OrdemServico.vbproj.GenerateResource.Cache
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.6 - Novos desenvolvimentos - Impressao\obj\Debug\OrdemServico.dll
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.6 - Novos desenvolvimentos - Impressao\obj\Debug\OrdemServico.xml
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.6 - Novos desenvolvimentos - Impressao\obj\Debug\OrdemServico.pdb
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.6 - Novos desenvolvimentos - Impressao2\bin\OrdemServico.dll
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.6 - Novos desenvolvimentos - Impressao2\bin\OrdemServico.pdb
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.6 - Novos desenvolvimentos - Impressao2\bin\OrdemServico.xml
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.6 - Novos desenvolvimentos - Impressao2\obj\Debug\OrdemServico.vbprojResolveAssemblyReference.cache
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.6 - Novos desenvolvimentos - Impressao2\obj\Debug\OrdemServico.Resources.resources
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.6 - Novos desenvolvimentos - Impressao2\obj\Debug\OrdemServico.vbproj.GenerateResource.Cache
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.6 - Novos desenvolvimentos - Impressao2\obj\Debug\OrdemServico.dll
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.6 - Novos desenvolvimentos - Impressao2\obj\Debug\OrdemServico.xml
-C:\Projetos\Projetos Desenvolvimentos\Intermed\Fontes V.1.6 - Novos desenvolvimentos - Impressao2\obj\Debug\OrdemServico.pdb
-C:\Projetos\Desenv\osonline\Desenv\Fontes\bin\OrdemServico.dll
-C:\Projetos\Desenv\osonline\Desenv\Fontes\bin\OrdemServico.pdb
-C:\Projetos\Desenv\osonline\Desenv\Fontes\bin\OrdemServico.xml
-C:\Projetos\Desenv\osonline\Desenv\Fontes\obj\Debug\OrdemServico.Resources.resources
-C:\Projetos\Desenv\osonline\Desenv\Fontes\obj\Debug\OrdemServico.vbproj.GenerateResource.Cache
-C:\Projetos\Desenv\osonline\Desenv\Fontes\obj\Debug\OrdemServico.dll
-C:\Projetos\Desenv\osonline\Desenv\Fontes\obj\Debug\OrdemServico.xml
-C:\Projetos\Desenv\osonline\Desenv\Fontes\obj\Debug\OrdemServico.pdb
-C:\Users\Felipe\Documents\Agility\INTERMED\WEB OSONLINE\osonline\Desenv\Fontes\bin\OrdemServico.dll
-C:\Users\Felipe\Documents\Agility\INTERMED\WEB OSONLINE\osonline\Desenv\Fontes\bin\OrdemServico.pdb
-C:\Users\Felipe\Documents\Agility\INTERMED\WEB OSONLINE\osonline\Desenv\Fontes\bin\OrdemServico.xml
-C:\Users\Felipe\Documents\Agility\INTERMED\WEB OSONLINE\osonline\Desenv\Fontes\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Felipe\Documents\Agility\INTERMED\WEB OSONLINE\osonline\Desenv\Fontes\obj\Debug\OrdemServico.Resources.resources
-C:\Users\Felipe\Documents\Agility\INTERMED\WEB OSONLINE\osonline\Desenv\Fontes\obj\Debug\GenerateResource.read.1.tlog
-C:\Users\Felipe\Documents\Agility\INTERMED\WEB OSONLINE\osonline\Desenv\Fontes\obj\Debug\GenerateResource.write.1.tlog
-C:\Users\Felipe\Documents\Agility\INTERMED\WEB OSONLINE\osonline\Desenv\Fontes\obj\Debug\OrdemServico.dll
-C:\Users\Felipe\Documents\Agility\INTERMED\WEB OSONLINE\osonline\Desenv\Fontes\obj\Debug\OrdemServico.xml
-C:\Users\Felipe\Documents\Agility\INTERMED\WEB OSONLINE\osonline\Desenv\Fontes\obj\Debug\OrdemServico.pdb
-C:\Projetos\Desenv\Fontes\bin\OrdemServico.dll
-C:\Projetos\Desenv\Fontes\bin\OrdemServico.pdb
-C:\Projetos\Desenv\Fontes\bin\OrdemServico.xml
-C:\Projetos\Desenv\Fontes\obj\Debug\ResolveAssemblyReference.cache
-C:\Projetos\Desenv\Fontes\obj\Debug\OrdemServico.Resources.resources
-C:\Projetos\Desenv\Fontes\obj\Debug\GenerateResource.read.1.tlog
-C:\Projetos\Desenv\Fontes\obj\Debug\GenerateResource.write.1.tlog
-C:\Projetos\Desenv\Fontes\obj\Debug\OrdemServico.dll
-C:\Projetos\Desenv\Fontes\obj\Debug\OrdemServico.xml
-C:\Projetos\Desenv\Fontes\obj\Debug\OrdemServico.pdb
-C:\Projetos\OsOnline\Fontes\bin\OrdemServico.dll
-C:\Projetos\OsOnline\Fontes\bin\OrdemServico.pdb
-C:\Projetos\OsOnline\Fontes\bin\OrdemServico.xml
-C:\Projetos\OsOnline\Fontes\obj\Debug\OrdemServico.Resources.resources
-C:\Projetos\OsOnline\Fontes\obj\Debug\OrdemServico.vbproj.GenerateResource.Cache
-C:\Projetos\OsOnline\Fontes\obj\Debug\OrdemServico.dll
-C:\Projetos\OsOnline\Fontes\obj\Debug\OrdemServico.xml
-C:\Projetos\OsOnline\Fontes\obj\Debug\OrdemServico.pdb
-C:\Projetos\OsOnline\Fontes\obj\Debug\OrdemServico.vbprojResolveAssemblyReference.cache
-C:\Projetos\osonline\Desenv\Fontes\bin\OrdemServico.dll
-C:\Projetos\osonline\Desenv\Fontes\bin\OrdemServico.pdb
-C:\Projetos\osonline\Desenv\Fontes\bin\OrdemServico.xml
-C:\Projetos\osonline\Desenv\Fontes\obj\Debug\OrdemServico.Resources.resources
-C:\Projetos\osonline\Desenv\Fontes\obj\Debug\OrdemServico.vbproj.GenerateResource.Cache
-C:\Projetos\osonline\Desenv\Fontes\obj\Debug\OrdemServico.dll
-C:\Projetos\osonline\Desenv\Fontes\obj\Debug\OrdemServico.xml
-C:\Projetos\osonline\Desenv\Fontes\obj\Debug\OrdemServico.pdb
-C:\Users\Agility\Documents\Codes\osonline\Desenv\Fontes\bin\OrdemServico.dll
-C:\Users\Agility\Documents\Codes\osonline\Desenv\Fontes\bin\OrdemServico.pdb
-C:\Users\Agility\Documents\Codes\osonline\Desenv\Fontes\bin\OrdemServico.xml
-C:\Users\Agility\Documents\Codes\osonline\Desenv\Fontes\obj\Debug\OrdemServico.vbprojResolveAssemblyReference.cache
-C:\Users\Agility\Documents\Codes\osonline\Desenv\Fontes\obj\Debug\OrdemServico.Resources.resources
-C:\Users\Agility\Documents\Codes\osonline\Desenv\Fontes\obj\Debug\OrdemServico.vbproj.GenerateResource.Cache
-C:\Users\Agility\Documents\Codes\osonline\Desenv\Fontes\obj\Debug\OrdemServico.dll
-C:\Users\Agility\Documents\Codes\osonline\Desenv\Fontes\obj\Debug\OrdemServico.xml
-C:\Users\Agility\Documents\Codes\osonline\Desenv\Fontes\obj\Debug\OrdemServico.pdb
-C:\Codes\OsOnline\Desenv\Fontes\bin\OrdemServico.dll
-C:\Codes\OsOnline\Desenv\Fontes\bin\OrdemServico.pdb
-C:\Codes\OsOnline\Desenv\Fontes\bin\OrdemServico.xml
-C:\Codes\OsOnline\Desenv\Fontes\obj\Debug\OrdemServico.Resources.resources
-C:\Codes\OsOnline\Desenv\Fontes\obj\Debug\OrdemServico.vbproj.GenerateResource.Cache
-C:\Codes\OsOnline\Desenv\Fontes\obj\Debug\OrdemServico.dll
-C:\Codes\OsOnline\Desenv\Fontes\obj\Debug\OrdemServico.xml
-C:\Codes\OsOnline\Desenv\Fontes\obj\Debug\OrdemServico.pdb
-C:\Codes\OsOnline\Desenv\Fontes\obj\Debug\OrdemServico.vbprojResolveAssemblyReference.cache
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\obj\Debug\OrdemServico.Resources.resources
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\obj\Debug\OrdemServico.vbproj.GenerateResource.Cache
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\OrdemServico.dll.config
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\OrdemServico.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\OrdemServico.pdb
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\OrdemServico.xml
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\AjaxControlToolkit.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\AjaxMin.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\HtmlAgilityPack.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\Microsoft.Data.Edm.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\Microsoft.Data.OData.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\System.Spatial.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\HtmlAgilityPack.pdb
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\HtmlAgilityPack.xml
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\Microsoft.Data.Edm.xml
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\Microsoft.Data.OData.xml
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\System.Spatial.xml
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\de\System.Spatial.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\es\System.Spatial.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\fr\System.Spatial.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\it\System.Spatial.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\ja\System.Spatial.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\ko\System.Spatial.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\ru\System.Spatial.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\obj\Debug\OrdemServico.vbprojResolveAssemblyReference.cache
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\obj\Debug\OrdemServico.dll
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\obj\Debug\OrdemServico.xml
+C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\obj\Debug\OrdemServico.pdb

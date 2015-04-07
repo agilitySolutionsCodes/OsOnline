@@ -40,7 +40,7 @@ Public Class ctlEmail
                 Next
 
                 Dim arquivo As New FileUpload
-                If HttpContext.Current.Session("AnexoFaleConosco") IsNot Nothing Then
+                If HttpContext.Current.Session("AnexoFaleConosco").ToString() <> "" Then
                     arquivo = CType(HttpContext.Current.Session("AnexoFaleConosco"), FileUpload)
                     Dim caminhoAnexo = HttpContext.Current.Session("CaminhoAnexo").ToString()
                     Dim anexo As New System.Net.Mail.Attachment(caminhoAnexo)

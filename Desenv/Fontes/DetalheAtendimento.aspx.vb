@@ -5,6 +5,14 @@ Imports System.Xml
 Public Class DetalheAtendimento
     Inherits BaseWebUI
 
+    Private Sub DetalheAtendimento_CommitTransaction(sender As Object, e As EventArgs) Handles Me.CommitTransaction
+
+    End Sub
+
+    Private Sub DetalheAtendimento_DataBinding(sender As Object, e As EventArgs) Handles Me.DataBinding
+
+    End Sub
+
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
         Try
             If Not IsPostBack Then
@@ -74,9 +82,6 @@ Public Class DetalheAtendimento
         dt.Columns.Add("Filial")
         dt.Columns.Add("NumeroOS")
         dt.Columns.Add("Sequencia")
-        dt.Columns.Add("Item")
-        dt.Columns.Add("hdnAlteracaoItem")
-        dt.Columns.Add("chkEnviaAnalise")
 
         dt.Columns.Add("NumeroSerieProduto")
         dt.Columns.Add("TipoAtendimento")
@@ -114,16 +119,19 @@ Public Class DetalheAtendimento
         dt.Columns.Add("Aprovacao2")
         dt.Columns.Add("DescAprov2")
 
-        dt.Columns.Add("CodigoItem")
-        dt.Columns.Add("DescricaoItem")
-        dt.Columns.Add("NumeroSeriePeca")
-        dt.Columns.Add("Quantidade")
-        dt.Columns.Add("NumeroLote")
-        dt.Columns.Add("CodigoFabricante")
-        dt.Columns.Add("D_E_L_E_T_")
+        'dt.Columns.Add("Item")
+        'dt.Columns.Add("hdnAlteracaoItem")
+        'dt.Columns.Add("chkEnviaAnalise")
+        'dt.Columns.Add("CodigoItem")
+        'dt.Columns.Add("DescricaoItem")
+        'dt.Columns.Add("NumeroSeriePeca")
+        'dt.Columns.Add("Quantidade")
+        'dt.Columns.Add("NumeroLote")
+        'dt.Columns.Add("CodigoFabricante")
+        'dt.Columns.Add("D_E_L_E_T_")
 
         If bAdicionarLinha Then
-            AdicionarItem(dt)
+            AdicionarCabec(dt)
         End If
 
         Return dt
@@ -152,15 +160,13 @@ Public Class DetalheAtendimento
     End Function
 
     Private Sub Selecionar(ByVal sNumero As String)
-
         Dim cn As New ctlAtendimento
-        Dim readerAtendimento As SqlDataReader = cn.Selecionar(sNumero)
-
-        If readerAtendimento.HasRows() Then
+        Dim reader As SqlDataReader = cn.Selecionar(sNumero)
+        If reader.HasRows() Then
             Dim dt As New DataTable
-            If readerAtendimento IsNot Nothing Then
-                dt.Load(readerAtendimento)
-                readerAtendimento.Close()
+            If reader IsNot Nothing Then
+                dt.Load(reader)
+                reader.Close()
             End If
             'consulta etapas
             Dim dtEtapa As New DataTable
@@ -181,6 +187,7 @@ Public Class DetalheAtendimento
         Dim oRet As New ctlRetornoGenerico
         Dim oAtend As New ctlAtendimento
         Dim dtVersao As New DataTable
+        Dim dtItens As New DataTable
 
         'preenche dados a partir do xml gravado
         If File.Exists(NomeArquivoXml()) Then
@@ -211,16 +218,29 @@ Public Class DetalheAtendimento
 
                     oRet.Sucesso = True
                     oMensagem.SetMessage(oRet)
-
                 End If
             End If
         End If
 
-        grdItens.DataSource = dt
+        dtItens = oAtend.ListarItensAtendimento(Request("Numero").Trim)
+        If dtItens.Rows.Count = 0 Then
+            AdicionarItem(dtItens)
+        End If
+        grdItens.DataSource = dtItens
         grdItens.DataBind()
 
+        'corrigir problema de alteracao de atendimento
+        'caso atendimento tenha sido gravado sem item, ao tentar incluir dá erro pois não item está em branco, sempre deixar preenchido
+        If String.IsNullOrEmpty(dtItens.Rows(0).Item("Item").ToString) Then
+            dtItens.Rows(0).Item("Item") = ObterIndice()
+        End If
+
+        If dtEtapa.Rows.Count = 0 Then
+            AdicionarItemEtapa(dtEtapa)
+        End If
         grdEtapas.DataSource = dtEtapa
         grdEtapas.DataBind()
+
 
         If Request("Numero") IsNot Nothing Then
             If Not Request("Numero").Trim.Contains("Serie") Then
@@ -330,13 +350,7 @@ Public Class DetalheAtendimento
             HabilitarModo("A")
         End If
 
-        'corrigir problema de alteracao de atendimento
-        'caso atendimento tenha sido gravado sem item, ao tentar incluir dá erro pois não item está em branco, sempre deixar preenchido
-        If String.IsNullOrEmpty(dt.Rows(0).Item("Item").ToString) Then
-            dt.Rows(0).Item("Item") = ObterIndice()
-        End If
-
-        ViewState.Add("Atendimento", dt)
+        ViewState.Add("Atendimento", dtItens)
         ViewState.Add("Etapa", dtEtapa)
     End Sub
 
@@ -344,16 +358,14 @@ Public Class DetalheAtendimento
         Selecionar(sNumero)
     End Sub
 
-    Private Sub AdicionarItem(ByRef dt As DataTable, Optional ByVal nIndice As Integer = 0)
+    Private Sub AdicionarCabec(ByRef dt As DataTable, Optional ByVal nIndice As Integer = 0)
         Dim nItem As Integer = 0
         Dim dr As DataRow = dt.NewRow
 
         dr("Filial") = ""
         dr("NumeroOS") = ""
         dr("Sequencia") = lblSequencia.Text
-        dr("Item") = ObterIndice()
-        dr("hdnAlteracaoItem") = ""
-        dr("chkEnviaAnalise") = ""
+
         dr("NumeroSerieProduto") = lblSerie.Text
         dr("TipoAtendimento") = ""
         dr("CodigoProduto") = ""
@@ -390,7 +402,25 @@ Public Class DetalheAtendimento
         dr("Aprovacao2") = ""
         dr("DescAprov2") = ""
 
+        If nIndice = 0 Then
+            dt.Rows.Add(dr)
+        Else
+            dt.Rows.InsertAt(dr, nIndice)
+        End If
 
+
+    End Sub
+
+    Private Sub AdicionarItem(ByRef dt As DataTable, Optional ByVal nIndice As Integer = 0)
+        Dim nItem As Integer = 0
+        Dim dr As DataRow = dt.NewRow
+
+        dr("NumeroOS") = ""
+        dr("Sequencia") = lblSequencia.Text
+
+        dr("Item") = ObterIndice()
+        dr("hdnAlteracaoItem") = ""
+        dr("chkEnviaAnalise") = ""
         dr("CodigoItem") = ""
         dr("NumeroSeriePeca") = ""
         dr("DescricaoItem") = ""
@@ -1012,22 +1042,16 @@ Public Class DetalheAtendimento
             End If
 
             reader = os.ListarEtapasOS(bAtivo)
-            If reader.HasRows Then
+            If reader.HasRows And drpEtapa IsNot Nothing Then
                 drpEtapa.DataSource = reader
                 drpEtapa.DataBind()
                 drpEtapa.Items.Insert(0, "Nenhum")
                 drpEtapa.Items(0).Value = ""
                 sSelecionado = DataBinder.Eval(e.Row.DataItem, "CodigoEtapa").ToString.Trim
-
-                If drpEtapa.Items.FindByValue(sSelecionado) IsNot Nothing Then
-                    drpEtapa.Items.FindByValue(sSelecionado).Selected = True
+                If Not String.IsNullOrEmpty(sSelecionado) Then
+                    drpEtapa.SelectedValue = sSelecionado
                 End If
-
-                'If Not String.IsNullOrEmpty(sSelecionado) Then
-                '    drpEtapa.SelectedItem.Value = sSelecionado
-                'End If
             End If
-
         End If
 
     End Sub

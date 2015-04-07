@@ -1,7 +1,6 @@
 ﻿Imports System.Data.SqlClient
 Imports System.ComponentModel
 Imports System.Threading
-Imports System.Data
 
 Public Class ctlAtendimento
 
@@ -111,47 +110,23 @@ Public Class ctlAtendimento
         End Select
         conn.Open()
         Return cmd.ExecuteReader(CommandBehavior.CloseConnection)
-
     End Function
 
     Public Function Selecionar(ByVal numero As String) As SqlDataReader
         Dim conn = ctlUtil.GetConnection
-
-        Dim cmd As New SqlCommand("PR_LISTAR_ITENS_ATENDIMENTOOS_02", conn)
+        Dim cmd As New SqlCommand("PR_LISTAR_CAB_ATENDIMENTOOS_02", conn)
 
         cmd.CommandTimeout = conn.ConnectionTimeout
         cmd.CommandType = CommandType.StoredProcedure
-
         cmd.Parameters.Add(New SqlParameter("@P_LICENCIADO", HttpContext.Current.User.Identity.Name)) 'DirectCast(HttpContext.Current.Session("Usuario2"), ctlUsuario).UserCode))
         cmd.Parameters.Add(New SqlParameter("@P_FILIAL", ctlUtil.GetFilial)) 'DirectCast(HttpContext.Current.Session("Usuario2"), Usuario).Filial))
         cmd.Parameters.Add(New SqlParameter("@P_NUMEROATENDIMENTOOS", numero))
         conn.Open()
-        Return cmd.ExecuteReader(CommandBehavior.CloseConnection)        
-    End Function
-
-    Public Function SelecionarDt(ByVal numero As String) As DataTable
-        Dim conn = ctlUtil.GetConnection
-        Dim dt As New DataTable
-
-        Dim cmd As New SqlCommand("PR_LISTAR_ITENS_ATENDIMENTOOS_02", conn)
-
-        cmd.CommandTimeout = conn.ConnectionTimeout
-        cmd.CommandType = CommandType.StoredProcedure
-        conn.Open()
-
-        cmd.Parameters.Add(New SqlParameter("@P_LICENCIADO", HttpContext.Current.User.Identity.Name)) 'DirectCast(HttpContext.Current.Session("Usuario2"), ctlUsuario).UserCode))
-        cmd.Parameters.Add(New SqlParameter("@P_FILIAL", ctlUtil.GetFilial)) 'DirectCast(HttpContext.Current.Session("Usuario2"), Usuario).Filial))
-        cmd.Parameters.Add(New SqlParameter("@P_NUMEROATENDIMENTOOS", numero))
-        Dim da As New SqlDataAdapter(cmd)
-        da.Fill(dt)
-        cmd.ExecuteReader(CommandBehavior.CloseConnection)
-        Return dt
-
+        Return cmd.ExecuteReader(CommandBehavior.CloseConnection)
     End Function
 
     Public Function Atender(ByVal oFicha As ctlAtendimento) As ctlRetornoGenerico
         Dim oWS As New wsmicrosiga.ordemservico.WSORDEMSERVICO
-        Thread.Sleep(200000)
         Dim oTokenSiga As New wsmicrosiga.ordemservico.TKNSTRUCT
         oTokenSiga.CONTEUDO = HttpContext.Current.Session("NomeUsuario").ToString
         oTokenSiga.SENHA = DirectCast(HttpContext.Current.Session("Usuario2"), ctlUsuario).Hash
@@ -240,16 +215,19 @@ Public Class ctlAtendimento
         Dim conn = ctlUtil.GetConnection
         Dim dt As New DataTable
         Dim cmd As New SqlCommand("PR_LISTAR_ETAPAS_ATENDIMENTO", conn)
+        'Dim reader As SqlDataReader
 
         cmd.CommandTimeout = conn.ConnectionTimeout
         cmd.CommandType = CommandType.StoredProcedure
         cmd.Parameters.Add(New SqlParameter("@P_FILIAL", ctlUtil.GetFilial))
         cmd.Parameters.Add(New SqlParameter("@P_NUMATENDIMENTO", sNumAtendimento))
+        conn.Open()
 
         Dim da As New SqlDataAdapter(cmd)
         da.Fill(dt)
-        Return dt
 
+        Return dt
+        conn.Close()
     End Function
 
     Public Function IncluirEtapasAtendimento(sItem As String, sNumAtend As String, sCodEtapa As String, sDescricao As String, sDataInicio As String, sHoraInicio As String, sDataFim As String, sHoraFim As String, sDeletado As String) As SqlDataReader

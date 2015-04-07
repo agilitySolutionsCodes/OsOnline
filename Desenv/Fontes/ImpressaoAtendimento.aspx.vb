@@ -58,6 +58,9 @@ Public Class ImpressaoAtendimento
     Private Sub Preencher(ByVal reader As SqlDataReader)
 
         Dim dt As New DataTable
+        Dim dtItens As New DataTable
+        Dim oAtend As New ctlAtendimento
+
         If reader IsNot Nothing Then
             dt.Load(reader)
             reader.Close()
@@ -68,8 +71,6 @@ Public Class ImpressaoAtendimento
         lblNumero.Text = dt.Rows(0).Item("NumeroOS").ToString.Trim
         lblSequencia.Text = dt.Rows(0).Item("Sequencia").ToString.Trim
         
-
-
         If dt.Rows(0).Item("DataInicio") IsNot Nothing Then
             If IsDate(dt.Rows(0).Item("DataInicio")) Then
                 lblDataInicio.Text = DirectCast(dt.Rows(0).Item("DataInicio"), Date).ToShortDateString
@@ -119,8 +120,8 @@ Public Class ImpressaoAtendimento
             lblServExecutado.Text = servico
         End If
 
-        dt.DefaultView.RowFilter = " D_E_L_E_T_ <> '*' "
-        grdItens.DataSource = dt
+        dtItens = oAtend.ListarItensAtendimento(Request("Numero").Substring(0, 10))
+        grdItens.DataSource = dtItens
         grdItens.DataBind()
 
     End Sub
