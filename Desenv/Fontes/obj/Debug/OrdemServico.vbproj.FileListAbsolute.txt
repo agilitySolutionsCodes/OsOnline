@@ -66,3 +66,31 @@ C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\obj\Debug\Or
 C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\obj\Debug\OrdemServico.dll
 C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\obj\Debug\OrdemServico.xml
 C:\Users\Alexandre\Source\Workspaces\OS Online\oficial\OrdemServico\obj\Debug\OrdemServico.pdb
+C:\Codes\OsOnline\Desenv\Fontes\bin\OrdemServico.dll
+C:\Codes\OsOnline\Desenv\Fontes\bin\OrdemServico.pdb
+C:\Codes\OsOnline\Desenv\Fontes\bin\OrdemServico.xml
+C:\Codes\OsOnline\Desenv\Fontes\bin\AjaxControlToolkit.dll
+C:\Codes\OsOnline\Desenv\Fontes\bin\ar\AjaxControlToolkit.resources.dll
+C:\Codes\OsOnline\Desenv\Fontes\bin\cs\AjaxControlToolkit.resources.dll
+C:\Codes\OsOnline\Desenv\Fontes\bin\de\AjaxControlToolkit.resources.dll
+C:\Codes\OsOnline\Desenv\Fontes\bin\es\AjaxControlToolkit.resources.dll
+C:\Codes\OsOnline\Desenv\Fontes\bin\fr\AjaxControlToolkit.resources.dll
+C:\Codes\OsOnline\Desenv\Fontes\bin\he\AjaxControlToolkit.resources.dll
+C:\Codes\OsOnline\Desenv\Fontes\bin\hi\AjaxControlToolkit.resources.dll
+C:\Codes\OsOnline\Desenv\Fontes\bin\it\AjaxControlToolkit.resources.dll
+C:\Codes\OsOnline\Desenv\Fontes\bin\ja\AjaxControlToolkit.resources.dll
+C:\Codes\OsOnline\Desenv\Fontes\bin\ko\AjaxControlToolkit.resources.dll
+C:\Codes\OsOnline\Desenv\Fontes\bin\nl\AjaxControlToolkit.resources.dll
+C:\Codes\OsOnline\Desenv\Fontes\bin\pl\AjaxControlToolkit.resources.dll
+C:\Codes\OsOnline\Desenv\Fontes\bin\pt\AjaxControlToolkit.resources.dll
+C:\Codes\OsOnline\Desenv\Fontes\bin\ru\AjaxControlToolkit.resources.dll
+C:\Codes\OsOnline\Desenv\Fontes\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Codes\OsOnline\Desenv\Fontes\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Codes\OsOnline\Desenv\Fontes\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Codes\OsOnline\Desenv\Fontes\obj\Debug\OrdemServico.Resources.resources
+C:\Codes\OsOnline\Desenv\Fontes\obj\Debug\OrdemServico.vbproj.GenerateResource.Cache
+C:\Codes\OsOnline\Desenv\Fontes\obj\Debug\OrdemServico.dll
+C:\Codes\OsOnline\Desenv\Fontes\obj\Debug\OrdemServico.xml
+C:\Codes\OsOnline\Desenv\Fontes\obj\Debug\OrdemServico.pdb
+C:\Codes\OsOnline\Desenv\Fontes\bin\AjaxMin.dll
+C:\Codes\OsOnline\Desenv\Fontes\obj\Debug\OrdemServico.vbprojResolveAssemblyReference.cache
